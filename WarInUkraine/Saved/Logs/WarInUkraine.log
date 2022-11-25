@@ -782,3 +782,75 @@ Recommended: 516.25
 [2022.11.25-21.22.27:481][762]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.25-21.22.27:481][762]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00E01C3B5C852C4D01_1223361215
 [2022.11.25-21.22.27:481][762]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_40
+[2022.11.25-21.23.43:478][697]LogDerivedDataCache: C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.241 and deleted 7 file(s) with total size 0 MiB.
+[2022.11.25-21.23.58:512][464]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: 000009F3C236DC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC649005E-49C1-4745-16FD-649CB7D1760E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b21d18a943af6719011648b706085244%7C238e7d343218481f80e728d7e7a580e3%7C742e9166-fbcc-41e9-8654-e041e9baa62c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: 000009F3C236DC00: request failed, libcurl error: 0 (No error)
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: 000009F3C236DC00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x9f3bd0c0000 [can pipeline])
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: 000009F3C236DC00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: 000009F3C236DC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.225.85.65) port 443 (#0))
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: 000009F3C236DC00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: 000009F3C236DC00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: 000009F3C236DC00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: 000009F3C236DC00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: 000009F3C236DC00: libcurl info message cache 7 (Closing connection 0)
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: 000009F3C236DC00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.11.25-21.24.02:740][966]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC649005E-49C1-4745-16FD-649CB7D1760E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=b21d18a943af6719011648b706085244%7C238e7d343218481f80e728d7e7a580e3%7C742e9166-fbcc-41e9-8654-e041e9baa62c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.25-21.25.06:326][532]LogShaderCompilers: Display: ================================================
+[2022.11.25-21.25.06:326][532]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.25-21.25.06:326][532]LogShaderCompilers: Display: Total job queries 2523, among them cache hits 0 (0.00%)
+[2022.11.25-21.25.06:326][532]LogShaderCompilers: Display: Tracking 560 distinct input hashes that result in 342 distinct outputs (61.07%)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: RAM used: 1.35 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.08%
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Shaders Compiled: 2523
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Jobs assigned 600, completed 560 (93.33%)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Time job spent in pending queue: average 90.66 s, longest 199.34 s
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Job execution time: average 14.19 s, max 22.05 s
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Job life time (pending + execution): average 98.01 s, max 199.34
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 199.34 s
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Jobs were issued in 60 batches (only local compilation was used), average 10.00 jobs/batch
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Average processing rate: 2.81 jobs/sec
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Effective parallelization: 3.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled    1 times, average 4.24 sec, max 4.24 sec, min 4.24 sec)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyLQ (compiled    3 times, average 3.49 sec, max 3.74 sec, min 3.09 sec)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 3.44 sec, max 4.33 sec, min 2.17 sec)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display:         TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 3.42 sec, max 3.94 sec, min 3.00 sec)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyHQ (compiled    3 times, average 3.34 sec, max 3.94 sec, min 2.81 sec)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.00% of total time (compiled   11 times, average 3.29 sec, max 4.29 sec, min 1.67 sec)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 3.77% of total time (compiled   12 times, average 2.27 sec, max 3.25 sec, min 1.53 sec)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.40% of total time (compiled   17 times, average 1.45 sec, max 2.13 sec, min 0.85 sec)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display:                                             FDebugViewModeVS - 3.15% of total time (compiled   14 times, average 1.63 sec, max 2.41 sec, min 1.13 sec)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.00% of total time (compiled   18 times, average 1.21 sec, max 2.72 sec, min 0.70 sec)
+[2022.11.25-21.25.06:327][532]LogShaderCompilers: Display: ================================================
+[2022.11.25-21.28.10:251][338]LogShaderCompilers: Display: ================================================
+[2022.11.25-21.28.10:251][338]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.25-21.28.10:251][338]LogShaderCompilers: Display: Total job queries 2523, among them cache hits 0 (0.00%)
+[2022.11.25-21.28.10:251][338]LogShaderCompilers: Display: Tracking 1220 distinct input hashes that result in 610 distinct outputs (50.00%)
+[2022.11.25-21.28.10:251][338]LogShaderCompilers: Display: RAM used: 2.41 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.15%
+[2022.11.25-21.28.10:251][338]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.25-21.28.10:251][338]LogShaderCompilers: Display: Shaders Compiled: 2523
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: Jobs assigned 1260, completed 1220 (96.83%)
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: Time job spent in pending queue: average 193.34 s, longest 382.87 s
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: Job execution time: average 12.57 s, max 22.05 s
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: Job life time (pending + execution): average 200.09 s, max 382.90
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 383.25 s
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: Jobs were issued in 126 batches (only local compilation was used), average 10.00 jobs/batch
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: Average processing rate: 3.18 jobs/sec
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: Effective parallelization: 3.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled    1 times, average 4.24 sec, max 4.24 sec, min 4.24 sec)
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 3.29 sec, max 3.99 sec, min 2.55 sec)
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyLQ (compiled    6 times, average 3.21 sec, max 3.74 sec, min 2.57 sec)
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display:         TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    6 times, average 3.21 sec, max 3.94 sec, min 2.74 sec)
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyHQ (compiled    6 times, average 3.13 sec, max 3.94 sec, min 2.81 sec)
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.78% of total time (compiled   27 times, average 2.97 sec, max 4.29 sec, min 1.67 sec)
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 3.85% of total time (compiled   25 times, average 2.14 sec, max 3.25 sec, min 1.38 sec)
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.56% of total time (compiled   39 times, average 1.27 sec, max 2.01 sec, min 0.45 sec)
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.32% of total time (compiled   39 times, average 1.18 sec, max 1.94 sec, min 0.42 sec)
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display:                                             FDebugViewModeVS - 3.24% of total time (compiled   34 times, average 1.32 sec, max 2.41 sec, min 0.45 sec)
+[2022.11.25-21.28.10:252][338]LogShaderCompilers: Display: ================================================
