@@ -1,0 +1,1751 @@
+﻿Log file open, 12/06/22 18:38:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=7928)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WarInUkraine
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1147] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b21d18a943af6719011648b706085244"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.431386
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-778E3BE44EB7C87F88CA2CAB9C24EB16
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosVehiclesPlugin/Content/' mounted to '/ChaosVehiclesPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1147] (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/Unrial5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.12.06-16.38.58:550][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.12.06-16.38.58:550][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.12.06-16.38.58:550][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.12.06-16.38.58:551][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.12.06-16.38.58:553][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.12.06-16.38.58:553][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.12.06-16.38.58:553][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.12.06-16.38.58:553][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.12.06-16.38.58:553][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.12.06-16.38.58:553][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.12.06-16.38.58:553][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.12.06-16.38.58:553][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.12.06-16.38.58:553][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.12.06-16.38.58:553][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.12.06-16.38.58:553][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.12.06-16.38.59:000][  0]LogD3D12RHI: Aftermath initialized
+[2022.12.06-16.38.59:000][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.12.06-16.39.00:291][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1050 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.12.06-16.39.00:291][  0]LogD3D12RHI: Adapter has 4018MB of dedicated video memory, 0MB of dedicated system memory, and 16353MB of shared system memory, 1 output[s]
+[2022.12.06-16.39.00:304][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.12.06-16.39.00:305][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16353MB of shared system memory, 0 output[s]
+[2022.12.06-16.39.00:318][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.12.06-16.39.00:318][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.06-16.39.00:318][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.12.06-16.39.00:318][  0]LogHAL: Display: Platform has ~ 32 GB [34296745984 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.06-16.39.00:318][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.12.06-16.39.00:318][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.12.06-16.39.00:318][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.06-16.39.00:319][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.12.06-16.39.00:319][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Saved/Config/WindowsEditor/Editor.ini]
+[2022.12.06-16.39.00:319][  0]LogInit: Computer: USER-PC
+[2022.12.06-16.39.00:319][  0]LogInit: User: New
+[2022.12.06-16.39.00:319][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.12.06-16.39.00:319][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.06-16.39.00:319][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.12.06-16.39.00:319][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.12.06-16.39.00:319][  0]LogMemory: Process Physical Memory: 261.72 MB used, 270.72 MB peak
+[2022.12.06-16.39.00:319][  0]LogMemory: Process Virtual Memory: 207.66 MB used, 223.69 MB peak
+[2022.12.06-16.39.00:319][  0]LogMemory: Physical Memory: 5087.23 MB used,  27620.70 MB free, 32707.93 MB total
+[2022.12.06-16.39.00:319][  0]LogMemory: Virtual Memory: 8405.56 MB used,  29166.37 MB free, 37571.93 MB total
+[2022.12.06-16.39.00:319][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.12.06-16.39.00:321][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.06-16.39.00:333][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.12.06-16.39.00:334][  0]LogInit: Using OS detected language (ru-RU).
+[2022.12.06-16.39.00:334][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.12.06-16.39.00:337][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so 'ru' will be used for the language.
+[2022.12.06-16.39.00:337][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.12.06-16.39.00:337][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.12.06-16.39.00:337][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.12.06-16.39.00:337][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.12.06-16.39.00:337][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.12.06-16.39.00:337][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.12.06-16.39.00:338][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.12.06-16.39.00:338][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.06-16.39.00:345][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.12.06-16.39.00:345][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - (Keyboard).
+[2022.12.06-16.39.00:345][  0]LogWindowsTextInputMethodSystem:   - Английский (США) - (Keyboard).
+[2022.12.06-16.39.00:345][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - Сенсорный ввод — исправление (TSF IME).
+[2022.12.06-16.39.00:345][  0]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.12.06-16.39.00:357][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.06-16.39.00:357][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.06-16.39.00:866][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.12.06-16.39.00:906][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.12.06-16.39.00:906][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.12.06-16.39.01:004][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.12.06-16.39.01:004][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.12.06-16.39.01:004][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.12.06-16.39.01:005][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.12.06-16.39.01:005][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.12.06-16.39.01:005][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.12.06-16.39.01:005][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.12.06-16.39.01:005][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.12.06-16.39.01:005][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.12.06-16.39.01:005][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.12.06-16.39.01:005][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.12.06-16.39.01:005][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.12.06-16.39.01:005][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.12.06-16.39.01:146][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.12.06-16.39.01:152][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.12.06-16.39.01:162][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.12.06-16.39.01:555][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.12.06-16.39.01:555][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.12.06-16.39.01:649][  0]LogD3D12RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.06-16.39.01:649][  0]LogWindows: Attached monitors:
+[2022.12.06-16.39.01:649][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.12.06-16.39.01:649][  0]LogWindows: Found 1 attached monitors.
+[2022.12.06-16.39.01:649][  0]LogWindows: EnumDisplayDevices:
+[2022.12.06-16.39.01:649][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.12.06-16.39.01:649][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.12.06-16.39.01:650][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.12.06-16.39.01:650][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.12.06-16.39.01:651][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.06-16.39.01:651][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2022.12.06-16.39.01:651][  0]LogD3D12RHI:   Driver Version: 471.96 (internal:30.0.14.7196, unified:471.96)
+[2022.12.06-16.39.01:651][  0]LogD3D12RHI:      Driver Date: 8-27-2021
+[2022.12.06-16.39.01:651][  0]LogRHI: Texture pool is 2151 MB (70% of 3073 MB)
+[2022.12.06-16.39.01:651][  0]LogD3D12RHI: Async texture creation enabled
+[2022.12.06-16.39.01:651][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.12.06-16.39.01:670][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.12.06-16.39.04:078][  0]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.12.06-16.39.04:080][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1050 Ti
+Installed: 471.96
+Recommended: 516.25
+[2022.12.06-16.39.04:088][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyReport_0.log" -log="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyLog_0.log" -project="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject"  -platform=all'
+[2022.12.06-16.39.04:089][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/EpicGames/Unrial5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyReport_0.log" -log="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyLog_0.log" -project="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject"  -platform=all" ]
+[2022.12.06-16.39.04:112][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.12.06-16.39.04:118][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.12.06-16.39.04:118][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.12.06-16.39.04:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.06-16.39.04:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.06-16.39.04:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.06-16.39.04:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.06-16.39.04:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.06-16.39.04:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.06-16.39.04:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.06-16.39.04:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.06-16.39.04:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.06-16.39.04:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.06-16.39.04:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.12.06-16.39.04:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.12.06-16.39.04:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.06-16.39.04:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.06-16.39.04:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.06-16.39.04:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.12.06-16.39.04:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.06-16.39.04:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.06-16.39.04:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.12.06-16.39.04:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.12.06-16.39.04:153][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.12.06-16.39.04:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.06-16.39.04:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.06-16.39.04:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.06-16.39.04:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.12.06-16.39.04:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.06-16.39.04:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.06-16.39.04:160][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.12.06-16.39.04:166][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.06-16.39.04:169][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.12.06-16.39.04:170][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.12.06-16.39.04:170][  0]LogTargetPlatformManager:   ADPCM
+[2022.12.06-16.39.04:170][  0]LogTargetPlatformManager:   PCM
+[2022.12.06-16.39.04:172][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.12.06-16.39.04:172][  0]LogTargetPlatformManager:   BINKA
+[2022.12.06-16.39.04:172][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.12.06-16.39.04:172][  0]LogTargetPlatformManager:   OGG
+[2022.12.06-16.39.04:172][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.12.06-16.39.04:172][  0]LogTargetPlatformManager:   OPUS
+[2022.12.06-16.39.04:210][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2022.12.06-16.39.04:210][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   SF_METAL
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.12.06-16.39.04:215][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.12.06-16.39.04:219][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.12.06-16.39.04:219][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.12.06-16.39.04:219][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.12.06-16.39.04:219][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.12.06-16.39.04:219][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.12.06-16.39.04:219][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.12.06-16.39.04:219][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.12.06-16.39.04:219][  0]LogRendererCore: Ray tracing is disabled. Reason: not supported by current RHI.
+[2022.12.06-16.39.04:219][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Works/WarInUkraine/WarInUkraine/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.12.06-16.39.04:310][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.12.06-16.39.04:310][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Works/WarInUkraine/WarInUkraine/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.12.06-16.39.04:330][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.12.06-16.39.04:332][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Works/WarInUkraine/WarInUkraine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.06-16.39.04:332][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.12.06-16.39.04:332][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Works/WarInUkraine/WarInUkraine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.06-16.39.04:332][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.12.06-16.39.04:357][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.12.06-16.39.04:357][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.06-16.39.04:357][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.12.06-16.39.04:362][  0]LogDerivedDataCache: Speed tests for C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.12.06-16.39.04:362][  0]LogDerivedDataCache: Display: Performance to C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1637.35MBs, RandomWriteSpeed=233.16MBs. Assigned SpeedClass 'Local'
+[2022.12.06-16.39.04:363][  0]LogDerivedDataCache: Using Local data cache path C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.06-16.39.04:363][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.06-16.39.04:363][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.12.06-16.39.04:370][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.12.06-16.39.04:370][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.12.06-16.39.04:371][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../Works/WarInUkraine/WarInUkraine/Intermediate/Shaders/WorkingDirectory/4704/).
+[2022.12.06-16.39.04:371][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/New/AppData/Local/Temp/UnrealShaderWorkingDir/B3E0CE9F49CA15A985A698B7B698ECFF/'.
+[2022.12.06-16.39.04:371][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.06-16.39.04:371][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.12.06-16.39.06:214][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.06-16.39.06:214][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.06-16.39.06:259][  0]LogAssetRegistry: FAssetRegistry took 0.0144 seconds to start up
+[2022.12.06-16.39.06:263][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.12.06-16.39.06:510][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.12.06-16.39.06:511][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.12.06-16.39.06:794][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.06-16.39.06:794][  0]LogDeviceProfileManager: Active device profile: [0000084EF2B7F340][0000084EE9D10000 50] WindowsEditor
+[2022.12.06-16.39.06:794][  0]LogDeviceProfileManager: Profiles: [0000084EF2B7EE00][0000084EE9D17800 50] Windows, [0000084EF2B7F340][0000084EE9D10000 50] WindowsEditor, [0000084EF2B7C780][0000084EED1FC800 50] WindowsServer, [0000084EF2B7EA80][0000084EE9CE5000 50] WindowsClient, [0000084EF2B7F180][0000084EE9D12800 50] IOS, [0000084EF2B7B440][0000084EE99BC800 50] iPadAir2, [0000084EF2B7FDC0][0000084EF2F42800 50] IPadPro, [0000084EF27BEE00][0000084EF2F40000 50] iPadAir3, [0000084EF2B7BB40][0000084EF2F47800 50] iPadAir4, [0000084EF2B7AD40][0000084EF2F4A000 50] iPadMini4, [0000084EF2B7CB00][0000084EF2F4C800 50] iPadMini5, [0000084EF2B7EC40][0000084EDE6E0000 50] iPadMini6, [0000084EF2F82680][0000084EF2F65000 50] iPhone6S, [0000084EF2F82A00][0000084EF2F62800 50] iPhone7, [0000084EF2F82D80][0000084EF2F60000 50] iPodTouch7, [0000084EF2F808C0][0000084EF2F6A000 50] iPhone6SPlus, [0000084EF2F801C0][0000084EF2F6C800 50] iPhone7Plus, [0000084EF2F81180][0000084EF2F45000 50] iPhoneSE, [0000084EF2F82840][0000084EF2F70000 50] iPhone8, [0000084EF2F82BC0][0000084EF2F75000 50] iPhone8Plus, [0000084EF2F816C0][0000084EF2F77800 50] iPhoneX, [0000084EF2F839C0][0000084EF2F7A000 50] iPhoneXS, [0000084EF2F80A80][0000084EF2F7C800 50] iPhoneXSMax, [0000084EF2F83100][0000084EF2F67800 50] iPhoneXR, [0000084EF2F81500][0000084EF2F90000 50] iPhone11, [0000084EF2F83B80][0000084EF2F95000 50] iPhone11Pro, [0000084EF2F80540][0000084EF2F97800 50] iPhone11ProMax, [0000084EF2F81340][0000084EF2F9A000 50] iPhoneSE2, [0000084EF2F81A40][0000084EF2F9C800 50] iPhone12Mini, [0000084EF2F81F80][0000084EF2F72800 50] iPhone12, [0000084EF2F84980][0000084EF2FA0000 50] iPhone12Pro, [0000084EF2F82300][0000084EF2FA5000 50] iPhone12ProMax, [0000084EF2F840C0][0000084EF2FA7800 50] iPhone13Mini, [0000084EF2F824C0][0000084EF2FAA000 50] iPhone13, [0000084EF2F84B40][0000084EF2FAC800 50] iPhone13Pro, [0000084EF2F80000][0000084EF2F92800 50] iPhone13ProMax, [0000084EF2F82F40][0000084EF2FB0000 50] iPadPro105, [0000084EF2F80FC0][0000084EF2FB5000 50] iPadPro129, [0000084EF2F83800][0000084EF2FB7800 50] iPadPro97, [0000084EF2F85940][0000084EF2FBA000 50] iPadPro2_129, [0000084EF2F832C0][0000084EF2FBC800 50] iPad5, [0000084EF2F85080][0000084EF2FA2800 50] iPad6, [0000084EF2F83D40][0000084EF2FC0000 50] iPad7, [0000084EF2F85B00][0000084EF2FC5000 50] iPad8, [0000084EF2F83640][0000084EF2FC7800 50] iPad9, [0000084EF2F83F00][0000084EF2FCA000 50] iPadPro11, [0000084EF2F81880][0000084EF2FCC800 50] iPadPro2_11, [0000084EF2F847C0][0000084EF2FB2800 50] iPadPro3_11, [0000084EF2F86900][0000084EF2FD0000 50] iPadPro3_129, [0000084EF2F84280][0000084EF2FD5000 50] iPadPro4_129, [0000084EF2F86040][0000084EF2FD7800 50] iPadPro5_129, [0000084EF2F84D00][0000084EF2FDA000 50] AppleTV, [0000084EF2F86AC0][0000084EF2FDC800 50] AppleTV4K, [0000084EF2F84600][0000084EF2FC2800 50] TVOS, [0000084EF2F88C00][0000084EF2FE2800 50] Mac, [0000084EF2F88F80][0000084EF2FE0000 50] MacEditor, [0000084EF2F83480][0000084EF2FE7800 50] MacClient, [0000084EF2F878C0][0000084EF2FEA000 50] MacServer, [0000084EF2F80C40][0000084EF2FD2800 50] Linux, [0000084EF2F85CC0][0000084EF2FEC800 50] LinuxEditor, [0000084EF2F88DC0][0000084EF2FF0000 50] LinuxArm64Editor, [0000084EF2F88340][0000084EF2FF5000 50] LinuxArm64, [0000084EF2F85400][0000084EF2FF7800 50] LinuxClient, [0000084EF2F87700][0000084EF2FFA000 50] LinuxArm64Client, [0000084EF2F87540][0000084EF2FFC800 50] LinuxServer, [0000084EF2F89A00][0000084EF2FE5000 50] LinuxArm64Server, [0000084EF2F88500][0000084EF4190000 50] Android, [0000084EF2F84440][0000084EF4195000 50] Android_Preview_OpenGL, [0000084EF2F87C40][0000084EF4197800 50] Android_Preview_Vulkan, [0000084EF2F86200][0000084EF419A000 50] Android_Low, [0000084EF2F87A80][0000084EF419C800 50] Android_Mid, [0000084EF2F80E00][0000084EF2FF2800 50] Android_High, [0000084EF2F80380][0000084EF41A0000 50] Android_Default, [0000084EF2F85240][0000084EF41A5000 50] Android_Adreno4xx, [0000084EF2F85780][0000084EF41A7800 50] Android_Adreno5xx_Low, [0000084EF2F86C80][0000084EF41AA000 50] Android_Adreno5xx, [0000084EF2F88880][0000084EF41AC800 50] Android_Adreno6xx, [0000084EF2F80700][0000084EF4192800 50] Android_Adreno6xx_Vulkan, [0000084EF2F89680][0000084EF41B0000 50] Android_Adreno7xx, [0000084EF2F89140][0000084EF41B5000 50] Android_Adreno7xx_Vulkan, [0000084EF2F82140][0000084EF41B7800 50] Android_Mali_T6xx, [0000084EF2F89BC0][0000084EF41BA000 50] Android_Mali_T7xx, [0000084EF2F88A40][0000084EF41BC800 50] Android_Mali_T8xx, [0000084EF2F863C0][0000084EF41A2800 50] Android_Mali_G71, [0000084EF2F8A9C0][0000084EF41C0000 50] Android_Mali_G72, [0000084EF2F871C0][0000084EF41C5000 50] Android_Mali_G72_Vulkan, [0000084EF2F89F40][0000084EF41C7800 50] Android_Mali_G76, [0000084EF2F87000][0000084EF41CA000 50] Android_Mali_G76_Vulkan, [0000084EF2F8AB80][0000084EF41CC800 50] Android_Mali_G77, [0000084EF2F88180][0000084EF41B2800 50] Android_Mali_G77_Vulkan, [0000084EF2F89D80][0000084EF41D0000 50] Android_Mali_G78, [0000084EF2F89840][0000084EF41D5000 50] Android_Mali_G78_Vulkan, [0000084EF2F85E80][0000084EF41D7800 50] Android_Mali_G710, [0000084EF2F8B980][0000084EF41DA000 50] Android_Mali_G710_Vulkan, [0000084EF2F855C0][0000084EF41DC800 50] Android_Xclipse_920, [0000084EF2F8AF00][0000084EF41C2800 50] Android_Xclipse_920_Vulkan, [0000084EF2F87380][0000084EF41E0000 50] Android_Vulkan_SM5, [0000084EF2F8B600][0000084EF41E5000 50] Android_PowerVR_G6xxx, [0000084EF2F8BB40][0000084EF41E7800 50] Android_PowerVR_GT7xxx, [0000084EF2F8A640][0000084EF41EA000 50] Android_PowerVR_GE8xxx, [0000084EF2F8B7C0][0000084EF41EC800 50] Android_PowerVR_GM9xxx, [0000084EF2F8C780][0000084EF41D2800 50] Android_PowerVR_GM9xxx_Vulkan, [0000084EF2F8AD40][0000084EF41F0000 50] Android_TegraK1, [0000084EF2F8BEC0][0000084EF41F5000 50] Android_Unknown_Vulkan, [0000084EF2F8B280][0000084EF41F7800 50] Oculus_Quest, [0000084EF2F8C940][0000084EF41FA000 50] Oculus_Quest2, [0000084EF2F8BD00][0000084EF41FC800 50] HoloLens, 
+[2022.12.06-16.39.06:795][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.12.06-16.39.06:824][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.12.06-16.39.07:103][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.06-16.39.07:103][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.06-16.39.07:103][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.06-16.39.07:103][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.06-16.39.07:103][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.06-16.39.07:118][  0]LogNetVersion: WarInUkraine 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3806673830)
+[2022.12.06-16.39.07:300][  0]LogSlate: Border
+[2022.12.06-16.39.07:300][  0]LogSlate: BreadcrumbButton
+[2022.12.06-16.39.07:300][  0]LogSlate: Default
+[2022.12.06-16.39.07:300][  0]LogSlate: Icons.Save
+[2022.12.06-16.39.07:300][  0]LogSlate: Icons.Toolbar.Settings
+[2022.12.06-16.39.07:300][  0]LogSlate: ListView
+[2022.12.06-16.39.07:300][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.12.06-16.39.07:300][  0]LogSlate: SoftwareCursor_Grab
+[2022.12.06-16.39.07:300][  0]LogSlate: TableView.DarkRow
+[2022.12.06-16.39.07:300][  0]LogSlate: TableView.Row
+[2022.12.06-16.39.07:300][  0]LogSlate: TreeView
+[2022.12.06-16.39.07:805][  0]SourceControl: Source control is disabled
+[2022.12.06-16.39.07:920][  0]SourceControl: Source control is disabled
+[2022.12.06-16.39.07:920][  0]SourceControl: Source control is disabled
+[2022.12.06-16.39.08:109][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.12.06-16.39.08:109][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.12.06-16.39.08:109][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.06-16.39.09:381][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2C17D90A4BCAEB7DE46F3DA196107587 | Instance: 495915524CD24A93177604ACC5FBE4E1 (USER-PC-4704).
+[2022.12.06-16.39.09:416][  0]LogPython: Using Python 3.9.7
+[2022.12.06-16.39.10:535][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.06-16.39.10:544][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.06-16.39.10:694][  0]SourceControl: Source control is disabled
+[2022.12.06-16.39.10:721][  0]SourceControl: Source control is disabled
+[2022.12.06-16.39.10:733][  0]SourceControl: Source control is disabled
+[2022.12.06-16.39.11:131][  0]LogUProjectInfo: Found projects:
+[2022.12.06-16.39.11:236][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.06-16.39.11:304][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.06-16.39.11:328][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.06-16.39.11:328][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.06-16.39.11:438][  0]LogCollectionManager: Loaded 0 collections in 0.000762 seconds
+[2022.12.06-16.39.11:527][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Saved/Collections/' took 0.00s
+[2022.12.06-16.39.11:527][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/Developers/New/Collections/' took 0.00s
+[2022.12.06-16.39.11:527][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/Collections/' took 0.00s
+[2022.12.06-16.39.11:888][  0]LogClass: Display: FloatProperty FParticleTransformTrack::BeginOffset is not initialized properly. Module:ChaosCaching File:Public/Chaos/ChaosCache.h
+[2022.12.06-16.39.11:888][  0]LogClass: Display: BoolProperty FParticleTransformTrack::bDeactivateOnEnd is not initialized properly. Module:ChaosCaching File:Public/Chaos/ChaosCache.h
+[2022.12.06-16.39.11:906][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2022.12.06-16.39.11:911][  0]LogEngine: Initializing Engine...
+[2022.12.06-16.39.11:929][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.12.06-16.39.11:932][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.06-16.39.12:361][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.06-16.39.12:362][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.39.12:378][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.39.12:428][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.06-16.39.12:428][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.06-16.39.12:457][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.06-16.39.12:458][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.06-16.39.12:458][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.12.06-16.39.12:458][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.06-16.39.12:458][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.06-16.39.12:458][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.39.12:458][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.39.12:458][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.39.12:458][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.39.12:458][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.39.12:458][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.39.12:458][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.39.12:458][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.39.12:459][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.39.12:459][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.39.12:459][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.39.12:464][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.39.12:506][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.39.12:506][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.39.12:508][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.39.12:508][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.39.12:508][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.12.06-16.39.12:508][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.06-16.39.12:510][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.06-16.39.12:510][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.12.06-16.39.12:510][  0]LogInit: FAudioDevice initialized.
+[2022.12.06-16.39.12:510][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.06-16.39.12:510][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.06-16.39.12:510][  0]LogInit: Texture streaming: Enabled
+[2022.12.06-16.39.12:555][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.12.06-16.39.12:565][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.06-16.39.12:602][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.12.06-16.39.12:611][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.12.06-16.39.12:611][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.12.06-16.39.44:877][  0]LogLiveCoding: Display: First instance in process group "UE_WarInUkraine_0x2c562714", spawning console
+[2022.12.06-16.39.44:878][  0]LogLiveCoding: Display: Waiting for server
+[2022.12.06-16.39.44:878][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.12.06-16.39.44:901][  0]LogInit: Transaction tracking system initialized
+[2022.12.06-16.39.45:005][  0]BlueprintLog: New page: Editor Load
+[2022.12.06-16.39.45:267][  0]LocalizationService: Localization service is disabled
+[2022.12.06-16.39.45:334][  0]TimingProfiler: Initialize
+[2022.12.06-16.39.45:334][  0]TimingProfiler: OnSessionChanged
+[2022.12.06-16.39.45:334][  0]LoadingProfiler: Initialize
+[2022.12.06-16.39.45:334][  0]LoadingProfiler: OnSessionChanged
+[2022.12.06-16.39.45:334][  0]NetworkingProfiler: Initialize
+[2022.12.06-16.39.45:334][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.06-16.39.45:334][  0]MemoryProfiler: Initialize
+[2022.12.06-16.39.45:334][  0]MemoryProfiler: OnSessionChanged
+[2022.12.06-16.39.46:521][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/' took 0.03s
+[2022.12.06-16.39.46:521][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.12.06-16.39.46:622][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.06-16.39.46:624][  0]SourceControl: Source control is disabled
+[2022.12.06-16.39.46:624][  0]LogUnrealEdMisc: Loading editor; pre map load, took 51.693
+[2022.12.06-16.39.46:624][  0]Cmd: MAP LOAD FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.06-16.39.46:682][  0]LightingResults: New page: Lighting Build
+[2022.12.06-16.39.46:692][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.39.46:692][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.39.46:692][  0]MapCheck: New page: Map Check
+[2022.12.06-16.39.46:692][  0]LightingResults: New page: Lighting Build
+[2022.12.06-16.39.46:703][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-16.39.46:707][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.06-16.39.47:361][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\FirstPerson\Maps\FirstPersonMap.umap: [Compiler] InputAction Event references unknown Action 'OutPaused' for  InputAction OutPaused
+[2022.12.06-16.39.47:648][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.12.06-16.39.47:657][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.39.47:658][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.12.06-16.39.47:678][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.06-16.39.47:678][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.12.06-16.39.50:404][  0]LogWorldPartition: Display: WorldPartition initialize took 2.72 sec
+[2022.12.06-16.39.50:636][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.06-16.39.50:648][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.12.06-16.39.50:648][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.06-16.39.50:649][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,382ms to complete.
+[2022.12.06-16.39.50:649][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 4.025
+[2022.12.06-16.39.50:685][  0]LogUnrealEdMisc: Total Editor Startup Time, took 55.754
+[2022.12.06-16.39.50:685][  0]LogShaderCompilers: Display: ================================================
+[2022.12.06-16.39.50:685][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.06-16.39.50:685][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.12.06-16.39.50:685][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.12.06-16.39.50:685][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.12.06-16.39.50:685][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.06-16.39.50:685][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.12.06-16.39.50:685][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.12.06-16.39.50:685][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.12.06-16.39.50:685][  0]LogShaderCompilers: Display: ================================================
+[2022.12.06-16.39.50:766][  0]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.12.06-16.39.51:194][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.39.51:228][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.39.51:238][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.39.51:245][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.39.51:773][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.12.06-16.39.51:781][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-16.39.51:805][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.12.06-16.39.51:805][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-16.39.51:897][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.12.06-16.39.51:897][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-16.39.51:922][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.12.06-16.39.51:922][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-16.39.51:931][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.12.06-16.39.51:931][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-16.39.51:933][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.12.06-16.39.51:933][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-16.39.51:951][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.12.06-16.39.51:951][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-16.39.51:960][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.12.06-16.39.51:960][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-16.39.51:962][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.12.06-16.39.51:962][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-16.39.51:963][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.12.06-16.39.51:963][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.06-16.39.51:964][  0]LogFeaturePack: Error: Error in Feature pack D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.12.06-16.39.53:580][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.06-16.39.53:629][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.06-16.39.53:655][  0]LogSlate: Took 0.008934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.06-16.39.53:679][  0]LogSlate: Took 0.022395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.06-16.39.53:694][  0]LogSlate: Took 0.013896 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.06-16.39.53:745][  0]LogViewport: Scene viewport resized to 1360x476, mode Windowed.
+[2022.12.06-16.39.54:222][  0]LogSlate: Took 0.001506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.06-16.39.55:465][  0]LogStall: Startup...
+[2022.12.06-16.39.55:467][  0]LogStall: Startup complete.
+[2022.12.06-16.39.55:479][  0]LogLoad: (Engine Initialization) Total time: 60.55 seconds
+[2022.12.06-16.39.55:479][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.06-16.39.55:612][  0]LogAssetRegistry: Asset discovery search completed in 49.3550 seconds
+[2022.12.06-16.39.55:643][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.12.06-16.39.55:737][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.06-16.41.05:864][922]LogDerivedDataCache: C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.178 and deleted 239 file(s) with total size 16 MiB.
+[2022.12.06-16.43.08:437][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.12.06-16.43.08:784][616]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2022.12.06-16.43.08:970][616]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kvik/KvikSave/Test_Car.Test_Car
+[2022.12.06-16.43.08:987][616]Cmd: MAP LOAD FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/KvikSave/Test_Car.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.06-16.43.08:989][616]LightingResults: New page: Lighting Build
+[2022.12.06-16.43.08:989][616]LoadErrors: New page: Loading map: Test_Car.umap
+[2022.12.06-16.43.09:001][616]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.43.09:009][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.43.09:015][616]MapCheck: New page: Map Check
+[2022.12.06-16.43.09:015][616]LightingResults: New page: Lighting Build
+[2022.12.06-16.43.09:025][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-16.43.09:044][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.12.06-16.43.09:045][616]LogShaderCompilers: Display: ================================================
+[2022.12.06-16.43.09:045][616]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.06-16.43.09:045][616]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.12.06-16.43.09:045][616]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.12.06-16.43.09:045][616]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.12.06-16.43.09:045][616]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.06-16.43.09:045][616]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.12.06-16.43.09:045][616]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.12.06-16.43.09:045][616]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.12.06-16.43.09:045][616]LogShaderCompilers: Display: ================================================
+[2022.12.06-16.43.09:047][616]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.43.09:047][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.43.09:058][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.06-16.43.09:067][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.12.06-16.43.09:072][616]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test_Car'.
+[2022.12.06-16.43.09:072][616]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.43.09:072][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.43.09:072][616]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.43.09:505][616]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.06-16.43.09:516][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.06-16.43.09:527][616]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.06-16.43.09:528][616]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2022.12.06-16.43.09:528][616]LogFileHelpers: Loading map 'Test_Car' took 0.540
+[2022.12.06-16.43.10:523][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.12.06-16.43.19:962][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.12.06-16.43.31:981][196]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../BlenderSave/BTR_90.fbx)
+[2022.12.06-16.43.32:114][196]LogFbx: Loading FBX Scene from ../../../../../../BlenderSave/BTR_90.fbx
+[2022.12.06-16.43.32:283][196]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.06-16.43.40:153][196]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.12.06-16.43.40:230][196]LogFbx: Warning: Bones digested - 9  Depth of hierarchy - 2
+[2022.12.06-16.43.40:672][196]LogSkeletalMesh: Display: /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90.BTR_90 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.12.06-16.43.40:976][196]LogSkeletalMesh: Section 0: Material=0, 20568 triangles
+[2022.12.06-16.43.40:998][196]LogSkeletalMesh: Building Skeletal Mesh BTR_90...
+[2022.12.06-16.43.40:998][196]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (BTR_90) ...
+[2022.12.06-16.43.41:394][196]LogSkeletalMesh: Display: /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90.BTR_90 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.12.06-16.43.41:612][196]LogSkeletalMesh: Built Skeletal Mesh [0.63s] /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90.BTR_90
+[2022.12.06-16.43.41:641][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.43.41:711][196]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.43.41:745][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.43.41:761][196]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.12.06-16.43.41:761][196]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2022.12.06-16.43.44:825][330]LogSlate: Window 'Message Log' being destroyed
+[2022.12.06-16.43.44:829][330]LogSlate: Window 'Message Log' being destroyed
+[2022.12.06-16.43.47:814][474]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.BTR_90_PhysicsAsset
+[2022.12.06-16.43.48:057][474]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.43.48:324][474]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.12.06-16.43.48:489][474]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.12.06-16.43.49:758][474]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.06-16.43.49:864][474]LogViewport: Scene viewport resized to 686x813, mode Windowed.
+[2022.12.06-16.43.55:672][ 17]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2022.12.06-16.43.55:672][ 17]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2022.12.06-16.43.55:674][ 17]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2022.12.06-16.44.21:512][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.uasset" SILENT=true
+[2022.12.06-16.44.21:534][509]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.004645 seconds
+[2022.12.06-16.44.21:570][509]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset
+[2022.12.06-16.44.21:570][509]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/BTR_90_PhysicsAssetF66930E349E0BF9D990005844EB5B003.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.uasset'
+[2022.12.06-16.44.21:584][509]AssetCheck: New page: Asset Save: BTR_90_PhysicsAsset
+[2022.12.06-16.44.21:611][509]LogContentValidation: Display: Validating PhysicsAsset /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.BTR_90_PhysicsAsset
+[2022.12.06-16.44.24:824][644]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.BTR_90_PhysicsAsset as actor: SkeletalMeshActor /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.SkeletalMeshActor_0
+[2022.12.06-16.44.24:828][644]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_0. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.12.06-16.44.24:829][644]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.BTR_90_PhysicsAsset as actor: SkeletalMeshActor /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.SkeletalMeshActor_0
+[2022.12.06-16.44.25:314][666]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.BTR_90_PhysicsAsset as actor: SkeletalMeshActor /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.SkeletalMeshActor_1
+[2022.12.06-16.44.25:314][666]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.12.06-16.44.25:315][666]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.BTR_90_PhysicsAsset as actor: SkeletalMeshActor /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.SkeletalMeshActor_1
+[2022.12.06-16.44.26:627][706]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.44.26:663][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.44.26:679][706]PIE: New page: PIE session: Test_Car (6 дек. 2022 г., 20:44:26)
+[2022.12.06-16.44.26:729][706]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.12.06-16.44.26:741][706]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.06-16.44.26:742][706]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.44.26:763][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021450s)
+[2022.12.06-16.44.26:763][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.022080s)
+[2022.12.06-16.44.26:764][706]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.44.26:764][706]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.44.26:764][706]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.44.26:765][706]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2022.12.06-16.44.26:775][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.06-16.44.26:777][706]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.06-16.44.26:777][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.44.26:777][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.44.26:777][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.44.26:777][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.44.26:777][706]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.44.26:777][706]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.44.26:777][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.44.26:777][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.44.26:778][706]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.44.26:778][706]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.44.26:778][706]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.44.26:780][706]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.44.26:798][706]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.44.26:799][706]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.44.26:799][706]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.44.26:799][706]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.44.26:800][706]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.12.06-16.44.26:800][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.12.06-16.44.26:802][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.12.06-16.44.26:802][706]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.12.06-16.44.26:802][706]LogInit: FAudioDevice initialized.
+[2022.12.06-16.44.26:802][706]LogAudio: Display: Audio Device (ID: 2) registered with world 'Test_Car'.
+[2022.12.06-16.44.26:834][706]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.06-16.44.26:836][706]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2022.12.06-18.44.26
+[2022.12.06-16.44.26:860][706]LogWorld: Bringing up level for play took: 0.025628
+[2022.12.06-16.44.26:863][706]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.12.06-16.44.27:035][706]PIE: Server logged in
+[2022.12.06-16.44.27:037][706]PIE: Play in editor total start time 0,393 seconds.
+[2022.12.06-16.44.27:064][706]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:222][707]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:459][708]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:519][709]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:531][710]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:825][711]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.06-16.44.27:841][711]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:871][712]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:892][713]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:913][714]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:935][715]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:955][716]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:977][717]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.27:998][718]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:020][719]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:042][720]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:065][721]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:086][722]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:105][723]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:127][724]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:152][725]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:170][726]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:194][727]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:217][728]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:238][729]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:259][730]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:281][731]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:302][732]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:322][733]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:343][734]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:362][735]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:386][736]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:407][737]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:428][738]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:450][739]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:471][740]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:495][741]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:516][742]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:537][743]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:559][744]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:579][745]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:603][746]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:627][747]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:645][748]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:673][749]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:694][750]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:716][751]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:737][752]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:758][753]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:779][754]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:800][755]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:821][756]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:842][757]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:862][758]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:886][759]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:908][760]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:928][761]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:953][762]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:974][763]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.28:994][764]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:018][765]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:040][766]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:059][767]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:081][768]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:103][769]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:124][770]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:145][771]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:169][772]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:188][773]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:209][774]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:231][775]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:254][776]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:274][777]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:297][778]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:320][779]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:340][780]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:363][781]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:386][782]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:406][783]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:428][784]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:450][785]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:471][786]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:492][787]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:513][788]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:534][789]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:556][790]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:576][791]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:597][792]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:619][793]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:641][794]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:661][795]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:684][796]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:705][797]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:728][798]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:749][799]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:771][800]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:793][801]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:813][802]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:835][803]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:859][804]LogBlueprintUserMessages: [Kv_Test_Move_C_0] 0.0
+[2022.12.06-16.44.29:914][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.44.29:915][804]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.44.29:915][804]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.44.29:915][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.44.29:929][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-16.44.29:932][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.44.29:940][804]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-16.44.29:941][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.06-16.44.29:943][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.06-16.44.29:947][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.44.29:949][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.06-16.44.30:018][805]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.12.06-16.44.40:032][215]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.06-16.44.44:030][384]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-16.44.46:966][506]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.44.46:975][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.44.46:975][506]PIE: New page: PIE session: Test_Car (6 дек. 2022 г., 20:44:46)
+[2022.12.06-16.44.46:975][506]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.44.46:979][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003599s)
+[2022.12.06-16.44.46:979][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.003729s)
+[2022.12.06-16.44.46:979][506]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.44.46:979][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.44.46:980][506]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.44.46:980][506]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2022.12.06-16.44.46:989][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.06-16.44.46:991][506]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.06-16.44.46:991][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.44.46:991][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.44.46:991][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.44.46:991][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.44.46:991][506]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.44.46:991][506]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.44.46:991][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.44.46:991][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.44.46:992][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.44.46:992][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.44.46:992][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.44.46:994][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.44.47:013][506]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.44.47:013][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.44.47:013][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.44.47:013][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.44.47:014][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.06-16.44.47:014][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.06-16.44.47:016][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.06-16.44.47:016][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.06-16.44.47:016][506]LogInit: FAudioDevice initialized.
+[2022.12.06-16.44.47:016][506]LogAudio: Display: Audio Device (ID: 3) registered with world 'Test_Car'.
+[2022.12.06-16.44.47:030][506]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.06-16.44.47:032][506]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2022.12.06-18.44.47
+[2022.12.06-16.44.47:032][506]LogWorld: Bringing up level for play took: 0.001682
+[2022.12.06-16.44.47:035][506]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.12.06-16.44.47:182][506]PIE: Server logged in
+[2022.12.06-16.44.47:183][506]PIE: Play in editor total start time 0,208 seconds.
+[2022.12.06-16.44.49:474][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.44.49:474][602]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.44.49:475][602]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.44.49:475][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.44.49:489][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-16.44.49:491][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.44.49:501][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.44.49:501][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.06-16.44.49:503][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.06-16.44.49:508][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.12.06-16.44.49:557][603]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.12.06-16.45.38:902][973]Cmd: TRANSACTION UNDO
+[2022.12.06-16.45.38:902][973]LogEditorTransaction: Undo Move Elements
+[2022.12.06-16.45.38:954][973]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.12.06-16.45.39:933][981]Cmd: TRANSACTION UNDO
+[2022.12.06-16.45.39:933][981]LogEditorTransaction: Undo Move Elements
+[2022.12.06-16.45.39:941][981]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.12.06-16.46.46:011][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.uasset" SILENT=true
+[2022.12.06-16.46.46:014][828]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset
+[2022.12.06-16.46.46:014][828]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/BTR_90_PhysicsAsset39A1819B4649126DA8F8299F06452DDD.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.uasset'
+[2022.12.06-16.46.46:023][828]AssetCheck: New page: Asset Save: BTR_90_PhysicsAsset
+[2022.12.06-16.46.46:023][828]LogContentValidation: Display: Validating PhysicsAsset /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.BTR_90_PhysicsAsset
+[2022.12.06-16.46.51:806][ 88]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.46.51:815][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.46.51:815][ 88]PIE: New page: PIE session: Test_Car (6 дек. 2022 г., 20:46:51)
+[2022.12.06-16.46.51:815][ 88]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.46.51:818][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003084s)
+[2022.12.06-16.46.51:818][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.003167s)
+[2022.12.06-16.46.51:818][ 88]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.46.51:819][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.46.51:819][ 88]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.46.51:819][ 88]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2022.12.06-16.46.51:832][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.06-16.46.51:835][ 88]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.06-16.46.51:835][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.46.51:835][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.46.51:836][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.46.51:836][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.46.51:836][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.46.51:836][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.46.51:836][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.46.51:836][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.46.51:836][ 88]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.46.51:837][ 88]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.46.51:837][ 88]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.46.51:839][ 88]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.46.51:857][ 88]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.46.51:857][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.46.51:857][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.46.51:857][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.46.51:858][ 88]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.12.06-16.46.51:858][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.12.06-16.46.51:860][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.12.06-16.46.51:860][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.12.06-16.46.51:860][ 88]LogInit: FAudioDevice initialized.
+[2022.12.06-16.46.51:860][ 88]LogAudio: Display: Audio Device (ID: 4) registered with world 'Test_Car'.
+[2022.12.06-16.46.51:878][ 88]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.06-16.46.51:879][ 88]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2022.12.06-18.46.51
+[2022.12.06-16.46.51:880][ 88]LogWorld: Bringing up level for play took: 0.001741
+[2022.12.06-16.46.51:881][ 88]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.12.06-16.46.51:884][ 88]PIE: Server logged in
+[2022.12.06-16.46.51:885][ 88]PIE: Play in editor total start time 0,07 seconds.
+[2022.12.06-16.46.56:743][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.46.56:743][312]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.46.56:744][312]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.46.56:744][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.46.56:761][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-16.46.56:763][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.46.56:772][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-16.46.56:773][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.06-16.46.56:775][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.06-16.46.56:778][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.46.56:780][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.12.06-16.46.56:830][313]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.12.06-16.47.08:461][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.uasset" SILENT=true
+[2022.12.06-16.47.08:464][180]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset
+[2022.12.06-16.47.08:464][180]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/BTR_90_PhysicsAssetE2374218431075D168597180CBD2131D.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.uasset'
+[2022.12.06-16.47.08:473][180]AssetCheck: New page: Asset Save: BTR_90_PhysicsAsset
+[2022.12.06-16.47.08:473][180]LogContentValidation: Display: Validating PhysicsAsset /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_PhysicsAsset.BTR_90_PhysicsAsset
+[2022.12.06-16.47.09:832][260]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.47.09:841][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.47.09:841][260]PIE: New page: PIE session: Test_Car (6 дек. 2022 г., 20:47:09)
+[2022.12.06-16.47.09:841][260]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.47.09:844][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002939s)
+[2022.12.06-16.47.09:844][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.003022s)
+[2022.12.06-16.47.09:844][260]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.47.09:844][260]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.47.09:845][260]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.47.09:845][260]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2022.12.06-16.47.09:856][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.06-16.47.09:858][260]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.06-16.47.09:858][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.47.09:858][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.47.09:858][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.47.09:858][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.47.09:858][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.47.09:858][260]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.47.09:858][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.47.09:858][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.47.09:858][260]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.47.09:858][260]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.47.09:858][260]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.47.09:861][260]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.47.09:878][260]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.47.09:878][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.47.09:878][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.47.09:879][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.47.09:879][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.12.06-16.47.09:879][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.12.06-16.47.09:881][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.12.06-16.47.09:881][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.12.06-16.47.09:881][260]LogInit: FAudioDevice initialized.
+[2022.12.06-16.47.09:881][260]LogAudio: Display: Audio Device (ID: 5) registered with world 'Test_Car'.
+[2022.12.06-16.47.09:898][260]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.06-16.47.09:900][260]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2022.12.06-18.47.09
+[2022.12.06-16.47.09:900][260]LogWorld: Bringing up level for play took: 0.001676
+[2022.12.06-16.47.09:902][260]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.12.06-16.47.09:905][260]PIE: Server logged in
+[2022.12.06-16.47.09:906][260]PIE: Play in editor total start time 0,065 seconds.
+[2022.12.06-16.47.15:533][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.47.15:533][525]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.47.15:533][525]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.47.15:534][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.47.15:545][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-16.47.15:548][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.47.15:557][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.47.15:558][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.06-16.47.15:559][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.06-16.47.15:565][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.06-16.47.15:615][526]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.12.06-16.47.24:357][830]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.12.06-16.47.24:358][830]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.12.06-16.47.28:856][830]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.06-16.47.28:876][830]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.06-16.47.28:951][830]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.06-16.47.28:965][831]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.12.06-16.47.39:900][333]LogContentBrowser: Attempting asset rename: NewBlueprint -> Kv_BTR_Pawn
+[2022.12.06-16.47.39:949][333]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.06-16.47.41:672][415]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn
+[2022.12.06-16.47.41:680][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.47.53:818][415]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.12.06-16.47.53:819][415]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [9285ms] waiting for h/w. InstanceID=1
+[2022.12.06-16.47.53:819][415]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.044331s
+[2022.12.06-16.47.54:200][415]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000305s (1.050922s overbudget)
+[2022.12.06-16.47.54:301][415]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6724
+[2022.12.06-16.47.54:301][415]LogViewport: Scene viewport resized to 734x572, mode Windowed.
+[2022.12.06-16.47.54:594][416]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d85ed9bd-e3fb-4798-944e-67c0075aadab}, Name=Динамики (High Definition Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=31.80
+[2022.12.06-16.47.54:594][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.06-16.47.54:622][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.06-16.47.56:756][642]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.06-16.48.22:853][351]BlueprintLog: New page: Compile Kv_BTR_Pawn
+[2022.12.06-16.48.22:966][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.06-16.48.23:439][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset" SILENT=true
+[2022.12.06-16.48.23:461][390]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn
+[2022.12.06-16.48.23:461][390]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Kv_BTR_Pawn4C30D22142A8D43C04BEADB3F4A20B40.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset'
+[2022.12.06-16.48.23:474][390]AssetCheck: New page: Asset Save: Kv_BTR_Pawn
+[2022.12.06-16.48.23:474][390]LogContentValidation: Display: Validating Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn
+[2022.12.06-16.48.24:527][447]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.48.24:536][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.48.24:536][447]PIE: New page: PIE session: Test_Car (6 дек. 2022 г., 20:48:24)
+[2022.12.06-16.48.24:536][447]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.48.24:539][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003039s)
+[2022.12.06-16.48.24:539][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.003126s)
+[2022.12.06-16.48.24:540][447]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.48.24:540][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.48.24:540][447]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.48.24:540][447]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2022.12.06-16.48.24:576][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.12.06-16.48.24:577][447]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.06-16.48.24:577][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.48.24:577][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.48.24:577][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.48.24:577][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.48.24:577][447]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.48.24:577][447]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.48.24:577][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.48.24:577][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.48.24:578][447]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.48.24:578][447]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.48.24:578][447]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.48.24:580][447]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.48.24:598][447]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.48.24:598][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.48.24:598][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.48.24:598][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.48.24:600][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.12.06-16.48.24:600][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.12.06-16.48.24:602][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.12.06-16.48.24:602][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.12.06-16.48.24:602][447]LogInit: FAudioDevice initialized.
+[2022.12.06-16.48.24:602][447]LogAudio: Display: Audio Device (ID: 6) registered with world 'Test_Car'.
+[2022.12.06-16.48.24:619][447]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.06-16.48.24:621][447]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2022.12.06-18.48.24
+[2022.12.06-16.48.24:621][447]LogWorld: Bringing up level for play took: 0.001672
+[2022.12.06-16.48.24:623][447]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.12.06-16.48.24:626][447]PIE: Server logged in
+[2022.12.06-16.48.24:627][447]PIE: Play in editor total start time 0,091 seconds.
+[2022.12.06-16.48.30:293][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.48.30:294][714]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.48.30:294][714]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.48.30:294][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.48.30:304][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-16.48.30:308][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.48.30:342][714]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-16.48.30:342][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.06-16.48.30:344][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.06-16.48.30:348][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.48.30:351][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.06-16.48.30:403][715]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.12.06-16.48.45:662][811]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.06-16.49.30:930][224]LogSlate: Window 'Create New Blueprint' being destroyed
+[2022.12.06-16.49.30:954][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Front.Kv_BTR_Front
+[2022.12.06-16.49.30:954][224]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.49.31:562][225]LogEditCondition: Error: EditCondition parsing failed: Field name "bNewWheelSimulation" was not found in class "ChaosVehicleWheel".
+[2022.12.06-16.49.50:679][467]BlueprintLog: New page: Compile Kv_BTR_Front
+[2022.12.06-16.49.50:733][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.12.06-16.49.51:218][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Front" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Front.uasset" SILENT=true
+[2022.12.06-16.49.51:219][511]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Front
+[2022.12.06-16.49.51:219][511]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Kv_BTR_FrontB1EAA23642797A6571F6DDA57BDF5337.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Front.uasset'
+[2022.12.06-16.49.51:232][511]AssetCheck: New page: Asset Save: Kv_BTR_Front
+[2022.12.06-16.49.51:232][511]LogContentValidation: Display: Validating Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Front.Kv_BTR_Front
+[2022.12.06-16.50.08:660][216]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-16.50.51:340][726]LogSlate: Window 'Create New Blueprint' being destroyed
+[2022.12.06-16.50.51:362][726]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Back.Kv_BTR_Back
+[2022.12.06-16.50.51:362][726]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.51.02:967][  3]BlueprintLog: New page: Compile Kv_BTR_Back
+[2022.12.06-16.51.03:029][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.12.06-16.51.03:480][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Back" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Back.uasset" SILENT=true
+[2022.12.06-16.51.03:482][ 44]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Back
+[2022.12.06-16.51.03:482][ 44]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Kv_BTR_Back17F5BB9A42B79D27BFE62E83291C64D8.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Back.uasset'
+[2022.12.06-16.51.03:493][ 44]AssetCheck: New page: Asset Save: Kv_BTR_Back
+[2022.12.06-16.51.03:493][ 44]LogContentValidation: Display: Validating Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Back.Kv_BTR_Back
+[2022.12.06-16.51.22:002][960]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-16.51.50:807][751]BlueprintLog: New page: Compile Kv_BTR_Pawn
+[2022.12.06-16.51.50:951][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.12.06-16.51.51:570][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset" SILENT=true
+[2022.12.06-16.51.51:574][810]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn
+[2022.12.06-16.51.51:575][810]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Kv_BTR_Pawn305611A84C73F287F75609A0386CAA1D.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset'
+[2022.12.06-16.51.51:586][810]AssetCheck: New page: Asset Save: Kv_BTR_Pawn
+[2022.12.06-16.51.51:586][810]LogContentValidation: Display: Validating Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn
+[2022.12.06-16.51.53:076][896]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.51.53:084][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.51.53:084][896]PIE: New page: PIE session: Test_Car (6 дек. 2022 г., 20:51:53)
+[2022.12.06-16.51.53:084][896]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.51.53:089][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004349s)
+[2022.12.06-16.51.53:089][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.004488s)
+[2022.12.06-16.51.53:089][896]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.51.53:089][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.51.53:090][896]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.51.53:090][896]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2022.12.06-16.51.53:139][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.12.06-16.51.53:140][896]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.12.06-16.51.53:140][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.51.53:140][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.51.53:140][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.51.53:140][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.51.53:140][896]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.51.53:140][896]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.51.53:140][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.51.53:140][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.51.53:141][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.51.53:141][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.51.53:141][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.51.53:143][896]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.51.53:161][896]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.51.53:162][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.51.53:162][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.51.53:162][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.51.53:163][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.12.06-16.51.53:163][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.12.06-16.51.53:165][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.12.06-16.51.53:165][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.12.06-16.51.53:165][896]LogInit: FAudioDevice initialized.
+[2022.12.06-16.51.53:165][896]LogAudio: Display: Audio Device (ID: 7) registered with world 'Test_Car'.
+[2022.12.06-16.51.53:180][896]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.06-16.51.53:181][896]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2022.12.06-18.51.53
+[2022.12.06-16.51.53:182][896]LogWorld: Bringing up level for play took: 0.001721
+[2022.12.06-16.51.53:184][896]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.12.06-16.51.53:187][896]PIE: Server logged in
+[2022.12.06-16.51.53:188][896]PIE: Play in editor total start time 0,104 seconds.
+[2022.12.06-16.51.56:643][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.51.56:643][ 51]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.51.56:643][ 51]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.51.56:644][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.51.56:659][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-16.51.56:664][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.51.56:712][ 51]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-16.51.56:712][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.12.06-16.51.56:714][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.12.06-16.51.56:717][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.51.56:721][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.12.06-16.51.56:774][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.12.06-16.52.20:829][451]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.06-16.52.40:306][579]BlueprintLog: New page: Compile Kv_BTR_Pawn
+[2022.12.06-16.52.40:407][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.06-16.52.40:833][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset" SILENT=true
+[2022.12.06-16.52.40:837][613]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn
+[2022.12.06-16.52.40:838][613]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Kv_BTR_PawnC2AE4E9D444084096689A8A0A9911C07.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset'
+[2022.12.06-16.52.40:849][613]AssetCheck: New page: Asset Save: Kv_BTR_Pawn
+[2022.12.06-16.52.40:849][613]LogContentValidation: Display: Validating Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn
+[2022.12.06-16.53.32:075][837]BlueprintLog: New page: Compile Kv_BTR_Pawn
+[2022.12.06-16.53.32:221][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.06-16.53.32:679][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset" SILENT=true
+[2022.12.06-16.53.32:684][869]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn
+[2022.12.06-16.53.32:685][869]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Kv_BTR_Pawn4336D58045246E5F52F5D89D3F2BF24A.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset'
+[2022.12.06-16.53.32:697][869]AssetCheck: New page: Asset Save: Kv_BTR_Pawn
+[2022.12.06-16.53.32:697][869]LogContentValidation: Display: Validating Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn
+[2022.12.06-16.53.34:222][954]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.53.34:231][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.53.34:232][954]PIE: New page: PIE session: Test_Car (6 дек. 2022 г., 20:53:34)
+[2022.12.06-16.53.34:232][954]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.53.34:235][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003084s)
+[2022.12.06-16.53.34:235][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.003170s)
+[2022.12.06-16.53.34:235][954]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.53.34:235][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.53.34:236][954]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.53.34:236][954]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2022.12.06-16.53.34:287][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.06-16.53.34:288][954]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.12.06-16.53.34:288][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.53.34:288][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.53.34:288][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.53.34:288][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.53.34:289][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.53.34:289][954]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.53.34:289][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.53.34:289][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.53.34:289][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.53.34:289][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.53.34:289][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.53.34:292][954]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.53.34:310][954]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.53.34:310][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.53.34:310][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.53.34:310][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.53.34:311][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.12.06-16.53.34:311][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.12.06-16.53.34:313][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.12.06-16.53.34:313][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.12.06-16.53.34:313][954]LogInit: FAudioDevice initialized.
+[2022.12.06-16.53.34:314][954]LogAudio: Display: Audio Device (ID: 8) registered with world 'Test_Car'.
+[2022.12.06-16.53.34:331][954]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.06-16.53.34:332][954]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2022.12.06-18.53.34
+[2022.12.06-16.53.34:333][954]LogWorld: Bringing up level for play took: 0.001747
+[2022.12.06-16.53.34:335][954]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.12.06-16.53.34:338][954]PIE: Server logged in
+[2022.12.06-16.53.34:339][954]PIE: Play in editor total start time 0,107 seconds.
+[2022.12.06-16.53.37:622][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.53.37:622][104]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.53.37:622][104]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.53.37:623][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.53.37:637][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-16.53.37:642][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.53.37:690][104]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-16.53.37:690][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.12.06-16.53.37:692][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.12.06-16.53.37:696][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.53.37:700][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.06-16.53.37:753][105]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.12.06-16.53.38:987][156]Cmd: DELETE
+[2022.12.06-16.53.38:987][156]Cmd: ACTOR DELETE
+[2022.12.06-16.53.39:045][156]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.12.06-16.53.39:096][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.06-16.53.39:097][156]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2022.12.06-16.53.40:064][197]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn_C
+[2022.12.06-16.53.40:064][197]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn_C
+[2022.12.06-16.53.40:067][197]LogActorFactory: Actor Factory spawned Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn as actor: Kv_BTR_Pawn_C /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_Pawn_C_0
+[2022.12.06-16.53.40:069][197]LogActorFactory: Actor Factory spawned Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn as actor: Kv_BTR_Pawn_C /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_Pawn_C_0
+[2022.12.06-16.53.40:992][252]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn_C
+[2022.12.06-16.53.40:992][252]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn_C
+[2022.12.06-16.53.40:998][252]LogActorFactory: Actor Factory spawned Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn as actor: Kv_BTR_Pawn_C /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_Pawn_C_1
+[2022.12.06-16.53.41:000][252]LogActorFactory: Actor Factory spawned Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn as actor: Kv_BTR_Pawn_C /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_Pawn_C_1
+[2022.12.06-16.53.41:043][253]LogViewport: Scene viewport resized to 536x188, mode Windowed.
+[2022.12.06-16.53.41:777][272]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.53.41:789][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.53.41:789][272]PIE: New page: PIE session: Test_Car (6 дек. 2022 г., 20:53:41)
+[2022.12.06-16.53.41:789][272]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.53.41:792][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003451s)
+[2022.12.06-16.53.41:792][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.003536s)
+[2022.12.06-16.53.41:792][272]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.53.41:793][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.53.41:793][272]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.53.41:793][272]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2022.12.06-16.53.41:844][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.12.06-16.53.41:846][272]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.12.06-16.53.41:846][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.53.41:846][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.53.41:846][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.53.41:846][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.53.41:846][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.53.41:846][272]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.53.41:846][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.53.41:846][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.53.41:847][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.53.41:847][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.53.41:847][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.53.41:849][272]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.53.41:867][272]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.53.41:868][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.53.41:868][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.53.41:868][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.53.41:869][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.12.06-16.53.41:869][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.12.06-16.53.41:871][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.12.06-16.53.41:871][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.12.06-16.53.41:871][272]LogInit: FAudioDevice initialized.
+[2022.12.06-16.53.41:871][272]LogAudio: Display: Audio Device (ID: 9) registered with world 'Test_Car'.
+[2022.12.06-16.53.41:888][272]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.06-16.53.41:921][272]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2022.12.06-18.53.41
+[2022.12.06-16.53.41:922][272]LogWorld: Bringing up level for play took: 0.033308
+[2022.12.06-16.53.41:924][272]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.12.06-16.53.41:927][272]PIE: Server logged in
+[2022.12.06-16.53.41:927][272]PIE: Play in editor total start time 0,141 seconds.
+[2022.12.06-16.53.42:252][273]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065759 > MaxSimulationTimeStep (0.050) for 'BP_FirstPersonCharacter_C_0', movement 'Walking'
+[2022.12.06-16.53.44:491][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.53.44:492][360]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.53.44:492][360]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.53.44:492][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.53.44:507][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-16.53.44:512][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.53.44:560][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-16.53.44:561][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.12.06-16.53.44:563][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.12.06-16.53.44:567][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.53.44:570][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.06-16.53.44:609][361]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.12.06-16.53.44:615][361]LogViewport: Scene viewport resized to 536x188, mode Windowed.
+[2022.12.06-16.53.48:064][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.12.06-16.53.49:610][445]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.06-16.53.51:393][501]LogViewport: Scene viewport resized to 536x188, mode Windowed.
+[2022.12.06-16.53.52:098][521]Cmd: DELETE
+[2022.12.06-16.53.52:098][521]Cmd: ACTOR DELETE
+[2022.12.06-16.53.52:100][521]LogEditorActor: Deleted Actor: Kv_BTR_Pawn_C
+[2022.12.06-16.53.52:203][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.12.06-16.53.52:205][521]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2022.12.06-16.54.06:545][737]LogContentBrowser: Deferred new asset file creation: BTR_90_Skeleton_AnimBlueprint
+[2022.12.06-16.54.06:552][737]LogContentBrowser: Creating deferred item: BTR_90_Skeleton_AnimBlueprint
+[2022.12.06-16.54.06:567][738]LogContentBrowser: Renaming the item being created (Deferred Item: BTR_90_Skeleton_AnimBlueprint).
+[2022.12.06-16.54.21:540][451]LogContentBrowser: Attempting asset rename: BTR_90_Skeleton_AnimBlueprint -> Kv_BTR_Anim
+[2022.12.06-16.54.21:561][451]LogContentBrowser: End creating deferred item BTR_90_Skeleton_AnimBlueprint
+[2022.12.06-16.54.26:608][685]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Anim.Kv_BTR_Anim
+[2022.12.06-16.54.26:629][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.54.26:639][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.54.26:649][685]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.06-16.54.27:447][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.54.27:649][685]LogViewport: Scene viewport resized to 474x381, mode Windowed.
+[2022.12.06-16.54.33:321][150]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-16.54.39:503][688]LogBlueprint: Warning: Reparenting blueprint AnimBlueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Anim.Kv_BTR_Anim from AnimInstance to VehicleAnimationInstance...
+[2022.12.06-16.54.39:515][688]BlueprintLog: New page: Compile Kv_BTR_Anim
+[2022.12.06-16.54.39:596][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.12.06-16.55.06:117][ 10]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.12.06-16.55.06:117][ 10]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.12.06-16.55.07:931][172]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.12.06-16.55.07:931][172]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.12.06-16.55.33:159][423]BlueprintLog: New page: Compile Kv_BTR_Anim
+[2022.12.06-16.55.33:268][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.06-16.55.42:481][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Anim" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Anim.uasset" SILENT=true
+[2022.12.06-16.55.42:488][208]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Anim
+[2022.12.06-16.55.42:488][208]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Kv_BTR_Anim050ABDC44BCC85812BDF509FAB2BCC2D.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Anim.uasset'
+[2022.12.06-16.55.42:500][208]AssetCheck: New page: Asset Save: Kv_BTR_Anim
+[2022.12.06-16.55.42:500][208]LogContentValidation: Display: Validating AnimBlueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Anim.Kv_BTR_Anim
+[2022.12.06-16.55.46:661][472]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn_C
+[2022.12.06-16.55.46:661][472]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn_C
+[2022.12.06-16.55.46:664][472]LogActorFactory: Actor Factory spawned Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn as actor: Kv_BTR_Pawn_C /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_Pawn_C_2
+[2022.12.06-16.55.46:666][472]LogActorFactory: Actor Factory spawned Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn as actor: Kv_BTR_Pawn_C /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_Pawn_C_2
+[2022.12.06-16.55.47:049][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn_C
+[2022.12.06-16.55.47:049][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn_C
+[2022.12.06-16.55.47:053][492]LogActorFactory: Actor Factory spawned Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn as actor: Kv_BTR_Pawn_C /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_Pawn_C_3
+[2022.12.06-16.55.47:056][492]LogActorFactory: Actor Factory spawned Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn as actor: Kv_BTR_Pawn_C /Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_Pawn_C_3
+[2022.12.06-16.55.47:098][493]LogViewport: Scene viewport resized to 536x188, mode Windowed.
+[2022.12.06-16.55.48:611][535]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.55.48:619][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.55.48:620][535]PIE: New page: PIE session: Test_Car (6 дек. 2022 г., 20:55:48)
+[2022.12.06-16.55.48:620][535]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.55.48:625][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004679s)
+[2022.12.06-16.55.48:625][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.004816s)
+[2022.12.06-16.55.48:625][535]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.55.48:625][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.55.48:625][535]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.55.48:626][535]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2022.12.06-16.55.48:685][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.06-16.55.48:688][535]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.12.06-16.55.48:688][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.55.48:688][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.55.48:688][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.55.48:688][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.55.48:688][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.55.48:688][535]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.55.48:688][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.55.48:688][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.55.48:689][535]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.55.48:689][535]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.55.48:689][535]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.55.48:691][535]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.55.48:709][535]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.55.48:709][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.55.48:709][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.55.48:709][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.55.48:710][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.12.06-16.55.48:710][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.12.06-16.55.48:712][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.12.06-16.55.48:712][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.12.06-16.55.48:712][535]LogInit: FAudioDevice initialized.
+[2022.12.06-16.55.48:712][535]LogAudio: Display: Audio Device (ID: 10) registered with world 'Test_Car'.
+[2022.12.06-16.55.48:724][535]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.06-16.55.48:726][535]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2022.12.06-18.55.48
+[2022.12.06-16.55.48:726][535]LogWorld: Bringing up level for play took: 0.002122
+[2022.12.06-16.55.48:729][535]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.12.06-16.55.48:731][535]PIE: Server logged in
+[2022.12.06-16.55.48:732][535]PIE: Play in editor total start time 0,113 seconds.
+[2022.12.06-16.55.50:931][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.55.50:931][598]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.55.50:931][598]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.55.50:931][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.55.50:946][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-16.55.50:951][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.55.51:007][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.55.51:007][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.12.06-16.55.51:009][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.12.06-16.55.51:016][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.06-16.55.51:171][599]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.12.06-16.55.51:183][599]LogViewport: Scene viewport resized to 536x188, mode Windowed.
+[2022.12.06-16.55.57:300][ 60]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-16.55.58:798][ 60]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.06-16.55.58:858][ 60]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.06-16.55.58:863][ 60]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.06-16.55.58:877][ 61]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.12.06-16.56.16:120][706]LogContentBrowser: Attempting asset rename: NewBlueprint -> Kv_BTR_GMod
+[2022.12.06-16.56.16:127][706]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.06-16.56.18:615][778]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_GMod.Kv_BTR_GMod
+[2022.12.06-16.56.18:616][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.56.19:345][778]LogViewport: Scene viewport resized to 734x572, mode Windowed.
+[2022.12.06-16.56.23:094][870]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-16.56.30:774][352]BlueprintLog: New page: Compile Kv_BTR_GMod
+[2022.12.06-16.56.30:870][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.12.06-16.56.31:511][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_GMod" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_GMod.uasset" SILENT=true
+[2022.12.06-16.56.31:513][367]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_GMod
+[2022.12.06-16.56.31:514][367]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Kv_BTR_GMod5DE6E3E7481DD137DB44E0854D225590.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_GMod.uasset'
+[2022.12.06-16.56.31:526][367]AssetCheck: New page: Asset Save: Kv_BTR_GMod
+[2022.12.06-16.56.31:526][367]LogContentValidation: Display: Validating Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_GMod.Kv_BTR_GMod
+[2022.12.06-16.56.34:381][441]LogSlate: Window 'Kv_BTR_GMod' being destroyed
+[2022.12.06-16.56.34:416][441]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.56.34:417][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.56.39:326][721]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.06-16.56.46:608][524]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2022.12.06-16.56.46:651][524]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-16.56.50:370][906]BlueprintLog: New page: Compile Kv_BTR_Pawn
+[2022.12.06-16.56.50:511][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.12.06-16.56.50:946][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset" SILENT=true
+[2022.12.06-16.56.50:952][939]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn
+[2022.12.06-16.56.50:953][939]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Kv_BTR_PawnFAB13D1446FE0E933C9AA1BCFAAEA292.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset'
+[2022.12.06-16.56.50:963][939]AssetCheck: New page: Asset Save: Kv_BTR_Pawn
+[2022.12.06-16.56.50:963][939]LogContentValidation: Display: Validating Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn
+[2022.12.06-16.56.51:553][998]LogViewport: Scene viewport resized to 536x188, mode Windowed.
+[2022.12.06-16.56.52:751][ 30]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.56.52:760][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.56.52:760][ 30]PIE: New page: PIE session: Test_Car (6 дек. 2022 г., 20:56:52)
+[2022.12.06-16.56.52:760][ 30]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.56.52:764][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003373s)
+[2022.12.06-16.56.52:764][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.003455s)
+[2022.12.06-16.56.52:764][ 30]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.56.52:764][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.56.52:764][ 30]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.56.52:764][ 30]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2022.12.06-16.56.52:823][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.12.06-16.56.52:826][ 30]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.06-16.56.52:826][ 30]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.56.52:826][ 30]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.56.52:826][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.56.52:826][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.56.52:826][ 30]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.56.52:826][ 30]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.56.52:826][ 30]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.56.52:826][ 30]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.56.52:826][ 30]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.56.52:826][ 30]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.56.52:826][ 30]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.56.52:829][ 30]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.56.52:847][ 30]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.56.52:847][ 30]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.56.52:847][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.56.52:848][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.56.52:848][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.12.06-16.56.52:849][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.12.06-16.56.52:851][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.12.06-16.56.52:851][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.12.06-16.56.52:851][ 30]LogInit: FAudioDevice initialized.
+[2022.12.06-16.56.52:851][ 30]LogAudio: Display: Audio Device (ID: 11) registered with world 'Test_Car'.
+[2022.12.06-16.56.52:864][ 30]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.12.06-16.56.52:866][ 30]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2022.12.06-18.56.52
+[2022.12.06-16.56.52:867][ 30]LogWorld: Bringing up level for play took: 0.002530
+[2022.12.06-16.56.52:869][ 30]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.12.06-16.56.52:872][ 30]PIE: Server logged in
+[2022.12.06-16.56.52:872][ 30]PIE: Play in editor total start time 0,113 seconds.
+[2022.12.06-16.56.54:881][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.56.54:881][ 95]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.56.54:882][ 95]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.56.54:882][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.56.54:893][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-16.56.54:899][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.56.54:957][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-16.56.54:957][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.06-16.56.54:959][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.06-16.56.54:963][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.56.54:966][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.06-16.56.55:007][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.12.06-16.56.55:012][ 96]LogViewport: Scene viewport resized to 536x188, mode Windowed.
+[2022.12.06-16.57.12:204][101]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kvik/Kvik_Modes/Cars/TestCAR/Kv_Auto_Pawn.Kv_Auto_Pawn
+[2022.12.06-16.57.12:204][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.57.25:429][519]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.57.25:429][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.57.49:995][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.06-16.57.50:042][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Kvik/KvikSave/Test_Car_Auto1
+[2022.12.06-16.57.50:043][393]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Test_Car_Auto15AD5F29A4610A95A188146B7F7BFF79E.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Saved/Autosaves/Game/Kvik/KvikSave/Test_Car_Auto1.umap'
+[2022.12.06-16.57.50:065][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Kvik/KvikSave/Test_Car' took 0.127
+[2022.12.06-16.57.50:065][393]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.127
+[2022.12.06-16.57.50:086][393]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode] ([2] browsable assets)...
+[2022.12.06-16.57.50:086][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode]
+[2022.12.06-16.57.50:088][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode_Auto1
+[2022.12.06-16.57.50:139][393]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/BP_FirstPersonGameMode_Auto1911EE9C841418A9D79D09CA3C45C2515.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode_Auto1.uasset'
+[2022.12.06-16.57.50:143][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90] ([1] browsable assets)...
+[2022.12.06-16.57.50:215][393]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90.BTR_90]
+[2022.12.06-16.57.50:216][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90]
+[2022.12.06-16.57.50:310][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_Auto1
+[2022.12.06-16.57.50:328][393]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/BTR_90_Auto18E81C41143C281A984A02094898B2D6D.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Saved/Autosaves/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_Auto1.uasset'
+[2022.12.06-16.57.50:329][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_Skeleton] ([1] browsable assets)...
+[2022.12.06-16.57.50:401][393]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_Skeleton.BTR_90_Skeleton]
+[2022.12.06-16.57.50:401][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_Skeleton]
+[2022.12.06-16.57.50:404][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_Skeleton_Auto1
+[2022.12.06-16.57.50:409][393]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/BTR_90_Skeleton_Auto1D9920FEC40155AEE59B1B69D082AF2D1.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Saved/Autosaves/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90_Skeleton_Auto1.uasset'
+[2022.12.06-16.57.50:410][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn] ([2] browsable assets)...
+[2022.12.06-16.57.50:437][393]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn]
+[2022.12.06-16.57.50:437][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn]
+[2022.12.06-16.57.50:441][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn_Auto1
+[2022.12.06-16.57.50:480][393]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Kv_BTR_Pawn_Auto1FBB4B20E4C533D0C8C2E66AB9E1FB548.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Saved/Autosaves/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn_Auto1.uasset'
+[2022.12.06-16.57.50:480][393]LogFileHelpers: Auto-saving content packages took 0.414
+[2022.12.06-16.58.06:795][279]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.58.06:795][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.58.06:807][279]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.58.06:807][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.58.06:934][279]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.58.06:934][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.58.09:956][630]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.58.09:956][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.58.13:478][ 35]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.58.13:478][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.58.31:881][ 65]BlueprintLog: New page: Compile Kv_BTR_Pawn
+[2022.12.06-16.58.32:008][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.12.06-16.58.32:385][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset" SILENT=true
+[2022.12.06-16.58.32:405][ 91]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn
+[2022.12.06-16.58.32:405][ 91]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Kv_BTR_Pawn272C87094FDE79D169837EB6AA986D0F.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.uasset'
+[2022.12.06-16.58.32:418][ 91]AssetCheck: New page: Asset Save: Kv_BTR_Pawn
+[2022.12.06-16.58.32:418][ 91]LogContentValidation: Display: Validating Blueprint /Game/Kvik/Kvik_Modes/Cars/BTR/Kv_BTR_Pawn.Kv_BTR_Pawn
+[2022.12.06-16.58.32:654][117]LogViewport: Scene viewport resized to 536x188, mode Windowed.
+[2022.12.06-16.58.39:980][319]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.06-16.59.22:148][ 19]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.12.06-16.59.22:148][ 19]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.12.06-16.59.30:030][343]Cmd: DELETE
+[2022.12.06-16.59.30:030][343]Cmd: ACTOR DELETE
+[2022.12.06-16.59.30:046][343]LogLinker: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Cars\BTR\Kv_BTR_Pawn.uasset: Failed to load '/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90': Can't find file.
+[2022.12.06-16.59.30:047][343]LoadErrors: Error: /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90 : [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Cars\BTR\Kv_BTR_Pawn.uasset: Failed to load '/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90': Can't find file. /Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90
+[2022.12.06-16.59.30:048][343]LogLinker: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Cars\BTR\Kv_BTR_Pawn.uasset: Failed to load '/Game/Kvik/Kvik_Modes/Cars/BTR/BTR_90': Can't find file.
+[2022.12.06-16.59.30:068][343]LogEditorActor: Deleted Actor: Kv_BTR_Pawn_C
+[2022.12.06-16.59.30:123][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.12.06-16.59.30:128][343]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2022.12.06-16.59.31:073][390]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.59.31:082][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.59.31:082][390]PIE: New page: PIE session: Test_Car (6 дек. 2022 г., 20:59:31)
+[2022.12.06-16.59.31:082][390]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2022.12.06-16.59.31:085][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002842s)
+[2022.12.06-16.59.31:085][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.002934s)
+[2022.12.06-16.59.31:085][390]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.59.31:086][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.59.31:086][390]LogAIModule: Creating AISystem for world Test_Car
+[2022.12.06-16.59.31:086][390]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2022.12.06-16.59.31:123][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.12.06-16.59.31:125][390]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.12.06-16.59.31:125][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.59.31:125][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.59.31:125][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.59.31:125][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.59.31:125][390]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.59.31:125][390]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.59.31:125][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.59.31:125][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.59.31:126][390]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.59.31:126][390]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.59.31:126][390]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.59.31:128][390]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.59.31:146][390]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.06-16.59.31:147][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.59.31:147][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.59.31:147][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.59.31:148][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.12.06-16.59.31:148][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.12.06-16.59.31:150][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.12.06-16.59.31:150][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.12.06-16.59.31:150][390]LogInit: FAudioDevice initialized.
+[2022.12.06-16.59.31:150][390]LogAudio: Display: Audio Device (ID: 12) registered with world 'Test_Car'.
+[2022.12.06-16.59.31:162][390]LogLoad: Game class is 'Kv_BTR_GMod_C'
+[2022.12.06-16.59.31:163][390]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2022.12.06-18.59.31
+[2022.12.06-16.59.31:164][390]LogWorld: Bringing up level for play took: 0.001379
+[2022.12.06-16.59.31:166][390]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2022.12.06-16.59.31:168][390]PIE: Server logged in
+[2022.12.06-16.59.31:169][390]PIE: Play in editor total start time 0,087 seconds.
+[2022.12.06-16.59.31:170][390]LogOutputDevice: Warning: 
+
+Script Stack (1 frames):
+Kv_BTR_Pawn_C.InpAxisEvt_Look Up / Down Mouse_K2Node_InputAxisEvent_4
+
+[2022.12.06-16.59.31:580][390]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.411 s
+[2022.12.06-16.59.31:580][390]LogOutputDevice: Error: === Handled ensure: ===
+[2022.12.06-16.59.31:580][390]LogOutputDevice: Error: 
+[2022.12.06-16.59.31:580][390]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Blueprint.cpp] [Line: 840]
+[2022.12.06-16.59.31:580][390]LogOutputDevice: Error: Type mismatch: Expected Kv_BTR_Pawn_C, Found REINST_Kv_BTR_Pawn_C_78
+[2022.12.06-16.59.31:580][390]LogOutputDevice: Error: Stack: 
+[2022.12.06-16.59.31:580][390]LogOutputDevice: Error: [Callstack] 0x00007fffe8f01074 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:580][390]LogOutputDevice: Error: [Callstack] 0x00007fffe489bae6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe4d4622a UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe826e34b UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe827fea0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe8242f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe8242244 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe801bc07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe8241837 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe8b103f4 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffea76bab4 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffea118268 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffea12d4e5 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffea11624d UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffea12c680 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe8aeea96 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffea605a0f UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffea60ccf8 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe66a3a9d UnrealEditor-Core.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe66a3f3e UnrealEditor-Core.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe66ad6af UnrealEditor-Core.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffea622f0a UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffea6298b0 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe966f08f UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe96779c0 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe440e5f5 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007fffe4d9aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007ff6da4782f6 UnrealEditor.exe!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007ff6da490d9c UnrealEditor.exe!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007ff6da490e8a UnrealEditor.exe!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007ff6da493c4d UnrealEditor.exe!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007ff6da4a5564 UnrealEditor.exe!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007ff6da4a8736 UnrealEditor.exe!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007ff83a487034 KERNEL32.DLL!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: [Callstack] 0x00007ff83af42651 ntdll.dll!UnknownFunction []
+[2022.12.06-16.59.31:581][390]LogOutputDevice: Error: 
