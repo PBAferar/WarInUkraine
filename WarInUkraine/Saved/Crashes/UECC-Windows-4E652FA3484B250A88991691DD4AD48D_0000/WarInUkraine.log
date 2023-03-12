@@ -1,0 +1,1490 @@
+﻿Log file open, 03/12/23 18:39:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10984)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WarInUkraine
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1147] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b21d18a943af6719011648b706085244"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.259336
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-4E652FA3484B250A88991691DD4AD48D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosVehiclesPlugin/Content/' mounted to '/ChaosVehiclesPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1147] (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/Unrial5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.03.12-16.39.22:264][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.03.12-16.39.22:264][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.03.12-16.39.22:264][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.03.12-16.39.22:265][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.03.12-16.39.22:265][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.03.12-16.39.22:265][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.03.12-16.39.22:267][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.03.12-16.39.22:267][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.03.12-16.39.22:267][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.03.12-16.39.22:267][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.03.12-16.39.22:267][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.03.12-16.39.22:267][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.03.12-16.39.22:267][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.03.12-16.39.22:267][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.03.12-16.39.22:267][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.03.12-16.39.22:267][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.03.12-16.39.22:267][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.03.12-16.39.22:281][  0]LogD3D12RHI: Aftermath initialized
+[2023.03.12-16.39.22:281][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.03.12-16.39.22:433][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 SUPER (Max supported Feature Level 12_1, shader model 6.6)
+[2023.03.12-16.39.22:433][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 16356MB of shared system memory, 1 output[s]
+[2023.03.12-16.39.22:440][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.03.12-16.39.22:440][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16356MB of shared system memory, 0 output[s]
+[2023.03.12-16.39.22:441][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.03.12-16.39.22:441][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.12-16.39.22:441][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.03.12-16.39.22:441][  0]LogHAL: Display: Platform has ~ 32 GB [34301100032 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.12-16.39.22:441][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.03.12-16.39.22:441][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.03.12-16.39.22:441][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.12-16.39.22:441][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.03.12-16.39.22:441][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Saved/Config/WindowsEditor/Editor.ini]
+[2023.03.12-16.39.22:441][  0]LogInit: Computer: USER-PC
+[2023.03.12-16.39.22:441][  0]LogInit: User: New
+[2023.03.12-16.39.22:441][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.03.12-16.39.22:441][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.12-16.39.22:441][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.03.12-16.39.22:441][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.03.12-16.39.22:441][  0]LogMemory: Process Physical Memory: 264.41 MB used, 273.86 MB peak
+[2023.03.12-16.39.22:441][  0]LogMemory: Process Virtual Memory: 206.82 MB used, 206.82 MB peak
+[2023.03.12-16.39.22:441][  0]LogMemory: Physical Memory: 9181.50 MB used,  23530.57 MB free, 32712.08 MB total
+[2023.03.12-16.39.22:441][  0]LogMemory: Virtual Memory: 14198.48 MB used,  23377.60 MB free, 37576.08 MB total
+[2023.03.12-16.39.22:441][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.03.12-16.39.22:443][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.12-16.39.22:456][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.03.12-16.39.22:457][  0]LogInit: Using OS detected language (ru-RU).
+[2023.03.12-16.39.22:457][  0]LogInit: Using OS detected locale (ru-RU).
+[2023.03.12-16.39.22:460][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so 'ru' will be used for the language.
+[2023.03.12-16.39.22:460][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2023.03.12-16.39.22:460][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2023.03.12-16.39.22:460][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2023.03.12-16.39.22:460][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2023.03.12-16.39.22:460][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2023.03.12-16.39.22:460][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2023.03.12-16.39.22:461][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.03.12-16.39.22:461][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.12-16.39.22:472][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.03.12-16.39.22:472][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - (Keyboard).
+[2023.03.12-16.39.22:472][  0]LogWindowsTextInputMethodSystem:   - Английский (США) - (Keyboard).
+[2023.03.12-16.39.22:472][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - Сенсорный ввод — исправление (TSF IME).
+[2023.03.12-16.39.22:472][  0]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.03.12-16.39.22:486][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.12-16.39.22:487][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.12-16.39.22:608][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.03.12-16.39.22:611][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.03.12-16.39.22:611][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.03.12-16.39.22:707][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.03.12-16.39.22:740][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.03.12-16.39.22:746][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.03.12-16.39.22:757][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.03.12-16.39.22:768][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.03.12-16.39.22:768][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.03.12-16.39.22:813][  0]LogD3D12RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.12-16.39.22:813][  0]LogWindows: Attached monitors:
+[2023.03.12-16.39.22:813][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.03.12-16.39.22:813][  0]LogWindows: Found 1 attached monitors.
+[2023.03.12-16.39.22:813][  0]LogWindows: EnumDisplayDevices:
+[2023.03.12-16.39.22:813][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.03.12-16.39.22:813][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.03.12-16.39.22:814][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.03.12-16.39.22:814][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.03.12-16.39.22:814][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.03.12-16.39.22:814][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2023.03.12-16.39.22:814][  0]LogD3D12RHI:   Driver Version: 528.49 (internal:31.0.15.2849, unified:528.49)
+[2023.03.12-16.39.22:814][  0]LogD3D12RHI:      Driver Date: 2-2-2023
+[2023.03.12-16.39.22:814][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2023.03.12-16.39.22:814][  0]LogD3D12RHI: Async texture creation enabled
+[2023.03.12-16.39.22:814][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.03.12-16.39.22:825][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.03.12-16.39.22:831][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyReport_0.log" -log="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyLog_0.log" -project="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject"  -platform=all'
+[2023.03.12-16.39.22:831][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/EpicGames/Unrial5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyReport_0.log" -log="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyLog_0.log" -project="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject"  -platform=all" ]
+[2023.03.12-16.39.22:851][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.03.12-16.39.22:858][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.03.12-16.39.22:858][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.03.12-16.39.22:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.12-16.39.22:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.12-16.39.22:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.12-16.39.22:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.12-16.39.22:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.12-16.39.22:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.12-16.39.22:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.12-16.39.22:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.12-16.39.22:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.12-16.39.22:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.12-16.39.22:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.03.12-16.39.22:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.03.12-16.39.22:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.12-16.39.22:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.12-16.39.22:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.12-16.39.22:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.03.12-16.39.22:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.12-16.39.22:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.12-16.39.22:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.03.12-16.39.22:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.03.12-16.39.22:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.03.12-16.39.22:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.12-16.39.22:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.12-16.39.22:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.12-16.39.22:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.03.12-16.39.22:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.12-16.39.22:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.12-16.39.22:901][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.03.12-16.39.22:908][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.12-16.39.22:911][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.03.12-16.39.22:911][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.03.12-16.39.22:911][  0]LogTargetPlatformManager:   ADPCM
+[2023.03.12-16.39.22:911][  0]LogTargetPlatformManager:   PCM
+[2023.03.12-16.39.22:913][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.03.12-16.39.22:913][  0]LogTargetPlatformManager:   BINKA
+[2023.03.12-16.39.22:913][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.03.12-16.39.22:913][  0]LogTargetPlatformManager:   OGG
+[2023.03.12-16.39.22:913][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.03.12-16.39.22:913][  0]LogTargetPlatformManager:   OPUS
+[2023.03.12-16.39.22:954][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2023.03.12-16.39.22:954][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   SF_METAL
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.03.12-16.39.22:960][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.03.12-16.39.22:962][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.03.12-16.39.22:962][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.03.12-16.39.22:963][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.03.12-16.39.22:963][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.03.12-16.39.22:963][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.03.12-16.39.22:963][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.03.12-16.39.22:963][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.03.12-16.39.22:963][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2023.03.12-16.39.22:963][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Works/WarInUkraine/WarInUkraine/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.12-16.39.22:963][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.12-16.39.22:963][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Works/WarInUkraine/WarInUkraine/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.12-16.39.22:963][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.12-16.39.22:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Works/WarInUkraine/WarInUkraine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.12-16.39.22:966][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.03.12-16.39.22:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Works/WarInUkraine/WarInUkraine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.12-16.39.22:966][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.03.12-16.39.22:988][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.03.12-16.39.22:988][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.12-16.39.22:988][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.03.12-16.39.22:994][  0]LogDerivedDataCache: Speed tests for C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.03.12-16.39.22:994][  0]LogDerivedDataCache: Display: Performance to C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1396.98MBs, RandomWriteSpeed=186.24MBs. Assigned SpeedClass 'Local'
+[2023.03.12-16.39.22:995][  0]LogDerivedDataCache: Using Local data cache path C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.12-16.39.22:995][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.12-16.39.22:995][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.03.12-16.39.23:001][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.03.12-16.39.23:001][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.03.12-16.39.23:001][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../Works/WarInUkraine/WarInUkraine/Intermediate/Shaders/WorkingDirectory/5652/).
+[2023.03.12-16.39.23:002][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/New/AppData/Local/Temp/UnrealShaderWorkingDir/AC2243F04B225378D1177D9FF23911CB/'.
+[2023.03.12-16.39.23:002][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.12-16.39.23:002][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.03.12-16.39.24:773][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.12-16.39.24:774][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.12-16.39.24:812][  0]LogAssetRegistry: FAssetRegistry took 0.0138 seconds to start up
+[2023.03.12-16.39.24:817][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.03.12-16.39.25:077][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.03.12-16.39.25:077][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.03.12-16.39.25:354][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.12-16.39.25:354][  0]LogDeviceProfileManager: Active device profile: [000007EAA8F71500][000007EA9D577800 50] WindowsEditor
+[2023.03.12-16.39.25:354][  0]LogDeviceProfileManager: Profiles: [000007EAA8F70FC0][000007EA9D570000 50] Windows, [000007EAA8F71500][000007EA9D577800 50] WindowsEditor, [000007EAA8F72680][000007EA9D505000 50] WindowsServer, [000007EAA8F70A80][000007EA9D575000 50] WindowsClient, [000007EAA8F71C00][000007EAA8F00000 50] IOS, [000007EAA8F70000][000007EAA8F05000 50] iPadAir2, [000007EAA8F74EC0][000007EAA8F0A000 50] IPadPro, [000007EAA8F75240][000007EAA8F07800 50] iPadAir3, [000007EAA8F70C40][000007EAA8F0C800 50] iPadAir4, [000007EAA8F739C0][000007EA9056A000 50] iPadMini4, [000007EAA8F72840][000007EAA8F30000 50] iPadMini5, [000007EAA8F70540][000007EAA8F35000 50] iPadMini6, [000007EAA8F77FC0][000007EAA8F3C800 50] iPhone6S, [000007EAA8F78340][000007EAA8F3A000 50] iPhone7, [000007EAA8F786C0][000007EAA8F37800 50] iPodTouch7, [000007EAA8F70700][000007EAA8F02800 50] iPhone6SPlus, [000007EAA8F771C0][000007EAA8F90000 50] iPhone7Plus, [000007EAA8F77C40][000007EAA8F95000 50] iPhoneSE, [000007EAA8F73640][000007EAA8F97800 50] iPhone8, [000007EAA8F78880][000007EAA8F9A000 50] iPhone8Plus, [000007EAA8F77700][000007EAA8F9C800 50] iPhoneX, [000007EAA8F73480][000007EAA8F32800 50] iPhoneXS, [000007EAA8F75080][000007EAA8FB0000 50] iPhoneXSMax, [000007EAA8F71880][000007EAA8FB5000 50] iPhoneXR, [000007EAA8F763C0][000007EAA8FB7800 50] iPhone11, [000007EAA8F755C0][000007EAA8FBA000 50] iPhone11Pro, [000007EAA8F71340][000007EAA8FBC800 50] iPhone11ProMax, [000007EAA8F72D80][000007EAA8F92800 50] iPhoneSE2, [000007EAA8F74440][000007EAA8F50000 50] iPhone12Mini, [000007EAA8F701C0][000007EAA8F55000 50] iPhone12, [000007EAA8F73F00][000007EAA8F57800 50] iPhone12Pro, [000007EAA8F74980][000007EAA8F5A000 50] iPhone12ProMax, [000007EAA8F75940][000007EAA8F5C800 50] iPhone13Mini, [000007EAA8F77540][000007EAA8FB2800 50] iPhone13, [000007EAA8F747C0][000007EAA8FD0000 50] iPhone13Pro, [000007EAA8F74B40][000007EAA8FD5000 50] iPhone13ProMax, [000007EAA8F78180][000007EAA8FD7800 50] iPadPro105, [000007EAA8F75400][000007EAA8FDA000 50] iPadPro129, [000007EAA8F78C00][000007EAA8FDC800 50] iPadPro97, [000007EAA8F77380][000007EAA8F52800 50] iPadPro2_129, [000007EAA8F708C0][000007EAA8FE0000 50] iPad5, [000007EAA8F71F80][000007EAA8FE5000 50] iPad6, [000007EAA8F72300][000007EAA8FE7800 50] iPad7, [000007EAA8F73100][000007EAA8FEA000 50] iPad8, [000007EAA8F76C80][000007EAA8FEC800 50] iPad9, [000007EAA8F71DC0][000007EAA8FD2800 50] iPadPro11, [000007EAA8F76040][000007EAA8FF0000 50] iPadPro2_11, [000007EAA8F73B80][000007EAA8FF5000 50] iPadPro3_11, [000007EAA8F76E40][000007EAA8FF7800 50] iPadPro3_129, [000007EAA8F73D40][000007EAA8FFA000 50] iPadPro4_129, [000007EAA8F78500][000007EAA8FFC800 50] iPadPro5_129, [000007EAA8F73800][000007EAA8FE2800 50] AppleTV, [000007EAA8F75E80][000007EAA91A0000 50] AppleTV4K, [000007EAA8F778C0][000007EAA91A5000 50] TVOS, [000007EAA8F7A2C0][000007EAA91AA000 50] Mac, [000007EAA8F7A640][000007EAA91A7800 50] MacEditor, [000007EAA8F75780][000007EAA91AC800 50] MacClient, [000007EAA8F7A100][000007EAA8FF2800 50] MacServer, [000007EAA8F7A480][000007EAA91B2800 50] Linux, [000007EAA8F7A800][000007EAA91B0000 50] LinuxEditor, [000007EAA8F72BC0][000007EAA91B7800 50] LinuxArm64Editor, [000007EAA8F75CC0][000007EAA91BA000 50] LinuxArm64, [000007EAA8F70380][000007EAA91BC800 50] LinuxClient, [000007EAA8F77000][000007EAA91A2800 50] LinuxArm64Client, [000007EAA8F77A80][000007EAA91C0000 50] LinuxServer, [000007EAA8F72F40][000007EAA91C5000 50] LinuxArm64Server, [000007EAA8F78A40][000007EAA91C7800 50] Android, [000007EAA8F79680][000007EAA91CA000 50] Android_Preview_OpenGL, [000007EAA8F74D00][000007EAA91CC800 50] Android_Preview_Vulkan, [000007EAA8F78F80][000007EAA91B5000 50] Android_Low, [000007EAA8F76200][000007EAA91D0000 50] Android_Mid, [000007EAA8F7AB80][000007EAA91D5000 50] Android_High, [000007EAA8F72140][000007EAA91D7800 50] Android_Default, [000007EAA8F740C0][000007EAA91DA000 50] Android_Adreno4xx, [000007EAA8F724C0][000007EAA91DC800 50] Android_Adreno5xx_Low, [000007EAA8F79840][000007EAA91C2800 50] Android_Adreno5xx, [000007EAA8F716C0][000007EAA91E0000 50] Android_Adreno6xx, [000007EAA8F77E00][000007EAA91E5000 50] Android_Adreno6xx_Vulkan, [000007EAA8F71A40][000007EAA91E7800 50] Android_Adreno7xx, [000007EAA8F74600][000007EAA91EA000 50] Android_Adreno7xx_Vulkan, [000007EAA8F7B7C0][000007EAA91EC800 50] Android_Mali_T6xx, [000007EAA8F79D80][000007EAA91D2800 50] Android_Mali_T7xx, [000007EAA8F7AF00][000007EAA9190000 50] Android_Mali_T8xx, [000007EAA8F70E00][000007EAA9195000 50] Android_Mali_G71, [000007EAA8F7B980][000007EAA9197800 50] Android_Mali_G72, [000007EAA8F794C0][000007EAA919A000 50] Android_Mali_G72_Vulkan, [000007EAA8F79140][000007EAA919C800 50] Android_Mali_G76, [000007EAA8F78DC0][000007EAA91E2800 50] Android_Mali_G76_Vulkan, [000007EAA8F79A00][000007EAA91F0000 50] Android_Mali_G77, [000007EAA8F7C780][000007EAA91F5000 50] Android_Mali_G77_Vulkan, [000007EAA8F76900][000007EAA91F7800 50] Android_Mali_G78, [000007EAA8F7BEC0][000007EAA91FA000 50] Android_Mali_G78_Vulkan, [000007EAA8F7A9C0][000007EAA91FC800 50] Android_Mali_G710, [000007EAA8F7C940][000007EAA9192800 50] Android_Mali_G710_Vulkan, [000007EAA8F79BC0][000007EAA9200000 50] Android_Xclipse_920, [000007EAA8F7AD40][000007EAA9205000 50] Android_Xclipse_920_Vulkan, [000007EAA8F79F40][000007EAA9207800 50] Android_Vulkan_SM5, [000007EAA8F76580][000007EAA920A000 50] Android_PowerVR_G6xxx, [000007EAA8F7D740][000007EAA920C800 50] Android_PowerVR_GT7xxx, [000007EAA8F7B0C0][000007EAA91F2800 50] Android_PowerVR_GE8xxx, [000007EAA8F79300][000007EAA9210000 50] Android_PowerVR_GM9xxx, [000007EAA8F7B600][000007EAA9215000 50] Android_PowerVR_GM9xxx_Vulkan, [000007EAA8F7D900][000007EAA9217800 50] Android_TegraK1, [000007EAA8F72A00][000007EAA921A000 50] Android_Unknown_Vulkan, [000007EAA8F7D040][000007EAA921C800 50] Oculus_Quest, [000007EAA8F7D580][000007EAA9202800 50] Oculus_Quest2, [000007EAA8F7E700][000007EAA9220000 50] HoloLens, 
+[2023.03.12-16.39.25:355][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.03.12-16.39.25:381][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.03.12-16.39.25:681][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.12-16.39.25:681][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.12-16.39.25:681][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.12-16.39.25:681][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.12-16.39.25:681][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.12-16.39.25:696][  0]LogNetVersion: WarInUkraine 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3806673830)
+[2023.03.12-16.39.25:893][  0]LogSlate: Border
+[2023.03.12-16.39.25:893][  0]LogSlate: BreadcrumbButton
+[2023.03.12-16.39.25:893][  0]LogSlate: Default
+[2023.03.12-16.39.25:893][  0]LogSlate: Icons.Save
+[2023.03.12-16.39.25:893][  0]LogSlate: Icons.Toolbar.Settings
+[2023.03.12-16.39.25:893][  0]LogSlate: ListView
+[2023.03.12-16.39.25:893][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.03.12-16.39.25:893][  0]LogSlate: SoftwareCursor_Grab
+[2023.03.12-16.39.25:893][  0]LogSlate: TableView.DarkRow
+[2023.03.12-16.39.25:893][  0]LogSlate: TableView.Row
+[2023.03.12-16.39.25:893][  0]LogSlate: TreeView
+[2023.03.12-16.39.26:133][  0]SourceControl: Source control is disabled
+[2023.03.12-16.39.26:176][  0]SourceControl: Source control is disabled
+[2023.03.12-16.39.26:176][  0]SourceControl: Source control is disabled
+[2023.03.12-16.39.26:351][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.03.12-16.39.26:351][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.03.12-16.39.26:351][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.12-16.39.26:802][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 62B1CC884C1EF6D5DA286F9A7F14ADD4 | Instance: 858019CF4EDC2D5A38D50484D27A1200 (USER-PC-5652).
+[2023.03.12-16.39.26:903][  0]LogPython: Using Python 3.9.7
+[2023.03.12-16.39.28:081][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.12-16.39.28:087][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.12-16.39.28:196][  0]SourceControl: Source control is disabled
+[2023.03.12-16.39.28:228][  0]SourceControl: Source control is disabled
+[2023.03.12-16.39.28:236][  0]SourceControl: Source control is disabled
+[2023.03.12-16.39.28:491][  0]LogUProjectInfo: Found projects:
+[2023.03.12-16.39.28:530][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.12-16.39.28:585][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.12-16.39.28:635][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.12-16.39.28:635][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.12-16.39.28:732][  0]LogCollectionManager: Loaded 0 collections in 0.000878 seconds
+[2023.03.12-16.39.28:827][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Saved/Collections/' took 0.00s
+[2023.03.12-16.39.28:828][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/Developers/New/Collections/' took 0.00s
+[2023.03.12-16.39.28:828][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/Collections/' took 0.00s
+[2023.03.12-16.39.29:186][  0]LogClass: Display: FloatProperty FParticleTransformTrack::BeginOffset is not initialized properly. Module:ChaosCaching File:Public/Chaos/ChaosCache.h
+[2023.03.12-16.39.29:186][  0]LogClass: Display: BoolProperty FParticleTransformTrack::bDeactivateOnEnd is not initialized properly. Module:ChaosCaching File:Public/Chaos/ChaosCache.h
+[2023.03.12-16.39.29:187][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2023.03.12-16.39.29:192][  0]LogEngine: Initializing Engine...
+[2023.03.12-16.39.29:211][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.03.12-16.39.29:212][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.12-16.39.29:610][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.12-16.39.29:610][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.12-16.39.29:626][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-16.39.29:667][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.12-16.39.29:668][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.12-16.39.29:698][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.12-16.39.29:699][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.12-16.39.29:699][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.03.12-16.39.29:699][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.12-16.39.29:699][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.12-16.39.29:699][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.12-16.39.29:699][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.12-16.39.29:699][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.12-16.39.29:700][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.12-16.39.29:700][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.12-16.39.29:700][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.12-16.39.29:700][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.12-16.39.29:700][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.12-16.39.29:700][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.12-16.39.29:700][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.12-16.39.29:700][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.12-16.39.29:707][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.12-16.39.29:766][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2023.03.12-16.39.29:767][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.12-16.39.29:768][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.12-16.39.29:769][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.12-16.39.29:769][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.03.12-16.39.29:769][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.12-16.39.29:771][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.12-16.39.29:771][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.03.12-16.39.29:771][  0]LogInit: FAudioDevice initialized.
+[2023.03.12-16.39.29:771][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.12-16.39.29:771][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.12-16.39.29:771][  0]LogInit: Texture streaming: Enabled
+[2023.03.12-16.39.29:821][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.03.12-16.39.29:833][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.12-16.39.29:870][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.03.12-16.39.29:883][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.03.12-16.39.29:883][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.03.12-16.39.36:473][  0]LogLiveCoding: Display: First instance in process group "UE_WarInUkraine_0x2c562714", spawning console
+[2023.03.12-16.39.36:473][  0]LogLiveCoding: Display: Waiting for server
+[2023.03.12-16.39.36:473][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.03.12-16.39.36:511][  0]LogInit: Transaction tracking system initialized
+[2023.03.12-16.39.36:625][  0]BlueprintLog: New page: Editor Load
+[2023.03.12-16.39.36:913][  0]LocalizationService: Localization service is disabled
+[2023.03.12-16.39.36:982][  0]TimingProfiler: Initialize
+[2023.03.12-16.39.36:982][  0]TimingProfiler: OnSessionChanged
+[2023.03.12-16.39.36:982][  0]LoadingProfiler: Initialize
+[2023.03.12-16.39.36:982][  0]LoadingProfiler: OnSessionChanged
+[2023.03.12-16.39.36:982][  0]NetworkingProfiler: Initialize
+[2023.03.12-16.39.36:982][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.12-16.39.36:982][  0]MemoryProfiler: Initialize
+[2023.03.12-16.39.36:982][  0]MemoryProfiler: OnSessionChanged
+[2023.03.12-16.39.37:897][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/' took 0.04s
+[2023.03.12-16.39.37:897][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.03.12-16.39.37:997][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.12-16.39.37:999][  0]SourceControl: Source control is disabled
+[2023.03.12-16.39.37:999][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.902
+[2023.03.12-16.39.37:999][  0]Cmd: MAP LOAD FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.12-16.39.37:999][  0]LightingResults: New page: Lighting Build
+[2023.03.12-16.39.38:010][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-16.39.38:010][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-16.39.38:010][  0]MapCheck: New page: Map Check
+[2023.03.12-16.39.38:010][  0]LightingResults: New page: Lighting Build
+[2023.03.12-16.39.38:018][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.12-16.39.38:022][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.12-16.39.38:302][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:302][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:302][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:302][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:302][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_L' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:302][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:302][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:302][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:302][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:302][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:303][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:303][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.12-16.39.38:310][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Idle to MM_Idle_LapTop  will never be taken, please connect something to  Can Enter Transition
+[2023.03.12-16.39.38:311][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Walk / Run to MM_Idle_LapTop  will never be taken, please connect something to  Can Enter Transition
+[2023.03.12-16.39.38:311][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] MM_Idle_LapTop to Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.03.12-16.39.38:311][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] MM_Idle_LapTop to Walk / Run  will never be taken, please connect something to  Can Enter Transition
+[2023.03.12-16.39.38:636][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\FirstPerson\Maps\FirstPersonMap.umap: [Compiler] InputAction Event references unknown Action 'OutPaused' for  InputAction OutPaused
+[2023.03.12-16.39.39:129][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.03.12-16.39.39:143][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-16.39.39:143][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.12-16.39.39:144][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-16.39.39:144][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.03.12-16.39.39:498][  0]LogWorldPartition: Display: WorldPartition initialize took 353 ms
+[2023.03.12-16.39.39:505][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.12-16.39.39:738][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.03.12-16.39.39:738][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.12-16.39.39:739][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,396ms to complete.
+[2023.03.12-16.39.39:739][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 1.740
+[2023.03.12-16.39.39:757][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.660
+[2023.03.12-16.39.39:757][  0]LogShaderCompilers: Display: ================================================
+[2023.03.12-16.39.39:757][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.12-16.39.39:757][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.12-16.39.39:757][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.12-16.39.39:757][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.12-16.39.39:757][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.12-16.39.39:757][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.12-16.39.39:757][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.12-16.39.39:757][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.12-16.39.39:757][  0]LogShaderCompilers: Display: ================================================
+[2023.03.12-16.39.39:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-16.39.39:882][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-16.39.39:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-16.39.39:898][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-16.39.40:022][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.03.12-16.39.40:022][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.12-16.39.40:023][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.03.12-16.39.40:023][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.12-16.39.40:023][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.03.12-16.39.40:023][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.12-16.39.40:024][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.03.12-16.39.40:024][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.12-16.39.40:025][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.03.12-16.39.40:025][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.12-16.39.40:026][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.03.12-16.39.40:026][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.12-16.39.40:026][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.03.12-16.39.40:026][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.12-16.39.40:027][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.03.12-16.39.40:027][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.12-16.39.40:027][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.03.12-16.39.40:027][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.12-16.39.40:028][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.03.12-16.39.40:028][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.12-16.39.40:028][  0]LogFeaturePack: Error: Error in Feature pack D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.03.12-16.39.40:187][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.12-16.39.40:191][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.12-16.39.40:192][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.12-16.39.40:220][  0]LogViewport: Scene viewport resized to 1292x825, mode Windowed.
+[2023.03.12-16.39.41:365][  0]LogStall: Startup...
+[2023.03.12-16.39.41:367][  0]LogStall: Startup complete.
+[2023.03.12-16.39.41:385][  0]LogLoad: (Engine Initialization) Total time: 20.29 seconds
+[2023.03.12-16.39.41:385][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.12-16.39.41:443][  0]LogAssetRegistry: Asset discovery search completed in 16.6318 seconds
+[2023.03.12-16.39.41:451][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.03.12-16.39.41:454][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.12-16.39.42:442][ 28]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.12-16.40.07:599][889]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.12-16.40.07:605][889]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.12-16.40.31:788][570]LogSlate: Window 'New Level' being destroyed
+[2023.03.12-16.40.31:794][570]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.12-16.40.31:794][570]LightingResults: New page: Lighting Build
+[2023.03.12-16.40.31:794][570]LoadErrors: New page: Loading map: OpenWorld.umap
+[2023.03.12-16.40.31:797][570]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-16.40.31:797][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-16.40.31:809][570]MapCheck: New page: Map Check
+[2023.03.12-16.40.31:809][570]LightingResults: New page: Lighting Build
+[2023.03.12-16.40.31:818][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.12-16.40.31:823][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.03.12-16.40.31:827][570]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.03.12-16.40.31:828][570]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-16.40.31:828][570]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.12-16.40.31:828][570]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-16.40.31:828][570]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.03.12-16.40.31:902][570]LogMaterial: Display: Missing cached shadermap for M_ProcGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 7FDF2D69016E1478A491CEB89486AE929993DA69), compiling. 
+[2023.03.12-16.40.32:116][570]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 82C0D6EE2305209C9698A8B6F02D09BA64A7FB8D), compiling. 
+[2023.03.12-16.40.32:518][570]LogWorldPartition: Display: WorldPartition initialize took 689 ms
+[2023.03.12-16.40.33:246][570]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.12-16.40.33:266][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.12-16.40.33:267][570]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.12-16.40.33:283][570]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 16,491ms to complete.
+[2023.03.12-16.40.33:283][570]LogFileHelpers: Loading map 'OpenWorld' took 1.490
+[2023.03.12-16.40.50:577][124]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.03.12-16.40.50:577][124]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.03.12-16.41.00:876][124]LogSlate: Window 'Save Level As' being destroyed
+[2023.03.12-16.41.01:037][124]LogMaterial: Display: Missing cached shadermap for M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0FC641FCD63AC4B6078234F881646C9CED0FCED5), compiling. 
+[2023.03.12-16.41.03:097][124]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Kvik/KvikSave/TestLevel_HLOD0_Instancing
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/LC/8MIL248QRRG5DNGRI1TSMP
+/Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/5/BF/6953Q0YZPYC1ECD3LO00TN
+/Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/0/B2/F5L4G3V9U0K7ZSUDNE9RCR
+/Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/0/13/XV0LRG0PJXUPDN8RTUKM9B
+/Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/4/6D/RWT8ISIZ0WHLAV0O3YIDF3
+/Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/7/N5/DD2VJS8YFTDXZXBHXWSU6A
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/ZQ/PA45330RF0SZAN1RD1NIFF
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/I7/XRVCJ3NJD73OVZ0TLUU8NS
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/BL/Y16TG8D7T0JVSG3JN3KQM5
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/NT/RV5TMQRI3FQJKZADG4OSPL
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/W5/EW80H71UMVDA9NKSLNBFHM
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/UW/T6816YYXW49NR5Z2BFD9B2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/6D/AR67GCFCNM5H72BL3DD1XT
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/PD/RKEWKFGNCO67EY374MEQ0P
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/8X/Z9HBBBIH12ADB5LHOF9UBU
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/13/4BQ4Y59XT4E4HLEBRSY003
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/M1/PQ8LWEBYX4KAZFCZ65PN9F
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/GU/4JZVTGMN88ZTNA1HPUWT4C
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/NM/K2KH7UQB0GNRYFF9B6ELCX
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/GN/0PUKD44TF92YA9Q77T66GF
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/5K/NXWIT3KAV74FSRQAWYDI3E
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/EK/ZET5SE93TDQXOZ70QQMOU5
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/KH/WJB0DHKGJFHHCMGSVRG62F
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BB/RJVIZUYSCEZGIARJH3JTUE
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/XX/2ZWSYZ9O8ZMRZN8HVXLLEM
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/4B/T9B9EKNC4DRIYKC2SR4HMN
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/XN/D6XVUIPI116HBIOVMAJ0NC
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/WT/PF73Y24RB5U8OHQY3HJHGP
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/NV/FPZPA0DU5SJWSUB30G5YGE
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/91/RON4BPLONOL70MDODAXPLF
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/BO/DKS2SN5S4O55DODGY6V0S2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/XP/5EP7R69QENZRKFSPVM57AX
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/ME/VV1RTPF502I7GTJBLBHTTN
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/AZ/K2670CPBXBB0Z1MTHN7G40
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/SM/LTP09GQ5F0OTASB62KBDOK
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/AX/9LYUE3OLZ0Y5F76DWTZ5U3
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/HS/IK582Y6D6FFFPJ6UX3ASIV
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/KG/LCBK2CLLND80AQBB7FKODJ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/99/QWJRFG65EJSZP0VSGO2P0O
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/M9/7XMS37EE5AUP2U6JY09VHI
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/HY/ENYF47CK4EXI0NYHU1I94K
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/HH/M0D3BR9ENSHXPSUISMKSX2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/EM/1TMZL9Q1NEDGL050BGUIXZ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/U9/XQOLXT8FVBLT0G0I6U47YW
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/TM/FUQNKR98IF536SO0OGPQ13
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/63/KG07V0LLYRADDSJL7E7XCC
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/KT/S9ADYWD4U1O3UQSESZKC0R
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/K7/N2UWQABYP8RID83QLZH9BV
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/TS/7DFKBZY7173IE94ZS6ITJJ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/YT/N4NETJLH1JHZ1ZKC7R14L6
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/0S/QLG44E4ZILE3GECG8Z4QMS
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/IJ/TNHKY7DXAQKQWKK3GASKWY
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/SG/GE8ZLHUW5AC5X10ECOGULN
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/SX/ENN41J8CYU0JF8P74Q6TGZ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/B5/2RS7EM82Z3ETBPIXFGHY38
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/S6/0WZM4VYKILFDP03HG3UNTS
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/PC/18R856E8DOZKOBCJ3M5ED2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/ZI/VNLPI54VU4AJX0KHDDKUQC
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/QR/K1X9JVYNKLWJHTPGMYJK94
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/T3/KVAHZJLQM8ZOQIO6HYBJ8M
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/HN/4ORX4VB22E0UJCXBRL8LX9
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/P1/ADABWZW1M908G1DXVHG8CF
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/9Y/TWMYSU2OOYFMV4QQ0U421K
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/R2/EUDP2CRQ5HPFE2DF0VDIYY
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/X5/YEUNQKWI0WRG3RT6D3VB9R
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/FO/7WKFVCWBRJWGRCTNKBZLJO
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/QK/VXXZX0AZX52KU0JWSHOLR2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/ZE/SKU3B97HI2WM4RCNUWVP6Z
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/7V/H63HT6M7UHQ9TKP14BABQZ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/UT/4UHKQGN4WHZWU02WAG6ZTR
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/6P/F61XSJX13S54HPYZCGMVLL
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/46/JVLLAKQJQAB42LDT8OPGDO
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/S7/V9SG869GF03NDY55IALCL3
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/XB/4JGJ0YQVXEQNZA9DO6BSF2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/SK/3EH1GCMVOQYNJ3D11YXCD5
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/DO/B0DE35UCT5792C2W3V53RD
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/ZS/3IA3P4WY38XP1465VEWS2E
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/7I/RBT8L968M1VPFYISVYMDC3
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/6V/Q0AK3SOZ4P7GYVJQNACPUQ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/8F/XBYD3G14QQUNAC9ON6D1EY
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/1L/NE9DR7T1C0FUL0SHLUZVIU
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/II/F96QV95HT4U0L00H01M8L7
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/IF/0ZR9TG19GGWFEJXS2J89MW
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/QT/MEQ2240024D1JNNNK6KSO5
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BL/9GZ6993VMZ9NYGY4RM7C54
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/8F/112Z1A2OTTTXU3XRQ69VO9
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/FP/R0P1LLPDY6GM0YV22P68SU
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/OX/MV9QRQ91XCSSIZGV8PEW0D
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/VN/TAYY25OD7KUFWO30MKXMS3
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/QE/108P81OOU6LFKW2E2C4HQU
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/GQ/WMJ9P6UKYTGM2UQV7E3UTK
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/E2/33BXSFOAUUMR5IPU0XIDWX
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/LO/FF22KPBM1R5DIUN3MZK1HH
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/HB/ZLYTS17OELYCZFMXSD6WXB
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/ML/I0JEIGCD66GVS3E0ADU60Q
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/Z9/ZXWH7VESFXI4ONSDMFAHTV
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/WE/801H59Q6VFLB6JSH276V1U
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/W0/64XN4HAF39PSIL7HO3CE6E
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/BS/87EQ6OO1B73E47HHK67RGU
+[2023.03.12-16.41.03:099][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/KvikSave/TestLevel_HLOD0_Instancing" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/KvikSave/TestLevel_HLOD0_Instancing.uasset" SILENT=true
+[2023.03.12-16.41.03:112][124]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.012095 seconds
+[2023.03.12-16.41.03:114][124]LogSavePackage: Moving output files for package: /Game/Kvik/KvikSave/TestLevel_HLOD0_Instancing
+[2023.03.12-16.41.03:115][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/TestLevel_HLOD0_Instancing97B6A0EF4E8759EBFA4E3AA4CD9407AA.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/KvikSave/TestLevel_HLOD0_Instancing.uasset'
+[2023.03.12-16.41.03:124][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/LC/8MIL248QRRG5DNGRI1TSMP
+[2023.03.12-16.41.03:124][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/8MIL248QRRG5DNGRI1TSMP325606BE4C3C6890AA2336983B3023C5.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/D/LC/8MIL248QRRG5DNGRI1TSMP.uasset'
+[2023.03.12-16.41.03:129][124]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/5/BF/6953Q0YZPYC1ECD3LO00TN
+[2023.03.12-16.41.03:129][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/6953Q0YZPYC1ECD3LO00TN8AA286064BAD8B4DF43D7095BBDC8545.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalObjects__/Kvik/KvikSave/TestLevel/5/BF/6953Q0YZPYC1ECD3LO00TN.uasset'
+[2023.03.12-16.41.03:134][124]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/0/B2/F5L4G3V9U0K7ZSUDNE9RCR
+[2023.03.12-16.41.03:134][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/F5L4G3V9U0K7ZSUDNE9RCRE81E74D046470AB944B1E5AB19E0228A.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalObjects__/Kvik/KvikSave/TestLevel/0/B2/F5L4G3V9U0K7ZSUDNE9RCR.uasset'
+[2023.03.12-16.41.03:138][124]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/0/13/XV0LRG0PJXUPDN8RTUKM9B
+[2023.03.12-16.41.03:138][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/XV0LRG0PJXUPDN8RTUKM9B33A889D54E97E3DBC2029DB1CFA25956.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalObjects__/Kvik/KvikSave/TestLevel/0/13/XV0LRG0PJXUPDN8RTUKM9B.uasset'
+[2023.03.12-16.41.03:143][124]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/4/6D/RWT8ISIZ0WHLAV0O3YIDF3
+[2023.03.12-16.41.03:143][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/RWT8ISIZ0WHLAV0O3YIDF394E39FF14A5E92673058A49A6FABDBD0.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalObjects__/Kvik/KvikSave/TestLevel/4/6D/RWT8ISIZ0WHLAV0O3YIDF3.uasset'
+[2023.03.12-16.41.03:148][124]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/7/N5/DD2VJS8YFTDXZXBHXWSU6A
+[2023.03.12-16.41.03:149][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/DD2VJS8YFTDXZXBHXWSU6ADF54FB28435AF9E8040044BDA6D15D8F.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalObjects__/Kvik/KvikSave/TestLevel/7/N5/DD2VJS8YFTDXZXBHXWSU6A.uasset'
+[2023.03.12-16.41.03:168][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/ZQ/PA45330RF0SZAN1RD1NIFF
+[2023.03.12-16.41.03:169][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/PA45330RF0SZAN1RD1NIFF7292556E4517518D8EC107B61E032067.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/E/ZQ/PA45330RF0SZAN1RD1NIFF.uasset'
+[2023.03.12-16.41.03:174][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/I7/XRVCJ3NJD73OVZ0TLUU8NS
+[2023.03.12-16.41.03:174][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/XRVCJ3NJD73OVZ0TLUU8NS995B37D2401C7D9B936EA79522400E13.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/B/I7/XRVCJ3NJD73OVZ0TLUU8NS.uasset'
+[2023.03.12-16.41.03:180][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/BL/Y16TG8D7T0JVSG3JN3KQM5
+[2023.03.12-16.41.03:180][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Y16TG8D7T0JVSG3JN3KQM5297F1FE04CF65FE57CF10AA4FE569E86.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/B/BL/Y16TG8D7T0JVSG3JN3KQM5.uasset'
+[2023.03.12-16.41.03:185][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/NT/RV5TMQRI3FQJKZADG4OSPL
+[2023.03.12-16.41.03:185][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/RV5TMQRI3FQJKZADG4OSPL249DE23746354E38783200A264129B74.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/B/NT/RV5TMQRI3FQJKZADG4OSPL.uasset'
+[2023.03.12-16.41.03:191][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/W5/EW80H71UMVDA9NKSLNBFHM
+[2023.03.12-16.41.03:191][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/EW80H71UMVDA9NKSLNBFHM21D76C8D4CEBF423EFCB1EA7EA70211B.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/0/W5/EW80H71UMVDA9NKSLNBFHM.uasset'
+[2023.03.12-16.41.03:198][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/UW/T6816YYXW49NR5Z2BFD9B2
+[2023.03.12-16.41.03:198][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/T6816YYXW49NR5Z2BFD9B255C511324D73DC1127CF0E92A94EB616.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/D/UW/T6816YYXW49NR5Z2BFD9B2.uasset'
+[2023.03.12-16.41.03:205][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/6D/AR67GCFCNM5H72BL3DD1XT
+[2023.03.12-16.41.03:205][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/AR67GCFCNM5H72BL3DD1XT6F507700466E523AEB069996A3749159.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/9/6D/AR67GCFCNM5H72BL3DD1XT.uasset'
+[2023.03.12-16.41.03:213][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/PD/RKEWKFGNCO67EY374MEQ0P
+[2023.03.12-16.41.03:213][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/RKEWKFGNCO67EY374MEQ0P57BA9E144A134EFBF01C5DB286CD2A42.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/E/PD/RKEWKFGNCO67EY374MEQ0P.uasset'
+[2023.03.12-16.41.03:240][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/8X/Z9HBBBIH12ADB5LHOF9UBU
+[2023.03.12-16.41.03:240][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Z9HBBBIH12ADB5LHOF9UBU29BA3E044007A36D12D863840E4BC9E4.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/E/8X/Z9HBBBIH12ADB5LHOF9UBU.uasset'
+[2023.03.12-16.41.03:261][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/13/4BQ4Y59XT4E4HLEBRSY003
+[2023.03.12-16.41.03:261][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/4BQ4Y59XT4E4HLEBRSY0030EFCEA22476FCC2245D866BFADC47FB8.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/1/13/4BQ4Y59XT4E4HLEBRSY003.uasset'
+[2023.03.12-16.41.03:346][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/M1/PQ8LWEBYX4KAZFCZ65PN9F
+[2023.03.12-16.41.03:346][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/PQ8LWEBYX4KAZFCZ65PN9F58B146F44BDFCB16E9D2C9A2A043D7D7.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/A/M1/PQ8LWEBYX4KAZFCZ65PN9F.uasset'
+[2023.03.12-16.41.03:454][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/GU/4JZVTGMN88ZTNA1HPUWT4C
+[2023.03.12-16.41.03:454][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/4JZVTGMN88ZTNA1HPUWT4C80C50DB54A269DFE1C7B5C869704ADEA.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/5/GU/4JZVTGMN88ZTNA1HPUWT4C.uasset'
+[2023.03.12-16.41.03:476][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/NM/K2KH7UQB0GNRYFF9B6ELCX
+[2023.03.12-16.41.03:476][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/K2KH7UQB0GNRYFF9B6ELCX9DF7534E489EA268EBB0ED83CF52A520.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/1/NM/K2KH7UQB0GNRYFF9B6ELCX.uasset'
+[2023.03.12-16.41.03:525][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/GN/0PUKD44TF92YA9Q77T66GF
+[2023.03.12-16.41.03:526][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/0PUKD44TF92YA9Q77T66GF4325D21D41069B8EFDA69C90651BFEDA.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/1/GN/0PUKD44TF92YA9Q77T66GF.uasset'
+[2023.03.12-16.41.03:560][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/5K/NXWIT3KAV74FSRQAWYDI3E
+[2023.03.12-16.41.03:560][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/NXWIT3KAV74FSRQAWYDI3EC661AA5E44A6C55CFB35F4BFDF5CABDC.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/C/5K/NXWIT3KAV74FSRQAWYDI3E.uasset'
+[2023.03.12-16.41.03:719][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/EK/ZET5SE93TDQXOZ70QQMOU5
+[2023.03.12-16.41.03:720][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/ZET5SE93TDQXOZ70QQMOU54282BF8F4F630305B91DA4A4E24E77EC.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/B/EK/ZET5SE93TDQXOZ70QQMOU5.uasset'
+[2023.03.12-16.41.03:736][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/KH/WJB0DHKGJFHHCMGSVRG62F
+[2023.03.12-16.41.03:736][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/WJB0DHKGJFHHCMGSVRG62FF0DE77AA41632A3592B3F1BB6B7D726A.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/E/KH/WJB0DHKGJFHHCMGSVRG62F.uasset'
+[2023.03.12-16.41.03:813][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BB/RJVIZUYSCEZGIARJH3JTUE
+[2023.03.12-16.41.03:813][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/RJVIZUYSCEZGIARJH3JTUEF7B4845144DE3239889920ADF2D3E172.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BB/RJVIZUYSCEZGIARJH3JTUE.uasset'
+[2023.03.12-16.41.03:876][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/XX/2ZWSYZ9O8ZMRZN8HVXLLEM
+[2023.03.12-16.41.03:876][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/2ZWSYZ9O8ZMRZN8HVXLLEM609CA9B1432FD9AB5BBF2FBFB567954D.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/8/XX/2ZWSYZ9O8ZMRZN8HVXLLEM.uasset'
+[2023.03.12-16.41.03:897][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/4B/T9B9EKNC4DRIYKC2SR4HMN
+[2023.03.12-16.41.03:898][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/T9B9EKNC4DRIYKC2SR4HMN28863466470640790F203C89DB258CC6.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/A/4B/T9B9EKNC4DRIYKC2SR4HMN.uasset'
+[2023.03.12-16.41.03:989][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/XN/D6XVUIPI116HBIOVMAJ0NC
+[2023.03.12-16.41.03:989][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/D6XVUIPI116HBIOVMAJ0NC379FF03E4444B16151D05F86E894DC77.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/3/XN/D6XVUIPI116HBIOVMAJ0NC.uasset'
+[2023.03.12-16.41.04:047][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/WT/PF73Y24RB5U8OHQY3HJHGP
+[2023.03.12-16.41.04:047][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/PF73Y24RB5U8OHQY3HJHGPAE8383CB447CEF47CE289881408E8E92.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/2/WT/PF73Y24RB5U8OHQY3HJHGP.uasset'
+[2023.03.12-16.41.04:089][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/NV/FPZPA0DU5SJWSUB30G5YGE
+[2023.03.12-16.41.04:089][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/FPZPA0DU5SJWSUB30G5YGE9C71755B4505B55A8805F3921D0CFE5E.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/5/NV/FPZPA0DU5SJWSUB30G5YGE.uasset'
+[2023.03.12-16.41.04:145][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/91/RON4BPLONOL70MDODAXPLF
+[2023.03.12-16.41.04:145][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/RON4BPLONOL70MDODAXPLF1B9F4CE94D5FB29BD8DF93A9B3294DEE.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/E/91/RON4BPLONOL70MDODAXPLF.uasset'
+[2023.03.12-16.41.04:162][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/BO/DKS2SN5S4O55DODGY6V0S2
+[2023.03.12-16.41.04:163][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/DKS2SN5S4O55DODGY6V0S20E622804472654A7CCB9A6B5815324A6.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/D/BO/DKS2SN5S4O55DODGY6V0S2.uasset'
+[2023.03.12-16.41.04:253][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/XP/5EP7R69QENZRKFSPVM57AX
+[2023.03.12-16.41.04:253][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/5EP7R69QENZRKFSPVM57AXCE7A21974B7AFE15925985B7D93E8DC2.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/B/XP/5EP7R69QENZRKFSPVM57AX.uasset'
+[2023.03.12-16.41.04:307][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/ME/VV1RTPF502I7GTJBLBHTTN
+[2023.03.12-16.41.04:307][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/VV1RTPF502I7GTJBLBHTTN1302F2F24E38962DEBBA67889045FF1C.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/2/ME/VV1RTPF502I7GTJBLBHTTN.uasset'
+[2023.03.12-16.41.04:329][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/AZ/K2670CPBXBB0Z1MTHN7G40
+[2023.03.12-16.41.04:329][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/K2670CPBXBB0Z1MTHN7G40B77E08874A546906BC66D68F75B63BFC.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/7/AZ/K2670CPBXBB0Z1MTHN7G40.uasset'
+[2023.03.12-16.41.04:389][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/SM/LTP09GQ5F0OTASB62KBDOK
+[2023.03.12-16.41.04:390][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/LTP09GQ5F0OTASB62KBDOKD09F73604A5D9246B4D267820B0C6A5D.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/9/SM/LTP09GQ5F0OTASB62KBDOK.uasset'
+[2023.03.12-16.41.04:410][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/AX/9LYUE3OLZ0Y5F76DWTZ5U3
+[2023.03.12-16.41.04:411][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/9LYUE3OLZ0Y5F76DWTZ5U317C1F29F4BBE4A74775C25ABE90B70D2.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/8/AX/9LYUE3OLZ0Y5F76DWTZ5U3.uasset'
+[2023.03.12-16.41.04:512][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/HS/IK582Y6D6FFFPJ6UX3ASIV
+[2023.03.12-16.41.04:512][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/IK582Y6D6FFFPJ6UX3ASIVC544EC9B455C49937E22438B077A5014.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/8/HS/IK582Y6D6FFFPJ6UX3ASIV.uasset'
+[2023.03.12-16.41.04:528][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/KG/LCBK2CLLND80AQBB7FKODJ
+[2023.03.12-16.41.04:528][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/LCBK2CLLND80AQBB7FKODJ36FB723C43B327F942523C9BCA1CC0AC.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/E/KG/LCBK2CLLND80AQBB7FKODJ.uasset'
+[2023.03.12-16.41.04:578][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/99/QWJRFG65EJSZP0VSGO2P0O
+[2023.03.12-16.41.04:578][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/QWJRFG65EJSZP0VSGO2P0OB611D27243ECB6F8AA3AD6813260D2A5.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/8/99/QWJRFG65EJSZP0VSGO2P0O.uasset'
+[2023.03.12-16.41.04:594][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/M9/7XMS37EE5AUP2U6JY09VHI
+[2023.03.12-16.41.04:594][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/7XMS37EE5AUP2U6JY09VHI1DCCFC8D4EDC67EFC7D75BBDA9FCD445.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/3/M9/7XMS37EE5AUP2U6JY09VHI.uasset'
+[2023.03.12-16.41.04:650][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/HY/ENYF47CK4EXI0NYHU1I94K
+[2023.03.12-16.41.04:650][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/ENYF47CK4EXI0NYHU1I94K62CEDF264FF74C02E237A2B03C61FA60.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/3/HY/ENYF47CK4EXI0NYHU1I94K.uasset'
+[2023.03.12-16.41.04:741][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/HH/M0D3BR9ENSHXPSUISMKSX2
+[2023.03.12-16.41.04:742][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/M0D3BR9ENSHXPSUISMKSX2CA25261E4A861BF6B8ECA792C6C5ABE4.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/D/HH/M0D3BR9ENSHXPSUISMKSX2.uasset'
+[2023.03.12-16.41.04:777][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/EM/1TMZL9Q1NEDGL050BGUIXZ
+[2023.03.12-16.41.04:777][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/1TMZL9Q1NEDGL050BGUIXZD4FEE2AF42E97CB2A85FFFB6018C7493.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/C/EM/1TMZL9Q1NEDGL050BGUIXZ.uasset'
+[2023.03.12-16.41.04:798][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/U9/XQOLXT8FVBLT0G0I6U47YW
+[2023.03.12-16.41.04:799][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/XQOLXT8FVBLT0G0I6U47YW3A046FA744117211AA9922963D951EE6.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/1/U9/XQOLXT8FVBLT0G0I6U47YW.uasset'
+[2023.03.12-16.41.04:818][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/TM/FUQNKR98IF536SO0OGPQ13
+[2023.03.12-16.41.04:818][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/FUQNKR98IF536SO0OGPQ13D9B154C540C4D1AA18C95CBF46CF0BFD.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/0/TM/FUQNKR98IF536SO0OGPQ13.uasset'
+[2023.03.12-16.41.04:840][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/63/KG07V0LLYRADDSJL7E7XCC
+[2023.03.12-16.41.04:840][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/KG07V0LLYRADDSJL7E7XCCEEF3C61C43362B2399CC4289A289ADE7.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/7/63/KG07V0LLYRADDSJL7E7XCC.uasset'
+[2023.03.12-16.41.04:894][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/KT/S9ADYWD4U1O3UQSESZKC0R
+[2023.03.12-16.41.04:894][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/S9ADYWD4U1O3UQSESZKC0R7131C6434006F17D3414FB908577AF68.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/3/KT/S9ADYWD4U1O3UQSESZKC0R.uasset'
+[2023.03.12-16.41.04:939][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/K7/N2UWQABYP8RID83QLZH9BV
+[2023.03.12-16.41.04:939][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/N2UWQABYP8RID83QLZH9BV8F77AA1343D644C5236DD7B165D172B7.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/8/K7/N2UWQABYP8RID83QLZH9BV.uasset'
+[2023.03.12-16.41.05:061][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/TS/7DFKBZY7173IE94ZS6ITJJ
+[2023.03.12-16.41.05:061][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/7DFKBZY7173IE94ZS6ITJJ593A69564845D71F919BE699203BD6F3.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/4/TS/7DFKBZY7173IE94ZS6ITJJ.uasset'
+[2023.03.12-16.41.05:108][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/YT/N4NETJLH1JHZ1ZKC7R14L6
+[2023.03.12-16.41.05:108][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/N4NETJLH1JHZ1ZKC7R14L6B7A1B62C4E1FB41C230A6D84408B3F00.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/C/YT/N4NETJLH1JHZ1ZKC7R14L6.uasset'
+[2023.03.12-16.41.05:180][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/0S/QLG44E4ZILE3GECG8Z4QMS
+[2023.03.12-16.41.05:181][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/QLG44E4ZILE3GECG8Z4QMSA430BDEA4627040DF70E02A7965B699D.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/3/0S/QLG44E4ZILE3GECG8Z4QMS.uasset'
+[2023.03.12-16.41.05:259][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/IJ/TNHKY7DXAQKQWKK3GASKWY
+[2023.03.12-16.41.05:259][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/TNHKY7DXAQKQWKK3GASKWY43E711E34245965753DF49B780E0B038.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/A/IJ/TNHKY7DXAQKQWKK3GASKWY.uasset'
+[2023.03.12-16.41.05:339][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/SG/GE8ZLHUW5AC5X10ECOGULN
+[2023.03.12-16.41.05:340][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/GE8ZLHUW5AC5X10ECOGULND0410D00424A9EDAB358DF8AE8872A11.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/A/SG/GE8ZLHUW5AC5X10ECOGULN.uasset'
+[2023.03.12-16.41.05:383][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/SX/ENN41J8CYU0JF8P74Q6TGZ
+[2023.03.12-16.41.05:383][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/ENN41J8CYU0JF8P74Q6TGZB4A1BBA54EE0326B6C5230B64F429EC8.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/B/SX/ENN41J8CYU0JF8P74Q6TGZ.uasset'
+[2023.03.12-16.41.05:441][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/B5/2RS7EM82Z3ETBPIXFGHY38
+[2023.03.12-16.41.05:442][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/2RS7EM82Z3ETBPIXFGHY386EF1A7A548AB90D8C6CAD5B0EAD759A9.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/C/B5/2RS7EM82Z3ETBPIXFGHY38.uasset'
+[2023.03.12-16.41.05:533][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/S6/0WZM4VYKILFDP03HG3UNTS
+[2023.03.12-16.41.05:533][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/0WZM4VYKILFDP03HG3UNTSBA25B9A041CBFDB3DED836AFCF578F5F.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/3/S6/0WZM4VYKILFDP03HG3UNTS.uasset'
+[2023.03.12-16.41.05:590][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/PC/18R856E8DOZKOBCJ3M5ED2
+[2023.03.12-16.41.05:590][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/18R856E8DOZKOBCJ3M5ED2C4C836B34D5D3264774A128026F492DD.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/4/PC/18R856E8DOZKOBCJ3M5ED2.uasset'
+[2023.03.12-16.41.05:604][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/ZI/VNLPI54VU4AJX0KHDDKUQC
+[2023.03.12-16.41.05:604][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/VNLPI54VU4AJX0KHDDKUQCA817BDED45B422C83CE8A88554009600.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/6/ZI/VNLPI54VU4AJX0KHDDKUQC.uasset'
+[2023.03.12-16.41.05:789][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/QR/K1X9JVYNKLWJHTPGMYJK94
+[2023.03.12-16.41.05:789][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/K1X9JVYNKLWJHTPGMYJK9406D44D324571E45555DE739C7FFD4D01.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/7/QR/K1X9JVYNKLWJHTPGMYJK94.uasset'
+[2023.03.12-16.41.05:821][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/T3/KVAHZJLQM8ZOQIO6HYBJ8M
+[2023.03.12-16.41.05:821][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/KVAHZJLQM8ZOQIO6HYBJ8MCA7C0C8F4176AED411CF4C9E8C08604D.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/E/T3/KVAHZJLQM8ZOQIO6HYBJ8M.uasset'
+[2023.03.12-16.41.05:977][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/HN/4ORX4VB22E0UJCXBRL8LX9
+[2023.03.12-16.41.05:978][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/4ORX4VB22E0UJCXBRL8LX96E81A865474676685036AE9CC0BA50E5.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/0/HN/4ORX4VB22E0UJCXBRL8LX9.uasset'
+[2023.03.12-16.41.06:038][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/P1/ADABWZW1M908G1DXVHG8CF
+[2023.03.12-16.41.06:038][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/ADABWZW1M908G1DXVHG8CF65D209024A7F7DBB96F6DFA8AD728736.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/8/P1/ADABWZW1M908G1DXVHG8CF.uasset'
+[2023.03.12-16.41.06:056][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/9Y/TWMYSU2OOYFMV4QQ0U421K
+[2023.03.12-16.41.06:057][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/TWMYSU2OOYFMV4QQ0U421KD1C9ABA143B0F31CA3A8BAB5E92B477A.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/9/9Y/TWMYSU2OOYFMV4QQ0U421K.uasset'
+[2023.03.12-16.41.06:176][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/R2/EUDP2CRQ5HPFE2DF0VDIYY
+[2023.03.12-16.41.06:176][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/EUDP2CRQ5HPFE2DF0VDIYYF6CE071F411FAED299978581AA8FF192.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/A/R2/EUDP2CRQ5HPFE2DF0VDIYY.uasset'
+[2023.03.12-16.41.06:196][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/X5/YEUNQKWI0WRG3RT6D3VB9R
+[2023.03.12-16.41.06:196][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/YEUNQKWI0WRG3RT6D3VB9RE162D84648B9D4B93D0733ACB0E3ED6C.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/7/X5/YEUNQKWI0WRG3RT6D3VB9R.uasset'
+[2023.03.12-16.41.06:221][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/FO/7WKFVCWBRJWGRCTNKBZLJO
+[2023.03.12-16.41.06:221][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/7WKFVCWBRJWGRCTNKBZLJO65FC21C64BB1292DB4A2AAAEFF5C4423.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/9/FO/7WKFVCWBRJWGRCTNKBZLJO.uasset'
+[2023.03.12-16.41.06:245][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/QK/VXXZX0AZX52KU0JWSHOLR2
+[2023.03.12-16.41.06:245][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/VXXZX0AZX52KU0JWSHOLR268AEE7734DF88111CBD609A68D6B7AE5.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/D/QK/VXXZX0AZX52KU0JWSHOLR2.uasset'
+[2023.03.12-16.41.06:292][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/ZE/SKU3B97HI2WM4RCNUWVP6Z
+[2023.03.12-16.41.06:292][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/SKU3B97HI2WM4RCNUWVP6Z840AD5DC4859982D49FF9386C5B317B8.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/8/ZE/SKU3B97HI2WM4RCNUWVP6Z.uasset'
+[2023.03.12-16.41.06:342][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/7V/H63HT6M7UHQ9TKP14BABQZ
+[2023.03.12-16.41.06:342][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/H63HT6M7UHQ9TKP14BABQZ47BDCC5A43F892168AADF6B46B6E667F.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/6/7V/H63HT6M7UHQ9TKP14BABQZ.uasset'
+[2023.03.12-16.41.06:383][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/UT/4UHKQGN4WHZWU02WAG6ZTR
+[2023.03.12-16.41.06:384][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/4UHKQGN4WHZWU02WAG6ZTR88666A474FA08706E86AA78F18300FC6.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/7/UT/4UHKQGN4WHZWU02WAG6ZTR.uasset'
+[2023.03.12-16.41.06:460][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/6P/F61XSJX13S54HPYZCGMVLL
+[2023.03.12-16.41.06:460][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/F61XSJX13S54HPYZCGMVLLB207331C404D3B3E8003DA9EBECCB41D.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/9/6P/F61XSJX13S54HPYZCGMVLL.uasset'
+[2023.03.12-16.41.06:509][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/46/JVLLAKQJQAB42LDT8OPGDO
+[2023.03.12-16.41.06:509][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/JVLLAKQJQAB42LDT8OPGDOA49DA7144F78FBB09882BF8FE0876FC0.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/B/46/JVLLAKQJQAB42LDT8OPGDO.uasset'
+[2023.03.12-16.41.06:624][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/S7/V9SG869GF03NDY55IALCL3
+[2023.03.12-16.41.06:624][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/V9SG869GF03NDY55IALCL3E3190E214F93A55F8D320B9199212D26.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/5/S7/V9SG869GF03NDY55IALCL3.uasset'
+[2023.03.12-16.41.06:661][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/XB/4JGJ0YQVXEQNZA9DO6BSF2
+[2023.03.12-16.41.06:661][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/4JGJ0YQVXEQNZA9DO6BSF263EF917E4B8D6499B38AFBAC11F7B345.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/B/XB/4JGJ0YQVXEQNZA9DO6BSF2.uasset'
+[2023.03.12-16.41.06:719][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/SK/3EH1GCMVOQYNJ3D11YXCD5
+[2023.03.12-16.41.06:719][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/3EH1GCMVOQYNJ3D11YXCD5F95BF8254F42E3B56F36F7B69A2976F9.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/A/SK/3EH1GCMVOQYNJ3D11YXCD5.uasset'
+[2023.03.12-16.41.06:782][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/DO/B0DE35UCT5792C2W3V53RD
+[2023.03.12-16.41.06:783][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/B0DE35UCT5792C2W3V53RDDF8ED2AD41F641B6F0793096711185E3.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/A/DO/B0DE35UCT5792C2W3V53RD.uasset'
+[2023.03.12-16.41.06:871][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/ZS/3IA3P4WY38XP1465VEWS2E
+[2023.03.12-16.41.06:871][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/3IA3P4WY38XP1465VEWS2E9A24C9884714048A46DB658AD08C7281.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/C/ZS/3IA3P4WY38XP1465VEWS2E.uasset'
+[2023.03.12-16.41.07:014][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/7I/RBT8L968M1VPFYISVYMDC3
+[2023.03.12-16.41.07:014][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/RBT8L968M1VPFYISVYMDC31310B562484D827F562C9487A98299A4.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/2/7I/RBT8L968M1VPFYISVYMDC3.uasset'
+[2023.03.12-16.41.07:409][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/6V/Q0AK3SOZ4P7GYVJQNACPUQ
+[2023.03.12-16.41.07:409][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/Q0AK3SOZ4P7GYVJQNACPUQE20F414B46185D20DC9F32A849BFD859.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/7/6V/Q0AK3SOZ4P7GYVJQNACPUQ.uasset'
+[2023.03.12-16.41.08:097][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/8F/XBYD3G14QQUNAC9ON6D1EY
+[2023.03.12-16.41.08:097][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/XBYD3G14QQUNAC9ON6D1EY755513C84F635183885EF78299D9428F.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/3/8F/XBYD3G14QQUNAC9ON6D1EY.uasset'
+[2023.03.12-16.41.10:431][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/1L/NE9DR7T1C0FUL0SHLUZVIU
+[2023.03.12-16.41.10:431][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/NE9DR7T1C0FUL0SHLUZVIU731523A04774A29AADD3E4B6E7D8E12F.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/7/1L/NE9DR7T1C0FUL0SHLUZVIU.uasset'
+[2023.03.12-16.41.10:807][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/II/F96QV95HT4U0L00H01M8L7
+[2023.03.12-16.41.10:807][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/F96QV95HT4U0L00H01M8L7B31D3175474ADAC98114209BBE780B10.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/D/II/F96QV95HT4U0L00H01M8L7.uasset'
+[2023.03.12-16.41.11:187][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/IF/0ZR9TG19GGWFEJXS2J89MW
+[2023.03.12-16.41.11:187][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/0ZR9TG19GGWFEJXS2J89MWFBFD7D6B4F4A274138E38CBDA33A8BF3.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/5/IF/0ZR9TG19GGWFEJXS2J89MW.uasset'
+[2023.03.12-16.41.11:595][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/QT/MEQ2240024D1JNNNK6KSO5
+[2023.03.12-16.41.11:595][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/MEQ2240024D1JNNNK6KSO5FF614FF94DD969100B29A8ADB8E0A95C.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/2/QT/MEQ2240024D1JNNNK6KSO5.uasset'
+[2023.03.12-16.41.13:475][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BL/9GZ6993VMZ9NYGY4RM7C54
+[2023.03.12-16.41.13:476][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/9GZ6993VMZ9NYGY4RM7C548632888145594D6FC38FA3B94A0193FE.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BL/9GZ6993VMZ9NYGY4RM7C54.uasset'
+[2023.03.12-16.41.14:168][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/8F/112Z1A2OTTTXU3XRQ69VO9
+[2023.03.12-16.41.14:168][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/112Z1A2OTTTXU3XRQ69VO9979CFF92449281F11994D5B6FD140603.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/C/8F/112Z1A2OTTTXU3XRQ69VO9.uasset'
+[2023.03.12-16.41.14:616][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/FP/R0P1LLPDY6GM0YV22P68SU
+[2023.03.12-16.41.14:616][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/R0P1LLPDY6GM0YV22P68SUB617B340446F57304EA67A97097ECB23.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/0/FP/R0P1LLPDY6GM0YV22P68SU.uasset'
+[2023.03.12-16.41.15:697][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/OX/MV9QRQ91XCSSIZGV8PEW0D
+[2023.03.12-16.41.15:697][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/MV9QRQ91XCSSIZGV8PEW0DC7E975794157A6E3BF8670B1258D602F.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/4/OX/MV9QRQ91XCSSIZGV8PEW0D.uasset'
+[2023.03.12-16.41.16:087][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/VN/TAYY25OD7KUFWO30MKXMS3
+[2023.03.12-16.41.16:087][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/TAYY25OD7KUFWO30MKXMS3C5517BD9409E13100D31BAB55670DF04.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/5/VN/TAYY25OD7KUFWO30MKXMS3.uasset'
+[2023.03.12-16.41.16:794][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/QE/108P81OOU6LFKW2E2C4HQU
+[2023.03.12-16.41.16:794][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/108P81OOU6LFKW2E2C4HQU44323A7648F891EDEBE228B72FF24D81.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/C/QE/108P81OOU6LFKW2E2C4HQU.uasset'
+[2023.03.12-16.41.18:960][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/GQ/WMJ9P6UKYTGM2UQV7E3UTK
+[2023.03.12-16.41.18:960][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/WMJ9P6UKYTGM2UQV7E3UTK0CACFF6F4A2F7D784ABCEDA2445F2DD1.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/C/GQ/WMJ9P6UKYTGM2UQV7E3UTK.uasset'
+[2023.03.12-16.41.19:301][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/E2/33BXSFOAUUMR5IPU0XIDWX
+[2023.03.12-16.41.19:301][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/33BXSFOAUUMR5IPU0XIDWX9EE210A34DBEA239994422A25EB002D6.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/E/E2/33BXSFOAUUMR5IPU0XIDWX.uasset'
+[2023.03.12-16.41.20:067][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/LO/FF22KPBM1R5DIUN3MZK1HH
+[2023.03.12-16.41.20:067][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/FF22KPBM1R5DIUN3MZK1HH9C889D5F4EA8D9F0D99B2480A99D80E5.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/D/LO/FF22KPBM1R5DIUN3MZK1HH.uasset'
+[2023.03.12-16.41.20:473][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/HB/ZLYTS17OELYCZFMXSD6WXB
+[2023.03.12-16.41.20:473][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/ZLYTS17OELYCZFMXSD6WXBA3373AEA46557E16E0AEDA9AB04EDB73.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/3/HB/ZLYTS17OELYCZFMXSD6WXB.uasset'
+[2023.03.12-16.41.21:190][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/ML/I0JEIGCD66GVS3E0ADU60Q
+[2023.03.12-16.41.21:190][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/I0JEIGCD66GVS3E0ADU60Q1DBE0533465972D4ED2A5697D06BA4DA.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/2/ML/I0JEIGCD66GVS3E0ADU60Q.uasset'
+[2023.03.12-16.41.21:594][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/Z9/ZXWH7VESFXI4ONSDMFAHTV
+[2023.03.12-16.41.21:595][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/ZXWH7VESFXI4ONSDMFAHTV5597F56646A3ED00EA1D209CA8FAC30E.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/7/Z9/ZXWH7VESFXI4ONSDMFAHTV.uasset'
+[2023.03.12-16.41.22:296][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/WE/801H59Q6VFLB6JSH276V1U
+[2023.03.12-16.41.22:296][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/801H59Q6VFLB6JSH276V1U6589BC94470C0FA3B600DC8EFA4C69AD.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/5/WE/801H59Q6VFLB6JSH276V1U.uasset'
+[2023.03.12-16.41.22:649][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/W0/64XN4HAF39PSIL7HO3CE6E
+[2023.03.12-16.41.22:649][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/64XN4HAF39PSIL7HO3CE6E22AC71F043AE8FB070F74ABC3C2CFFC4.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/D/W0/64XN4HAF39PSIL7HO3CE6E.uasset'
+[2023.03.12-16.41.23:762][124]LogDerivedDataCache: C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.534 and deleted 6 file(s) with total size 0 MiB.
+[2023.03.12-16.41.25:325][124]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/BS/87EQ6OO1B73E47HHK67RGU
+[2023.03.12-16.41.25:326][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/87EQ6OO1B73E47HHK67RGU312A4C4E48DDD2E6CC30DEBC0B20EB15.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/__ExternalActors__/Kvik/KvikSave/TestLevel/6/BS/87EQ6OO1B73E47HHK67RGU.uasset'
+[2023.03.12-16.41.25:335][124]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Kvik/KvikSave/TestLevel_HLOD0_Instancing
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/LC/8MIL248QRRG5DNGRI1TSMP
+/Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/5/BF/6953Q0YZPYC1ECD3LO00TN
+/Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/0/B2/F5L4G3V9U0K7ZSUDNE9RCR
+/Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/0/13/XV0LRG0PJXUPDN8RTUKM9B
+/Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/4/6D/RWT8ISIZ0WHLAV0O3YIDF3
+/Game/__ExternalObjects__/Kvik/KvikSave/TestLevel/7/N5/DD2VJS8YFTDXZXBHXWSU6A
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/ZQ/PA45330RF0SZAN1RD1NIFF
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/I7/XRVCJ3NJD73OVZ0TLUU8NS
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/BL/Y16TG8D7T0JVSG3JN3KQM5
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/NT/RV5TMQRI3FQJKZADG4OSPL
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/W5/EW80H71UMVDA9NKSLNBFHM
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/UW/T6816YYXW49NR5Z2BFD9B2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/6D/AR67GCFCNM5H72BL3DD1XT
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/PD/RKEWKFGNCO67EY374MEQ0P
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/8X/Z9HBBBIH12ADB5LHOF9UBU
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/13/4BQ4Y59XT4E4HLEBRSY003
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/M1/PQ8LWEBYX4KAZFCZ65PN9F
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/GU/4JZVTGMN88ZTNA1HPUWT4C
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/NM/K2KH7UQB0GNRYFF9B6ELCX
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/GN/0PUKD44TF92YA9Q77T66GF
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/5K/NXWIT3KAV74FSRQAWYDI3E
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/EK/ZET5SE93TDQXOZ70QQMOU5
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/KH/WJB0DHKGJFHHCMGSVRG62F
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BB/RJVIZUYSCEZGIARJH3JTUE
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/XX/2ZWSYZ9O8ZMRZN8HVXLLEM
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/4B/T9B9EKNC4DRIYKC2SR4HMN
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/XN/D6XVUIPI116HBIOVMAJ0NC
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/WT/PF73Y24RB5U8OHQY3HJHGP
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/NV/FPZPA0DU5SJWSUB30G5YGE
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/91/RON4BPLONOL70MDODAXPLF
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/BO/DKS2SN5S4O55DODGY6V0S2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/XP/5EP7R69QENZRKFSPVM57AX
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/ME/VV1RTPF502I7GTJBLBHTTN
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/AZ/K2670CPBXBB0Z1MTHN7G40
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/SM/LTP09GQ5F0OTASB62KBDOK
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/AX/9LYUE3OLZ0Y5F76DWTZ5U3
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/HS/IK582Y6D6FFFPJ6UX3ASIV
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/KG/LCBK2CLLND80AQBB7FKODJ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/99/QWJRFG65EJSZP0VSGO2P0O
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/M9/7XMS37EE5AUP2U6JY09VHI
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/HY/ENYF47CK4EXI0NYHU1I94K
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/HH/M0D3BR9ENSHXPSUISMKSX2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/EM/1TMZL9Q1NEDGL050BGUIXZ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/1/U9/XQOLXT8FVBLT0G0I6U47YW
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/TM/FUQNKR98IF536SO0OGPQ13
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/63/KG07V0LLYRADDSJL7E7XCC
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/KT/S9ADYWD4U1O3UQSESZKC0R
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/K7/N2UWQABYP8RID83QLZH9BV
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/TS/7DFKBZY7173IE94ZS6ITJJ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/YT/N4NETJLH1JHZ1ZKC7R14L6
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/0S/QLG44E4ZILE3GECG8Z4QMS
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/IJ/TNHKY7DXAQKQWKK3GASKWY
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/SG/GE8ZLHUW5AC5X10ECOGULN
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/SX/ENN41J8CYU0JF8P74Q6TGZ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/B5/2RS7EM82Z3ETBPIXFGHY38
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/S6/0WZM4VYKILFDP03HG3UNTS
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/PC/18R856E8DOZKOBCJ3M5ED2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/ZI/VNLPI54VU4AJX0KHDDKUQC
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/QR/K1X9JVYNKLWJHTPGMYJK94
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/T3/KVAHZJLQM8ZOQIO6HYBJ8M
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/HN/4ORX4VB22E0UJCXBRL8LX9
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/P1/ADABWZW1M908G1DXVHG8CF
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/9Y/TWMYSU2OOYFMV4QQ0U421K
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/R2/EUDP2CRQ5HPFE2DF0VDIYY
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/X5/YEUNQKWI0WRG3RT6D3VB9R
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/FO/7WKFVCWBRJWGRCTNKBZLJO
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/QK/VXXZX0AZX52KU0JWSHOLR2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/8/ZE/SKU3B97HI2WM4RCNUWVP6Z
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/7V/H63HT6M7UHQ9TKP14BABQZ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/UT/4UHKQGN4WHZWU02WAG6ZTR
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/9/6P/F61XSJX13S54HPYZCGMVLL
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/46/JVLLAKQJQAB42LDT8OPGDO
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/S7/V9SG869GF03NDY55IALCL3
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/B/XB/4JGJ0YQVXEQNZA9DO6BSF2
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/SK/3EH1GCMVOQYNJ3D11YXCD5
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/A/DO/B0DE35UCT5792C2W3V53RD
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/ZS/3IA3P4WY38XP1465VEWS2E
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/7I/RBT8L968M1VPFYISVYMDC3
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/6V/Q0AK3SOZ4P7GYVJQNACPUQ
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/8F/XBYD3G14QQUNAC9ON6D1EY
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/1L/NE9DR7T1C0FUL0SHLUZVIU
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/II/F96QV95HT4U0L00H01M8L7
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/IF/0ZR9TG19GGWFEJXS2J89MW
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/QT/MEQ2240024D1JNNNK6KSO5
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BL/9GZ6993VMZ9NYGY4RM7C54
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/8F/112Z1A2OTTTXU3XRQ69VO9
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/FP/R0P1LLPDY6GM0YV22P68SU
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/OX/MV9QRQ91XCSSIZGV8PEW0D
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/VN/TAYY25OD7KUFWO30MKXMS3
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/QE/108P81OOU6LFKW2E2C4HQU
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/GQ/WMJ9P6UKYTGM2UQV7E3UTK
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/E2/33BXSFOAUUMR5IPU0XIDWX
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/LO/FF22KPBM1R5DIUN3MZK1HH
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/HB/ZLYTS17OELYCZFMXSD6WXB
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/ML/I0JEIGCD66GVS3E0ADU60Q
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/Z9/ZXWH7VESFXI4ONSDMFAHTV
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/WE/801H59Q6VFLB6JSH276V1U
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/W0/64XN4HAF39PSIL7HO3CE6E
+/Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/BS/87EQ6OO1B73E47HHK67RGU
+[2023.03.12-16.41.25:336][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Kvik/KvikSave/TestLevel" FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/KvikSave/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.12-16.41.25:353][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.03.12-16.41.25:361][124]LogSavePackage: Moving output files for package: /Game/Kvik/KvikSave/TestLevel
+[2023.03.12-16.41.25:361][124]LogSavePackage: Moving '../../../../Works/WarInUkraine/WarInUkraine/Saved/TestLevel05CBA1DC49F17EE3A1BDC9BB738C1FB9.tmp' to '../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/KvikSave/TestLevel.umap'
+[2023.03.12-16.41.25:694][124]LogFileHelpers: Saving map 'TestLevel' took 24.810
+[2023.03.12-16.41.25:694][124]Cmd: MAP LOAD FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/KvikSave/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.12-16.41.25:694][124]LightingResults: New page: Lighting Build
+[2023.03.12-16.41.25:694][124]LoadErrors: New page: Loading map: TestLevel.umap
+[2023.03.12-16.41.25:797][124]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-16.41.25:797][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-16.41.25:814][124]MapCheck: New page: Map Check
+[2023.03.12-16.41.25:814][124]LightingResults: New page: Lighting Build
+[2023.03.12-16.41.25:836][124]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.12-16.41.25:865][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.03.12-16.41.25:877][124]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2023.03.12-16.41.25:877][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-16.41.25:878][124]LogAIModule: Creating AISystem for world TestLevel
+[2023.03.12-16.41.25:888][124]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-16.41.25:888][124]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.03.12-16.41.25:918][124]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 82C0D6EE2305209C9698A8B6F02D09BA64A7FB8D), compiling. 
+[2023.03.12-16.41.26:568][124]LogWorldPartition: Display: WorldPartition initialize took 680 ms
+[2023.03.12-16.41.27:034][124]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.12-16.41.27:059][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.03.12-16.41.27:083][124]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.12-16.41.27:084][124]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,461ms to complete.
+[2023.03.12-16.41.27:084][124]LogFileHelpers: Loading map 'TestLevel' took 1.390
+[2023.03.12-16.41.27:093][124]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.12-16.41.27:093][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2023.03.12-16.41.27:094][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2023.03.12-16.41.27:095][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2023.03.12-16.41.27:096][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating Landscape /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating ExponentialHeightFog /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating SkyAtmosphere /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating DirectionalLight /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating StaticMeshActor /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating VolumetricCloud /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating SkyLight /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating HLODLayer /Game/Kvik/KvikSave/TestLevel_HLOD0_Instancing.TestLevel_HLOD0_Instancing
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating ActorFolder /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating ActorFolder /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating ActorFolder /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating ActorFolder /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating ActorFolder /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating WorldDataLayers /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.WorldDataLayers
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating World /Game/Kvik/KvikSave/TestLevel.TestLevel
+[2023.03.12-16.41.27:097][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000db5f9a5d
+[2023.03.12-16.41.27:098][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000db5f9a5d'
+[2023.03.12-16.41.27:098][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_0000000010d5f002
+[2023.03.12-16.41.27:098][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_0000000010d5f002'
+[2023.03.12-16.41.27:098][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d190b65e
+[2023.03.12-16.41.27:098][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d190b65e'
+[2023.03.12-16.41.27:098][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_0000000053252892
+[2023.03.12-16.41.27:098][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_0000000053252892'
+[2023.03.12-16.41.27:098][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000b0cde8dc
+[2023.03.12-16.41.27:098][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000b0cde8dc'
+[2023.03.12-16.41.27:098][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000837d3c27
+[2023.03.12-16.41.27:098][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000837d3c27'
+[2023.03.12-16.41.27:098][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000596e8a41
+[2023.03.12-16.41.27:099][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000596e8a41'
+[2023.03.12-16.41.27:099][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d560b8ee
+[2023.03.12-16.41.27:099][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d560b8ee'
+[2023.03.12-16.41.27:099][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d3a4e6c0
+[2023.03.12-16.41.27:099][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d3a4e6c0'
+[2023.03.12-16.41.27:099][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d580238e
+[2023.03.12-16.41.27:099][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000d580238e'
+[2023.03.12-16.41.27:099][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000001344ec12
+[2023.03.12-16.41.27:099][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000001344ec12'
+[2023.03.12-16.41.27:099][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000002e9978b4
+[2023.03.12-16.41.27:099][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000002e9978b4'
+[2023.03.12-16.41.27:099][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000006f064fc3
+[2023.03.12-16.41.27:099][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000006f064fc3'
+[2023.03.12-16.41.27:099][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000ffcbbfa1
+[2023.03.12-16.41.27:100][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000ffcbbfa1'
+[2023.03.12-16.41.27:100][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000c6baa641
+[2023.03.12-16.41.27:100][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000c6baa641'
+[2023.03.12-16.41.27:100][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000adcdef81
+[2023.03.12-16.41.27:100][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000adcdef81'
+[2023.03.12-16.41.27:100][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000dea15624
+[2023.03.12-16.41.27:100][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000dea15624'
+[2023.03.12-16.41.27:100][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000dfad0108
+[2023.03.12-16.41.27:100][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000dfad0108'
+[2023.03.12-16.41.27:100][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_0000000083c582a7
+[2023.03.12-16.41.27:100][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_0000000083c582a7'
+[2023.03.12-16.41.27:100][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000923d253d
+[2023.03.12-16.41.27:100][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_00000000923d253d'
+[2023.03.12-16.41.27:100][124]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000004e144344
+[2023.03.12-16.41.27:100][124]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.HLOD0_Instancing_000000004e144344'
+[2023.03.12-16.41.35:876][636]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.12-16.41.41:465][ 22]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.12-16.41.41:525][ 22]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.12-16.41.41:525][ 22]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.12-16.41.41:525][ 22]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.12-16.41.41:525][ 22]LogWorldPartition: Display: ValidateSingleActorReferer took 7 us
+[2023.03.12-16.41.41:525][ 22]LogWorldPartition: Display: GetPartitionedActors took 100 us
+[2023.03.12-16.41.41:535][ 22]LogMaterial: Display: Missing cached shadermap for M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0FC641FCD63AC4B6078234F881646C9CED0FCED5), compiling. 
+[2023.03.12-16.41.41:791][ 22]LogWorldPartition: Display: GenerateStreaming took 266 ms
+[2023.03.12-16.41.41:791][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.12-16.41.41:792][ 22]PIE: New page: PIE session: TestLevel (12 мар. 2023 г., 20:41:41)
+[2023.03.12-16.41.41:797][ 22]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.03.12-16.41.41:797][ 22]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.12-16.41.41:797][ 22]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_TestLevel
+[2023.03.12-16.41.41:876][ 22]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.12-16.41.41:876][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079329s)
+[2023.03.12-16.41.41:876][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/TestLevel.TestLevel to /Game/Kvik/KvikSave/UEDPIE_0_TestLevel.TestLevel (0.079451s)
+[2023.03.12-16.41.41:876][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.12-16.41.41:877][ 22]LogAIModule: Creating AISystem for world TestLevel
+[2023.03.12-16.41.41:887][ 22]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.12-16.41.41:887][ 22]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.12-16.41.41:900][ 22]LogWorldPartition: Display: WorldPartition initialize took 12 ms
+[2023.03.12-16.41.41:900][ 22]LogPlayLevel: PIE: World Init took: (0.024000s)
+[2023.03.12-16.41.41:920][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.03.12-16.41.41:921][ 22]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.12-16.41.41:921][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.12-16.41.41:921][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.12-16.41.41:922][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.12-16.41.41:922][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.12-16.41.41:922][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.12-16.41.41:922][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.12-16.41.41:922][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.12-16.41.41:922][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.12-16.41.41:923][ 22]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.12-16.41.41:923][ 22]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.12-16.41.41:923][ 22]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.12-16.41.41:926][ 22]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.12-16.41.41:974][ 22]LogAudioMixer: Display: Using Audio Hardware Device Динамики (2- USB Audio Device)
+[2023.03.12-16.41.41:974][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.12-16.41.41:974][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.12-16.41.41:974][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.12-16.41.41:975][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.03.12-16.41.41:976][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.03.12-16.41.41:979][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.03.12-16.41.41:979][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.03.12-16.41.41:979][ 22]LogInit: FAudioDevice initialized.
+[2023.03.12-16.41.41:979][ 22]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestLevel'.
+[2023.03.12-16.41.42:003][ 22]LogLoad: Game class is 'Kv_Man_Mod_C'
+[2023.03.12-16.41.42:011][ 22]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.03.12-18.41.42
+[2023.03.12-16.41.42:011][ 22]LogWorld: Bringing up level for play took: 0.007828
+[2023.03.12-16.41.42:014][ 22]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.03.12-16.41.42:087][ 22]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=79.135 Y=689.213 Z=206.175
+[2023.03.12-16.41.42:087][ 22]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.03.12-16.41.42:087][ 22]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=79.135 Y=689.213 Z=206.175,P=0.000000 Y=81.943262 R=-0.000000
+[2023.03.12-16.41.42:122][ 22]LogStreaming: Display: FlushAsyncLoading: 49 QueuedPackages, 0 AsyncPackages
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/E/E2/33BXSFOAUUMR5IPU0XIDWX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/W0/64XN4HAF39PSIL7HO3CE6E.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/LO/FF22KPBM1R5DIUN3MZK1HH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/GQ/WMJ9P6UKYTGM2UQV7E3UTK.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/GQ/WMJ9P6UKYTGM2UQV7E3UTK.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/LO/FF22KPBM1R5DIUN3MZK1HH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/D/II/F96QV95HT4U0L00H01M8L7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/QE/108P81OOU6LFKW2E2C4HQU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/QE/108P81OOU6LFKW2E2C4HQU.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/GQ/WMJ9P6UKYTGM2UQV7E3UTK.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/GQ/WMJ9P6UKYTGM2UQV7E3UTK.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/GQ/WMJ9P6UKYTGM2UQV7E3UTK.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/GQ/WMJ9P6UKYTGM2UQV7E3UTK.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/8F/112Z1A2OTTTXU3XRQ69VO9.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/C/8F/112Z1A2OTTTXU3XRQ69VO9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/Z9/ZXWH7VESFXI4ONSDMFAHTV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/6V/Q0AK3SOZ4P7GYVJQNACPUQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/1L/NE9DR7T1C0FUL0SHLUZVIU.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.12-16.41.42:885][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/1L/NE9DR7T1C0FUL0SHLUZVIU.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/1L/NE9DR7T1C0FUL0SHLUZVIU.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/1L/NE9DR7T1C0FUL0SHLUZVIU.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/1L/NE9DR7T1C0FUL0SHLUZVIU.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/7/1L/NE9DR7T1C0FUL0SHLUZVIU.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/BS/87EQ6OO1B73E47HHK67RGU.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/BS/87EQ6OO1B73E47HHK67RGU.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/BS/87EQ6OO1B73E47HHK67RGU.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/WE/801H59Q6VFLB6JSH276V1U.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/WE/801H59Q6VFLB6JSH276V1U.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/BS/87EQ6OO1B73E47HHK67RGU.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/BS/87EQ6OO1B73E47HHK67RGU.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/BS/87EQ6OO1B73E47HHK67RGU.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/6/BS/87EQ6OO1B73E47HHK67RGU.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/VN/TAYY25OD7KUFWO30MKXMS3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/5/IF/0ZR9TG19GGWFEJXS2J89MW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/OX/MV9QRQ91XCSSIZGV8PEW0D.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/OX/MV9QRQ91XCSSIZGV8PEW0D.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/4/OX/MV9QRQ91XCSSIZGV8PEW0D.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/HB/ZLYTS17OELYCZFMXSD6WXB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/8F/XBYD3G14QQUNAC9ON6D1EY.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/3/8F/XBYD3G14QQUNAC9ON6D1EY.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/QT/MEQ2240024D1JNNNK6KSO5.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/ML/I0JEIGCD66GVS3E0ADU60Q.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BL/9GZ6993VMZ9NYGY4RM7C54.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BL/9GZ6993VMZ9NYGY4RM7C54.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BL/9GZ6993VMZ9NYGY4RM7C54.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/0/FP/R0P1LLPDY6GM0YV22P68SU.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/ML/I0JEIGCD66GVS3E0ADU60Q.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BL/9GZ6993VMZ9NYGY4RM7C54.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.03.12-16.41.42:886][ 22]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Kvik/KvikSave/TestLevel/2/BL/9GZ6993VMZ9NYGY4RM7C54.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.03.12-16.41.43:016][ 22]PIE: Server logged in
+[2023.03.12-16.41.43:019][ 22]PIE: Play in editor total start time 1,54 seconds.
+[2023.03.12-16.41.43:027][ 22]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.43:078][ 23]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:254][ 24]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:330][ 25]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:448][ 26]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:462][ 27]LogSlate: Took 0.000399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.12-16.41.45:503][ 27]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:545][ 28]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:589][ 29]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:634][ 30]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:677][ 31]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:721][ 32]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:759][ 33]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:796][ 34]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:834][ 35]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:875][ 36]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:908][ 37]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:949][ 38]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.45:988][ 39]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:027][ 40]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:067][ 41]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:104][ 42]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:143][ 43]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:174][ 44]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:206][ 45]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:236][ 46]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:270][ 47]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:302][ 48]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:334][ 49]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:366][ 50]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:399][ 51]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:430][ 52]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:462][ 53]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:492][ 54]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:519][ 55]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:551][ 56]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:579][ 57]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:610][ 58]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:642][ 59]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:682][ 60]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:719][ 61]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:756][ 62]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:795][ 63]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:833][ 64]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:873][ 65]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:920][ 66]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:955][ 67]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.46:995][ 68]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.47:027][ 69]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.47:057][ 70]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.47:092][ 71]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.47:129][ 72]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.47:169][ 73]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.47:210][ 74]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.47:242][ 75]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.12-16.41.47:294][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-16.41.47:294][ 75]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_TestLevel
+[2023.03.12-16.41.47:331][ 75]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.12-16.41.47:334][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-16.41.47:354][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.12-16.41.47:360][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.12-16.41.47:377][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.12-16.41.47:378][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.12-16.41.47:381][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.12-16.41.47:387][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.12-16.41.47:436][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.03.12-16.41.47:502][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.03.12-16.41.52:013][240]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kvik/Kvik_Modes/Players/Player_1/Kv_BP_Man.Kv_BP_Man
+[2023.03.12-16.41.52:016][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
