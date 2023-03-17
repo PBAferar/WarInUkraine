@@ -1,0 +1,1549 @@
+﻿Log file open, 03/16/23 13:21:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=6100)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WarInUkraine
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1147] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b21d18a943af6719011648b706085244"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.345051
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-0F6DE28948F7CD9506D397B71DBCAA73
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.09 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosVehiclesPlugin/Content/' mounted to '/ChaosVehiclesPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1147] (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/Unrial5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.03.16-11.21.25:261][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.03.16-11.21.25:261][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.03.16-11.21.25:261][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.03.16-11.21.25:261][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.03.16-11.21.25:262][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.03.16-11.21.25:262][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.16-11.21.25:262][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.03.16-11.21.25:263][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.03.16-11.21.25:265][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.03.16-11.21.25:265][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.03.16-11.21.25:265][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.03.16-11.21.25:265][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.03.16-11.21.25:265][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.03.16-11.21.25:265][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.03.16-11.21.25:265][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.03.16-11.21.25:265][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.03.16-11.21.25:265][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.03.16-11.21.25:265][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.03.16-11.21.25:265][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.03.16-11.21.25:446][  0]LogD3D12RHI: Aftermath initialized
+[2023.03.16-11.21.25:446][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.03.16-11.21.25:870][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 SUPER (Max supported Feature Level 12_1, shader model 6.6)
+[2023.03.16-11.21.25:870][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 16356MB of shared system memory, 1 output[s]
+[2023.03.16-11.21.25:891][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.03.16-11.21.25:891][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16356MB of shared system memory, 0 output[s]
+[2023.03.16-11.21.25:891][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.03.16-11.21.25:891][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.16-11.21.25:891][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.03.16-11.21.25:891][  0]LogHAL: Display: Platform has ~ 32 GB [34301100032 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.16-11.21.25:891][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.03.16-11.21.25:891][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.03.16-11.21.25:891][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.16-11.21.25:891][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.03.16-11.21.25:891][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Saved/Config/WindowsEditor/Editor.ini]
+[2023.03.16-11.21.25:891][  0]LogInit: Computer: USER-PC
+[2023.03.16-11.21.25:891][  0]LogInit: User: New
+[2023.03.16-11.21.25:891][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.03.16-11.21.25:891][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.16-11.21.25:891][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.03.16-11.21.25:891][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.03.16-11.21.25:891][  0]LogMemory: Process Physical Memory: 264.42 MB used, 273.79 MB peak
+[2023.03.16-11.21.25:891][  0]LogMemory: Process Virtual Memory: 208.11 MB used, 208.11 MB peak
+[2023.03.16-11.21.25:891][  0]LogMemory: Physical Memory: 7177.12 MB used,  25534.96 MB free, 32712.08 MB total
+[2023.03.16-11.21.25:891][  0]LogMemory: Virtual Memory: 9830.10 MB used,  27745.98 MB free, 37576.08 MB total
+[2023.03.16-11.21.25:891][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.03.16-11.21.25:893][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.16-11.21.25:912][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.03.16-11.21.25:913][  0]LogInit: Using OS detected language (ru-RU).
+[2023.03.16-11.21.25:913][  0]LogInit: Using OS detected locale (ru-RU).
+[2023.03.16-11.21.25:915][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so 'ru' will be used for the language.
+[2023.03.16-11.21.25:915][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2023.03.16-11.21.25:916][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2023.03.16-11.21.25:916][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2023.03.16-11.21.25:916][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2023.03.16-11.21.25:916][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2023.03.16-11.21.25:916][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2023.03.16-11.21.25:916][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.03.16-11.21.25:916][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.16-11.21.25:930][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.03.16-11.21.25:930][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - (Keyboard).
+[2023.03.16-11.21.25:930][  0]LogWindowsTextInputMethodSystem:   - Английский (США) - (Keyboard).
+[2023.03.16-11.21.25:930][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - Сенсорный ввод — исправление (TSF IME).
+[2023.03.16-11.21.25:930][  0]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.03.16-11.21.25:950][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.16-11.21.25:950][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.16-11.21.26:083][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.03.16-11.21.26:087][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.03.16-11.21.26:087][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.03.16-11.21.26:190][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.03.16-11.21.26:236][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.03.16-11.21.26:243][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.03.16-11.21.26:254][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.03.16-11.21.26:273][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.03.16-11.21.26:273][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.03.16-11.21.26:328][  0]LogD3D12RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.16-11.21.26:328][  0]LogWindows: Attached monitors:
+[2023.03.16-11.21.26:328][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.03.16-11.21.26:328][  0]LogWindows: Found 1 attached monitors.
+[2023.03.16-11.21.26:328][  0]LogWindows: EnumDisplayDevices:
+[2023.03.16-11.21.26:328][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.03.16-11.21.26:328][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.03.16-11.21.26:329][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.03.16-11.21.26:329][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.03.16-11.21.26:329][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.03.16-11.21.26:329][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2023.03.16-11.21.26:329][  0]LogD3D12RHI:   Driver Version: 528.49 (internal:31.0.15.2849, unified:528.49)
+[2023.03.16-11.21.26:329][  0]LogD3D12RHI:      Driver Date: 2-2-2023
+[2023.03.16-11.21.26:329][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2023.03.16-11.21.26:329][  0]LogD3D12RHI: Async texture creation enabled
+[2023.03.16-11.21.26:329][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.03.16-11.21.26:343][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.03.16-11.21.26:351][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyReport_0.log" -log="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyLog_0.log" -project="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject"  -platform=all'
+[2023.03.16-11.21.26:351][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/EpicGames/Unrial5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyReport_0.log" -log="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyLog_0.log" -project="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject"  -platform=all" ]
+[2023.03.16-11.21.26:376][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.03.16-11.21.26:398][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.03.16-11.21.26:398][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.03.16-11.21.26:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.16-11.21.26:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.16-11.21.26:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.16-11.21.26:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.16-11.21.26:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.16-11.21.26:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.16-11.21.26:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.16-11.21.26:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.16-11.21.26:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.16-11.21.26:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.16-11.21.26:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.03.16-11.21.26:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.03.16-11.21.26:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.16-11.21.26:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.16-11.21.26:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.16-11.21.26:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.03.16-11.21.26:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.16-11.21.26:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.16-11.21.26:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.03.16-11.21.26:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.03.16-11.21.26:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.03.16-11.21.26:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.16-11.21.26:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.16-11.21.26:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.16-11.21.26:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.03.16-11.21.26:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.16-11.21.26:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.16-11.21.26:453][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.03.16-11.21.26:464][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.16-11.21.26:467][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.03.16-11.21.26:467][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.03.16-11.21.26:467][  0]LogTargetPlatformManager:   ADPCM
+[2023.03.16-11.21.26:467][  0]LogTargetPlatformManager:   PCM
+[2023.03.16-11.21.26:471][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.03.16-11.21.26:471][  0]LogTargetPlatformManager:   BINKA
+[2023.03.16-11.21.26:471][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.03.16-11.21.26:471][  0]LogTargetPlatformManager:   OGG
+[2023.03.16-11.21.26:471][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.03.16-11.21.26:471][  0]LogTargetPlatformManager:   OPUS
+[2023.03.16-11.21.26:522][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2023.03.16-11.21.26:522][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.03.16-11.21.26:529][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.03.16-11.21.26:529][  0]LogTargetPlatformManager:   SF_METAL
+[2023.03.16-11.21.26:529][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.03.16-11.21.26:529][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.03.16-11.21.26:529][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.03.16-11.21.26:529][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.03.16-11.21.26:529][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.03.16-11.21.26:529][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.03.16-11.21.26:529][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.03.16-11.21.26:529][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.03.16-11.21.26:529][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.03.16-11.21.26:530][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.03.16-11.21.26:530][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.03.16-11.21.26:530][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.03.16-11.21.26:530][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.03.16-11.21.26:530][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.03.16-11.21.26:533][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.03.16-11.21.26:533][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.03.16-11.21.26:533][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.03.16-11.21.26:533][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.03.16-11.21.26:533][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.03.16-11.21.26:533][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.03.16-11.21.26:533][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.03.16-11.21.26:533][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2023.03.16-11.21.26:534][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Works/WarInUkraine/WarInUkraine/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.16-11.21.26:546][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.16-11.21.26:546][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Works/WarInUkraine/WarInUkraine/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.16-11.21.26:557][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.16-11.21.26:561][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Works/WarInUkraine/WarInUkraine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.16-11.21.26:561][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.03.16-11.21.26:561][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Works/WarInUkraine/WarInUkraine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.16-11.21.26:561][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.03.16-11.21.26:588][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.03.16-11.21.26:588][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.16-11.21.26:588][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.03.16-11.21.26:595][  0]LogDerivedDataCache: Speed tests for C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.03.16-11.21.26:595][  0]LogDerivedDataCache: Display: Performance to C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1387.18MBs, RandomWriteSpeed=159.75MBs. Assigned SpeedClass 'Local'
+[2023.03.16-11.21.26:596][  0]LogDerivedDataCache: Using Local data cache path C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.16-11.21.26:596][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.16-11.21.26:596][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.03.16-11.21.26:602][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.03.16-11.21.26:602][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.03.16-11.21.26:602][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../Works/WarInUkraine/WarInUkraine/Intermediate/Shaders/WorkingDirectory/84/).
+[2023.03.16-11.21.26:602][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/New/AppData/Local/Temp/UnrealShaderWorkingDir/F8BC672F47AFCC66328B259D25ADC914/'.
+[2023.03.16-11.21.26:602][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.16-11.21.26:602][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.03.16-11.21.28:316][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.16-11.21.28:316][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.16-11.21.28:360][  0]LogAssetRegistry: FAssetRegistry took 0.0136 seconds to start up
+[2023.03.16-11.21.28:364][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.03.16-11.21.28:594][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.03.16-11.21.28:595][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.03.16-11.21.28:857][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.16-11.21.28:857][  0]LogDeviceProfileManager: Active device profile: [0000072E79BFE540][0000072E70D87800 50] WindowsEditor
+[2023.03.16-11.21.28:857][  0]LogDeviceProfileManager: Profiles: [0000072E79BFE700][0000072E70D80000 50] Windows, [0000072E79BFE540][0000072E70D87800 50] WindowsEditor, [0000072E79BFE1C0][0000072E70D05000 50] WindowsServer, [0000072E79BFE000][0000072E70D85000 50] WindowsClient, [0000072E79BF9D80][0000072E79F50000 50] IOS, [0000072E79BFD200][0000072E79F55000 50] iPadAir2, [0000072E79BFEFC0][0000072E79F5A000 50] IPadPro, [0000072E79BFF340][0000072E79F57800 50] iPadAir3, [0000072E79BFD580][0000072E79F5C800 50] iPadAir4, [0000072E79BFEE00][0000072E63D9A000 50] iPadMini4, [0000072E79BFDAC0][0000072E79F90000 50] iPadMini5, [0000072E79BFF180][0000072E79F95000 50] iPadMini6, [0000072E79FF1DC0][0000072E79F9C800 50] iPhone6S, [0000072E79FF2140][0000072E79F9A000 50] iPhone7, [0000072E79FF24C0][0000072E79F97800 50] iPodTouch7, [0000072E79FF0000][0000072E79F52800 50] iPhone6SPlus, [0000072E79FF1880][0000072E79F00000 50] iPhone7Plus, [0000072E79FF1A40][0000072E79F05000 50] iPhoneSE, [0000072E79FF2680][0000072E79F07800 50] iPhone8, [0000072E79FF3D40][0000072E79F0A000 50] iPhone8Plus, [0000072E79FF1500][0000072E79F0C800 50] iPhoneX, [0000072E79FF3100][0000072E79F92800 50] iPhoneXS, [0000072E79FF2D80][0000072E7A990000 50] iPhoneXSMax, [0000072E79FF39C0][0000072E7A995000 50] iPhoneXR, [0000072E79FF0540][0000072E7A997800 50] iPhone11, [0000072E79FF3480][0000072E7A99A000 50] iPhone11Pro, [0000072E79FF16C0][0000072E7A99C800 50] iPhone11ProMax, [0000072E79FF1180][0000072E79F02800 50] iPhoneSE2, [0000072E79FF0700][0000072E7A9A0000 50] iPhone12Mini, [0000072E79FF2A00][0000072E7A9A5000 50] iPhone12, [0000072E79FF4980][0000072E7A9A7800 50] iPhone12Pro, [0000072E79FF2F40][0000072E7A9AA000 50] iPhone12ProMax, [0000072E79FF40C0][0000072E7A9AC800 50] iPhone13Mini, [0000072E79FF0C40][0000072E7A992800 50] iPhone13, [0000072E79FF4B40][0000072E7A9B0000 50] iPhone13Pro, [0000072E79FF0FC0][0000072E7A9B5000 50] iPhone13ProMax, [0000072E79FF3B80][0000072E7A9B7800 50] iPadPro105, [0000072E79FF32C0][0000072E7A9BA000 50] iPadPro129, [0000072E79FF1F80][0000072E7A9BC800 50] iPadPro97, [0000072E79FF5940][0000072E7A9A2800 50] iPadPro2_129, [0000072E79FF3800][0000072E79FB0000 50] iPad5, [0000072E79FF5080][0000072E79FB5000 50] iPad6, [0000072E79FF2840][0000072E79FB7800 50] iPad7, [0000072E79FF5B00][0000072E79FBA000 50] iPad8, [0000072E79FF0E00][0000072E79FBC800 50] iPad9, [0000072E79FF3F00][0000072E7A9B2800 50] iPadPro11, [0000072E79FF1340][0000072E79FC0000 50] iPadPro2_11, [0000072E79FF47C0][0000072E79FC5000 50] iPadPro3_11, [0000072E79FF6900][0000072E79FC7800 50] iPadPro3_129, [0000072E79FF4280][0000072E79FCA000 50] iPadPro4_129, [0000072E79FF6040][0000072E79FCC800 50] iPadPro5_129, [0000072E79FF4D00][0000072E79FB2800 50] AppleTV, [0000072E79FF6AC0][0000072E79FD0000 50] AppleTV4K, [0000072E79FF4600][0000072E79FD5000 50] TVOS, [0000072E79FF8C00][0000072E79FDA000 50] Mac, [0000072E79FF8F80][0000072E79FD7800 50] MacEditor, [0000072E79FF5CC0][0000072E79FDC800 50] MacClient, [0000072E79FF78C0][0000072E79FC2800 50] MacServer, [0000072E79FF55C0][0000072E79FE2800 50] Linux, [0000072E79FF9840][0000072E79FE0000 50] LinuxEditor, [0000072E79FF9BC0][0000072E79FE7800 50] LinuxArm64Editor, [0000072E79FF4440][0000072E79FEA000 50] LinuxArm64, [0000072E79FF8DC0][0000072E79FEC800 50] LinuxClient, [0000072E79FF7380][0000072E79FD2800 50] LinuxArm64Client, [0000072E79FF9300][0000072E7A9D0000 50] LinuxServer, [0000072E79FF5E80][0000072E7A9D5000 50] LinuxArm64Server, [0000072E79FF63C0][0000072E7A9D7800 50] Android, [0000072E79FF86C0][0000072E7A9DA000 50] Android_Preview_OpenGL, [0000072E79FF2300][0000072E7A9DC800 50] Android_Preview_Vulkan, [0000072E79FF71C0][0000072E79FE5000 50] Android_Low, [0000072E79FF7700][0000072E7A9E0000 50] Android_Mid, [0000072E79FF8A40][0000072E7A9E5000 50] Android_High, [0000072E79FF01C0][0000072E7A9E7800 50] Android_Default, [0000072E79FF6580][0000072E7A9EA000 50] Android_Adreno4xx, [0000072E79FF1C00][0000072E7A9EC800 50] Android_Adreno5xx_Low, [0000072E79FF0380][0000072E7A9D2800 50] Android_Adreno5xx, [0000072E79FF0A80][0000072E7A9F0000 50] Android_Adreno6xx, [0000072E79FF9A00][0000072E7A9F5000 50] Android_Adreno6xx_Vulkan, [0000072E79FF8340][0000072E7A9F7800 50] Android_Adreno7xx, [0000072E79FF4EC0][0000072E7A9FA000 50] Android_Adreno7xx_Vulkan, [0000072E79FF3640][0000072E7A9FC800 50] Android_Mali_T6xx, [0000072E79FF9680][0000072E7A9E2800 50] Android_Mali_T7xx, [0000072E79FF5240][0000072E7AA00000 50] Android_Mali_T8xx, [0000072E79FF6740][0000072E7AA05000 50] Android_Mali_G71, [0000072E79FFA800][0000072E7AA07800 50] Android_Mali_G72, [0000072E79FF9140][0000072E7AA0A000 50] Android_Mali_G72_Vulkan, [0000072E79FF9F40][0000072E7AA0C800 50] Android_Mali_G76, [0000072E79FF6200][0000072E7A9F2800 50] Android_Mali_G76_Vulkan, [0000072E79FFA9C0][0000072E7AA10000 50] Android_Mali_G77, [0000072E79FF8880][0000072E7AA15000 50] Android_Mali_G77_Vulkan, [0000072E79FF7A80][0000072E7AA17800 50] Android_Mali_G78, [0000072E79FF7C40][0000072E7AA1A000 50] Android_Mali_G78_Vulkan, [0000072E79FF6E40][0000072E7AA1C800 50] Android_Mali_G710, [0000072E79FFB7C0][0000072E7AA02800 50] Android_Mali_G710_Vulkan, [0000072E79FF7E00][0000072E7AA20000 50] Android_Xclipse_920, [0000072E79FFAF00][0000072E7AA25000 50] Android_Xclipse_920_Vulkan, [0000072E79FF5780][0000072E7AA27800 50] Android_Vulkan_SM5, [0000072E79FFB440][0000072E7AA2A000 50] Android_PowerVR_G6xxx, [0000072E79FF7540][0000072E7AA2C800 50] Android_PowerVR_GT7xxx, [0000072E79FF9D80][0000072E7AA12800 50] Android_PowerVR_GE8xxx, [0000072E79FFB600][0000072E7AA30000 50] Android_PowerVR_GM9xxx, [0000072E79FFC780][0000072E7AA35000 50] Android_PowerVR_GM9xxx_Vulkan, [0000072E79FF5400][0000072E7AA37800 50] Android_TegraK1, [0000072E79FFBEC0][0000072E7AA3A000 50] Android_Unknown_Vulkan, [0000072E79FFA640][0000072E7AA3C800 50] Oculus_Quest, [0000072E79FFC940][0000072E7AA22800 50] Oculus_Quest2, [0000072E79FF08C0][0000072E7AA40000 50] HoloLens, 
+[2023.03.16-11.21.28:857][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.03.16-11.21.28:922][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.03.16-11.21.29:206][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.16-11.21.29:206][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.16-11.21.29:206][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.16-11.21.29:206][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.16-11.21.29:206][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.16-11.21.29:222][  0]LogNetVersion: WarInUkraine 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3806673830)
+[2023.03.16-11.21.29:396][  0]LogSlate: Border
+[2023.03.16-11.21.29:396][  0]LogSlate: BreadcrumbButton
+[2023.03.16-11.21.29:396][  0]LogSlate: Default
+[2023.03.16-11.21.29:396][  0]LogSlate: Icons.Save
+[2023.03.16-11.21.29:396][  0]LogSlate: Icons.Toolbar.Settings
+[2023.03.16-11.21.29:396][  0]LogSlate: ListView
+[2023.03.16-11.21.29:396][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.03.16-11.21.29:396][  0]LogSlate: SoftwareCursor_Grab
+[2023.03.16-11.21.29:396][  0]LogSlate: TableView.DarkRow
+[2023.03.16-11.21.29:396][  0]LogSlate: TableView.Row
+[2023.03.16-11.21.29:396][  0]LogSlate: TreeView
+[2023.03.16-11.21.29:862][  0]SourceControl: Source control is disabled
+[2023.03.16-11.21.29:904][  0]SourceControl: Source control is disabled
+[2023.03.16-11.21.29:904][  0]SourceControl: Source control is disabled
+[2023.03.16-11.21.30:079][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.03.16-11.21.30:079][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.03.16-11.21.30:079][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.16-11.21.31:273][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 680592F741BF4F29E08D08BC9BEB2D5B | Instance: 571240DD408E1F26B9401EAC8DB33F9B (USER-PC-84).
+[2023.03.16-11.21.31:319][  0]LogPython: Using Python 3.9.7
+[2023.03.16-11.21.32:426][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.16-11.21.32:432][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.16-11.21.32:541][  0]SourceControl: Source control is disabled
+[2023.03.16-11.21.32:548][  0]SourceControl: Source control is disabled
+[2023.03.16-11.21.32:622][  0]SourceControl: Source control is disabled
+[2023.03.16-11.21.33:160][  0]LogUProjectInfo: Found projects:
+[2023.03.16-11.21.33:355][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.16-11.21.33:437][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.16-11.21.33:456][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.16-11.21.33:456][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.16-11.21.33:589][  0]LogCollectionManager: Loaded 0 collections in 0.000853 seconds
+[2023.03.16-11.21.33:694][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Saved/Collections/' took 0.00s
+[2023.03.16-11.21.33:694][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/Developers/New/Collections/' took 0.00s
+[2023.03.16-11.21.33:694][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/Collections/' took 0.00s
+[2023.03.16-11.21.34:041][  0]LogClass: Display: FloatProperty FParticleTransformTrack::BeginOffset is not initialized properly. Module:ChaosCaching File:Public/Chaos/ChaosCache.h
+[2023.03.16-11.21.34:041][  0]LogClass: Display: BoolProperty FParticleTransformTrack::bDeactivateOnEnd is not initialized properly. Module:ChaosCaching File:Public/Chaos/ChaosCache.h
+[2023.03.16-11.21.34:042][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2023.03.16-11.21.34:048][  0]LogEngine: Initializing Engine...
+[2023.03.16-11.21.34:087][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.03.16-11.21.34:090][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.16-11.21.34:500][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.16-11.21.34:501][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.16-11.21.34:516][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-11.21.34:555][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.16-11.21.34:556][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.16-11.21.34:586][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.16-11.21.34:586][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.16-11.21.34:586][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.03.16-11.21.34:587][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.16-11.21.34:587][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.16-11.21.34:587][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-11.21.34:587][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-11.21.34:587][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-11.21.34:587][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-11.21.34:587][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.16-11.21.34:587][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.16-11.21.34:587][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.16-11.21.34:587][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-11.21.34:587][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-11.21.34:587][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-11.21.34:587][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-11.21.34:595][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.16-11.21.34:646][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2023.03.16-11.21.34:646][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-11.21.34:648][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-11.21.34:648][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-11.21.34:648][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.03.16-11.21.34:648][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.16-11.21.34:650][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.16-11.21.34:650][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.03.16-11.21.34:650][  0]LogInit: FAudioDevice initialized.
+[2023.03.16-11.21.34:650][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.16-11.21.34:650][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.16-11.21.34:650][  0]LogInit: Texture streaming: Enabled
+[2023.03.16-11.21.34:697][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.03.16-11.21.34:709][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.16-11.21.34:741][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.03.16-11.21.34:751][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.03.16-11.21.34:751][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.03.16-11.22.05:560][  0]LogLiveCoding: Display: First instance in process group "UE_WarInUkraine_0x2c562714", spawning console
+[2023.03.16-11.22.05:560][  0]LogLiveCoding: Display: Waiting for server
+[2023.03.16-11.22.05:560][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.03.16-11.22.05:832][  0]LogInit: Transaction tracking system initialized
+[2023.03.16-11.22.05:937][  0]BlueprintLog: New page: Editor Load
+[2023.03.16-11.22.06:208][  0]LocalizationService: Localization service is disabled
+[2023.03.16-11.22.06:286][  0]TimingProfiler: Initialize
+[2023.03.16-11.22.06:286][  0]TimingProfiler: OnSessionChanged
+[2023.03.16-11.22.06:286][  0]LoadingProfiler: Initialize
+[2023.03.16-11.22.06:286][  0]LoadingProfiler: OnSessionChanged
+[2023.03.16-11.22.06:286][  0]NetworkingProfiler: Initialize
+[2023.03.16-11.22.06:286][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.16-11.22.06:286][  0]MemoryProfiler: Initialize
+[2023.03.16-11.22.06:286][  0]MemoryProfiler: OnSessionChanged
+[2023.03.16-11.22.07:299][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/' took 0.23s
+[2023.03.16-11.22.07:299][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.03.16-11.22.07:405][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.16-11.22.07:407][  0]SourceControl: Source control is disabled
+[2023.03.16-11.22.07:408][  0]LogUnrealEdMisc: Loading editor; pre map load, took 44.678
+[2023.03.16-11.22.07:408][  0]Cmd: MAP LOAD FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.16-11.22.07:417][  0]LightingResults: New page: Lighting Build
+[2023.03.16-11.22.07:426][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-11.22.07:426][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-11.22.07:427][  0]MapCheck: New page: Map Check
+[2023.03.16-11.22.07:427][  0]LightingResults: New page: Lighting Build
+[2023.03.16-11.22.07:435][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-11.22.07:460][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.16-11.22.10:232][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:232][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:232][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:232][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:232][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_L' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:233][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:233][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:233][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:233][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:233][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:233][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:233][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2023.03.16-11.22.10:242][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Idle to MM_Idle_LapTop  will never be taken, please connect something to  Can Enter Transition
+[2023.03.16-11.22.10:242][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Walk / Run to MM_Idle_LapTop  will never be taken, please connect something to  Can Enter Transition
+[2023.03.16-11.22.10:242][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] MM_Idle_LapTop to Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.03.16-11.22.10:242][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] MM_Idle_LapTop to Walk / Run  will never be taken, please connect something to  Can Enter Transition
+[2023.03.16-11.22.10:917][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\FirstPerson\Maps\FirstPersonMap.umap: [Compiler] InputAction Event references unknown Action 'OutPaused' for  InputAction OutPaused
+[2023.03.16-11.22.12:165][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.03.16-11.22.12:178][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-11.22.12:179][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.16-11.22.12:205][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.16-11.22.12:205][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.03.16-11.22.14:659][  0]LogWorldPartition: Display: WorldPartition initialize took 2.45 sec
+[2023.03.16-11.22.14:919][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.16-11.22.15:918][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.03.16-11.22.15:956][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.16-11.22.15:957][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,396ms to complete.
+[2023.03.16-11.22.15:957][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 8.549
+[2023.03.16-11.22.15:974][  0]LogUnrealEdMisc: Total Editor Startup Time, took 53.245
+[2023.03.16-11.22.15:975][  0]LogShaderCompilers: Display: ================================================
+[2023.03.16-11.22.15:975][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.16-11.22.15:975][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.16-11.22.15:975][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.16-11.22.15:975][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.03.16-11.22.15:975][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.16-11.22.15:975][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.16-11.22.15:975][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.16-11.22.15:975][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.16-11.22.15:975][  0]LogShaderCompilers: Display: ================================================
+[2023.03.16-11.22.16:190][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-11.22.16:198][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-11.22.16:206][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-11.22.16:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-11.22.16:526][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.03.16-11.22.16:526][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.16-11.22.16:542][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.03.16-11.22.16:542][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.16-11.22.16:585][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.03.16-11.22.16:585][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.16-11.22.16:603][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.03.16-11.22.16:603][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.16-11.22.16:626][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.03.16-11.22.16:626][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.16-11.22.16:636][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.03.16-11.22.16:636][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.16-11.22.16:638][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.03.16-11.22.16:638][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.16-11.22.16:640][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.03.16-11.22.16:640][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.16-11.22.16:641][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.03.16-11.22.16:641][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.16-11.22.16:643][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.03.16-11.22.16:643][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.16-11.22.16:643][  0]LogFeaturePack: Error: Error in Feature pack D:/EpicGames/Unrial5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.03.16-11.22.17:355][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.16-11.22.17:396][  0]LogSlate: Took 0.013234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.16-11.22.17:531][  0]LogViewport: Scene viewport resized to 1292x825, mode Windowed.
+[2023.03.16-11.22.17:900][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.16-11.22.18:769][  0]LogStall: Startup...
+[2023.03.16-11.22.18:771][  0]LogStall: Startup complete.
+[2023.03.16-11.22.18:791][  0]LogLoad: (Engine Initialization) Total time: 56.06 seconds
+[2023.03.16-11.22.18:791][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.16-11.22.18:869][  0]LogAssetRegistry: Asset discovery search completed in 50.5100 seconds
+[2023.03.16-11.22.18:878][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.03.16-11.22.18:898][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.16-11.22.20:251][ 14]LogSlate: Took 0.025094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.16-11.22.20:330][ 14]LogSlate: Took 0.045444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.16-11.22.26:800][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.03.16-11.22.27:334][420]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kvik/KvikSave/TestLevel.TestLevel
+[2023.03.16-11.22.27:335][420]Cmd: MAP LOAD FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/KvikSave/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.16-11.22.27:335][420]LightingResults: New page: Lighting Build
+[2023.03.16-11.22.27:335][420]LoadErrors: New page: Loading map: TestLevel.umap
+[2023.03.16-11.22.27:337][420]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-11.22.27:337][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-11.22.27:355][420]MapCheck: New page: Map Check
+[2023.03.16-11.22.27:355][420]LightingResults: New page: Lighting Build
+[2023.03.16-11.22.27:366][420]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-11.22.27:370][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.03.16-11.22.27:397][420]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-11.22.27:397][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-11.22.27:408][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.16-11.22.27:418][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.03.16-11.22.27:427][420]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2023.03.16-11.22.27:427][420]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.16-11.22.27:428][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-11.22.27:428][420]LogAIModule: Creating AISystem for world TestLevel
+[2023.03.16-11.22.27:459][420]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Tower'
+[2023.03.16-11.22.27:459][420]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Gun'
+[2023.03.16-11.22.27:469][420]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Tower'
+[2023.03.16-11.22.27:469][420]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Gun'
+[2023.03.16-11.22.27:469][420]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Tower'
+[2023.03.16-11.22.27:470][420]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Gun'
+[2023.03.16-11.22.27:949][420]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.16-11.22.27:962][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.03.16-11.22.27:981][420]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.16-11.22.27:981][420]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,088ms to complete.
+[2023.03.16-11.22.27:981][420]LogFileHelpers: Loading map 'TestLevel' took 0.647
+[2023.03.16-11.22.50:820][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.16-11.22.51:256][960]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\KvikSave\Test_Car.umap: [Compiler] InputAction Event references unknown Action 'OutPaused' for  InputAction OutPaused
+[2023.03.16-11.22.51:695][960]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (T4) ...
+[2023.03.16-11.22.51:895][960]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kvik/KvikSave/Test_Car.Test_Car
+[2023.03.16-11.22.51:895][960]Cmd: MAP LOAD FILE="../../../../Works/WarInUkraine/WarInUkraine/Content/Kvik/KvikSave/Test_Car.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.16-11.22.51:895][960]LightingResults: New page: Lighting Build
+[2023.03.16-11.22.51:895][960]LoadErrors: New page: Loading map: Test_Car.umap
+[2023.03.16-11.22.51:944][960]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-11.22.51:945][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-11.22.51:945][960]MapCheck: New page: Map Check
+[2023.03.16-11.22.51:945][960]LightingResults: New page: Lighting Build
+[2023.03.16-11.22.51:955][960]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.16-11.22.51:958][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.03.16-11.22.51:961][960]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-11.22.51:962][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-11.22.51:977][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.03.16-11.22.51:987][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.03.16-11.22.51:998][960]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\KvikSave\Test_Car.umap: [Compiler] InputAction Event references unknown Action 'OutPaused' for  InputAction OutPaused
+[2023.03.16-11.22.52:043][960]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test_Car'.
+[2023.03.16-11.22.52:044][960]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.16-11.22.52:044][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-11.22.52:044][960]LogAIModule: Creating AISystem for world Test_Car
+[2023.03.16-11.22.52:089][960]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Tower'
+[2023.03.16-11.22.52:089][960]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Gun'
+[2023.03.16-11.22.52:112][960]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Tower'
+[2023.03.16-11.22.52:112][960]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Gun'
+[2023.03.16-11.22.52:113][960]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Tower'
+[2023.03.16-11.22.52:113][960]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Gun'
+[2023.03.16-11.22.52:157][960]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.16-11.22.52:172][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.03.16-11.22.52:190][960]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.16-11.22.52:190][960]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2023.03.16-11.22.52:191][960]LogFileHelpers: Loading map 'Test_Car' took 0.295
+[2023.03.16-11.23.00:099][528]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.16-11.23.00:139][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-11.23.00:139][528]PIE: New page: PIE session: Test_Car (16 мар. 2023 г., 15:23:00)
+[2023.03.16-11.23.00:151][528]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.03.16-11.23.00:151][528]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.16-11.23.00:152][528]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2023.03.16-11.23.00:198][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046500s)
+[2023.03.16-11.23.00:198][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.046644s)
+[2023.03.16-11.23.00:199][528]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.16-11.23.00:199][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-11.23.00:199][528]LogAIModule: Creating AISystem for world Test_Car
+[2023.03.16-11.23.00:199][528]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2023.03.16-11.23.00:209][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.16-11.23.00:211][528]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.16-11.23.00:211][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-11.23.00:211][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-11.23.00:212][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-11.23.00:212][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-11.23.00:212][528]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.16-11.23.00:212][528]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.16-11.23.00:212][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.16-11.23.00:212][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-11.23.00:212][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-11.23.00:212][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-11.23.00:212][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-11.23.00:214][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.16-11.23.00:238][528]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2023.03.16-11.23.00:239][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-11.23.00:239][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-11.23.00:239][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-11.23.00:239][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.03.16-11.23.00:239][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.03.16-11.23.00:241][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.03.16-11.23.00:241][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.03.16-11.23.00:241][528]LogInit: FAudioDevice initialized.
+[2023.03.16-11.23.00:242][528]LogAudio: Display: Audio Device (ID: 2) registered with world 'Test_Car'.
+[2023.03.16-11.23.00:316][528]LogLoad: Game class is 'MBP_Kv_T4_Mod_C'
+[2023.03.16-11.23.00:340][528]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2023.03.16-13.23.00
+[2023.03.16-11.23.00:373][528]LogWorld: Bringing up level for play took: 0.057085
+[2023.03.16-11.23.00:391][528]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2023.03.16-11.23.00:537][528]PIE: Server logged in
+[2023.03.16-11.23.00:538][528]PIE: Play in editor total start time 0,424 seconds.
+[2023.03.16-11.23.26:945][641]LogDerivedDataCache: C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.347 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.16-11.28.47:849][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-11.28.47:849][178]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2023.03.16-11.28.47:849][178]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-11.28.47:851][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-11.28.47:864][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-11.28.47:868][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-11.28.47:878][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-11.28.47:879][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.16-11.28.47:881][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.16-11.28.47:889][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.03.16-11.28.47:922][179]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.03.16-11.28.49:966][331]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.16-11.36.03:132][551]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.16-11.36.03:146][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.16-11.36.03:146][551]PIE: New page: PIE session: Test_Car (16 мар. 2023 г., 15:36:03)
+[2023.03.16-11.36.03:167][551]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2023.03.16-11.36.03:188][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020883s)
+[2023.03.16-11.36.03:188][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.021017s)
+[2023.03.16-11.36.03:188][551]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.16-11.36.03:188][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.16-11.36.03:189][551]LogAIModule: Creating AISystem for world Test_Car
+[2023.03.16-11.36.03:189][551]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2023.03.16-11.36.03:199][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.03.16-11.36.03:200][551]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.16-11.36.03:200][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.16-11.36.03:200][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.16-11.36.03:200][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.16-11.36.03:200][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.16-11.36.03:200][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.16-11.36.03:200][551]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.16-11.36.03:200][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.16-11.36.03:200][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.16-11.36.03:201][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.16-11.36.03:201][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.16-11.36.03:201][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.16-11.36.03:203][551]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.16-11.36.03:228][551]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2023.03.16-11.36.03:229][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.16-11.36.03:229][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.16-11.36.03:229][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.16-11.36.03:229][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.03.16-11.36.03:229][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.03.16-11.36.03:231][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.03.16-11.36.03:231][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.03.16-11.36.03:231][551]LogInit: FAudioDevice initialized.
+[2023.03.16-11.36.03:231][551]LogAudio: Display: Audio Device (ID: 3) registered with world 'Test_Car'.
+[2023.03.16-11.36.03:247][551]LogLoad: Game class is 'Kv_Man_Mod_C'
+[2023.03.16-11.36.03:255][551]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2023.03.16-13.36.03
+[2023.03.16-11.36.03:256][551]LogWorld: Bringing up level for play took: 0.008353
+[2023.03.16-11.36.03:259][551]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2023.03.16-11.36.03:483][551]PIE: Server logged in
+[2023.03.16-11.36.03:484][551]PIE: Play in editor total start time 0,338 seconds.
+[2023.03.16-11.36.03:504][551]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:519][552]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:682][553]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:721][554]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:731][555]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:741][556]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:753][557]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:766][558]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:781][559]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:793][560]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:805][561]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:817][562]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:830][563]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:841][564]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:853][565]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:867][566]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:879][567]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:892][568]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:904][569]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:916][570]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:928][571]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:940][572]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:954][573]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:966][574]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:979][575]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.03:990][576]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:002][577]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:015][578]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:026][579]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:038][580]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:050][581]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:063][582]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:074][583]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:087][584]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:099][585]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:112][586]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:126][587]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:137][588]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:150][589]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:162][590]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:174][591]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:186][592]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:198][593]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:210][594]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:222][595]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:236][596]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:247][597]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:257][598]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:271][599]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:284][600]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:296][601]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:309][602]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:321][603]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:334][604]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:346][605]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:357][606]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:371][607]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:383][608]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:396][609]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:408][610]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:420][611]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:432][612]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:444][613]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:456][614]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:468][615]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:481][616]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:492][617]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:506][618]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:518][619]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:529][620]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:541][621]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:556][622]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:569][623]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:581][624]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:593][625]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:604][626]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:617][627]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:629][628]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:641][629]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:655][630]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:667][631]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:679][632]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:691][633]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:703][634]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:716][635]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:729][636]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:740][637]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:753][638]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:765][639]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:777][640]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:789][641]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:800][642]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:813][643]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:824][644]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:836][645]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:848][646]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:860][647]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:871][648]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:883][649]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:896][650]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:909][651]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:922][652]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:934][653]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:946][654]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:957][655]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:969][656]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:982][657]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.04:993][658]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:006][659]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:017][660]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:031][661]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:041][662]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:054][663]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:066][664]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:079][665]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:090][666]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:105][667]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:118][668]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:130][669]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:143][670]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:153][671]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:166][672]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:177][673]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:189][674]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:203][675]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:215][676]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:227][677]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:239][678]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:252][679]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:264][680]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:277][681]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:288][682]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:302][683]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:314][684]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:326][685]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:340][686]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:351][687]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:364][688]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:375][689]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:387][690]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:399][691]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:411][692]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:422][693]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:435][694]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:447][695]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:459][696]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:471][697]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:483][698]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:495][699]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:508][700]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:520][701]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:532][702]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:545][703]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:557][704]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:572][705]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:587][706]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:599][707]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:612][708]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:623][709]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:636][710]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:650][711]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:661][712]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:675][713]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:686][714]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:700][715]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:711][716]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:723][717]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:736][718]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:749][719]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:761][720]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:773][721]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:785][722]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:798][723]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:810][724]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:822][725]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:833][726]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:846][727]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:857][728]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:870][729]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:882][730]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:895][731]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:907][732]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:919][733]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:932][734]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:943][735]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:956][736]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:968][737]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:981][738]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.05:993][739]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:005][740]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:018][741]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:029][742]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:040][743]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:055][744]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:067][745]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:079][746]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:092][747]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:105][748]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:117][749]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:130][750]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:142][751]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:153][752]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:166][753]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:177][754]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:190][755]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:202][756]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:215][757]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:227][758]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:239][759]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:251][760]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:263][761]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:275][762]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:287][763]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:299][764]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:311][765]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:322][766]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:334][767]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:347][768]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:357][769]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:371][770]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:383][771]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:397][772]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:409][773]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:423][774]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:435][775]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:446][776]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:458][777]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:470][778]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:482][779]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:494][780]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:506][781]LogScript: Warning: Accessed None trying to read property Kv_HitObject
+	Kv_BP_Man_C /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car:PersistentLevel.Kv_BP_Man_C_0
+	Function /Game/Kvik/Kvik_Modes/Players/Player_1/Kv_BP_Man.Kv_BP_Man_C:ExecuteUbergraph_Kv_BP_Man:0F8F
+[2023.03.16-11.36.06:506][781]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Kv_HitObject". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Kv BP Man Blueprint:  Kv_BP_Man
+[2023.03.16-11.36.06:507][781]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:518][782]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:530][783]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:541][784]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:555][785]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:567][786]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:581][787]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:593][788]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:605][789]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:618][790]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:629][791]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:641][792]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:652][793]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:666][794]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:677][795]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:689][796]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:701][797]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:714][798]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:725][799]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:736][800]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:749][801]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:761][802]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:773][803]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:784][804]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:797][805]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:809][806]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:820][807]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:834][808]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:845][809]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:857][810]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:871][811]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:883][812]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:895][813]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:906][814]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:919][815]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:930][816]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:941][817]LogScript: Warning: Accessed None trying to read property Kv_HitObject
+	Kv_BP_Man_C /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car:PersistentLevel.Kv_BP_Man_C_0
+	Function /Game/Kvik/Kvik_Modes/Players/Player_1/Kv_BP_Man.Kv_BP_Man_C:ExecuteUbergraph_Kv_BP_Man:0F8F
+[2023.03.16-11.36.06:941][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Kv_HitObject". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Kv BP Man Blueprint:  Kv_BP_Man
+[2023.03.16-11.36.06:942][817]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:954][818]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:966][819]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:978][820]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.06:990][821]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:003][822]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:015][823]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:029][824]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:040][825]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:054][826]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:067][827]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:079][828]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:091][829]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:105][830]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:116][831]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:129][832]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:140][833]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:155][834]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:168][835]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:179][836]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:192][837]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:204][838]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:218][839]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:229][840]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:241][841]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:252][842]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:265][843]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:277][844]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:290][845]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:301][846]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:314][847]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:326][848]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:339][849]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:352][850]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:364][851]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:376][852]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:387][853]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:401][854]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:413][855]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:425][856]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:437][857]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:449][858]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:461][859]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:473][860]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:487][861]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:499][862]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:512][863]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:522][864]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:534][865]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:546][866]LogScript: Warning: Accessed None trying to read property Kv_HitObject
+	Kv_BP_Man_C /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car:PersistentLevel.Kv_BP_Man_C_0
+	Function /Game/Kvik/Kvik_Modes/Players/Player_1/Kv_BP_Man.Kv_BP_Man_C:ExecuteUbergraph_Kv_BP_Man:0F8F
+[2023.03.16-11.36.07:546][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Kv_HitObject". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Kv BP Man Blueprint:  Kv_BP_Man
+[2023.03.16-11.36.07:546][866]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:559][867]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:570][868]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:583][869]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:596][870]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:606][871]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:620][872]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:631][873]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:644][874]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:655][875]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:669][876]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:680][877]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:693][878]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:704][879]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:718][880]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:730][881]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:742][882]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:754][883]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:767][884]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:778][885]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:790][886]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:801][887]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:814][888]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:826][889]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:837][890]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:850][891]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:862][892]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:875][893]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:886][894]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:900][895]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:911][896]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:922][897]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:935][898]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:947][899]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:958][900]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:972][901]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:984][902]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.07:997][903]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:008][904]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:021][905]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:032][906]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:045][907]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:056][908]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:069][909]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:082][910]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:093][911]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:106][912]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:120][913]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:132][914]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.08:144][915]LogScript: Warning: Accessed None trying to read property Kv_HitObject
+	Kv_BP_Man_C /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car:PersistentLevel.Kv_BP_Man_C_0
+	Function /Game/Kvik/Kvik_Modes/Players/Player_1/Kv_BP_Man.Kv_BP_Man_C:ExecuteUbergraph_Kv_BP_Man:0F8F
+[2023.03.16-11.36.08:144][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Kv_HitObject". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Kv BP Man Blueprint:  Kv_BP_Man
+[2023.03.16-11.36.08:145][915]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:198][916]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:207][917]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:215][918]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:224][919]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:237][920]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:246][921]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:257][922]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:269][923]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:282][924]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:294][925]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:306][926]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:318][927]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:331][928]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:343][929]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:355][930]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:368][931]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:380][932]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:392][933]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:403][934]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:416][935]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:428][936]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:440][937]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:453][938]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:466][939]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:479][940]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:490][941]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:504][942]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:516][943]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:528][944]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:539][945]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:552][946]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:565][947]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:576][948]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:588][949]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:601][950]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:613][951]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:626][952]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:637][953]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:650][954]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:662][955]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:673][956]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:686][957]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:698][958]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:711][959]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:722][960]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:736][961]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:748][962]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:761][963]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:771][964]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:785][965]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:796][966]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:808][967]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:819][968]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:832][969]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:843][970]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:855][971]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:869][972]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:881][973]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:894][974]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:906][975]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:918][976]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:932][977]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:944][978]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:957][979]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:969][980]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:981][981]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.08:993][982]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:004][983]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:017][984]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:029][985]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:042][986]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:053][987]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:066][988]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:078][989]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:090][990]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:103][991]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:116][992]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:127][993]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:138][994]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:151][995]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:163][996]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:175][997]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:189][998]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:202][999]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:215][  0]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:227][  1]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.09:238][  2]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:250][  3]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:264][  4]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:281][  5]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:300][  6]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:316][  7]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:329][  8]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:342][  9]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:353][ 10]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:367][ 11]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:379][ 12]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:390][ 13]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:404][ 14]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:417][ 15]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:432][ 16]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:445][ 17]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:457][ 18]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:469][ 19]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:481][ 20]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:494][ 21]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:505][ 22]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:517][ 23]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:529][ 24]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:540][ 25]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:553][ 26]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:565][ 27]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:577][ 28]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:588][ 29]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:601][ 30]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:612][ 31]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:625][ 32]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:636][ 33]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:648][ 34]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:660][ 35]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:673][ 36]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:685][ 37]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:698][ 38]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:710][ 39]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:722][ 40]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:733][ 41]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:746][ 42]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:757][ 43]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:769][ 44]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:782][ 45]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:793][ 46]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:804][ 47]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:817][ 48]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:829][ 49]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:841][ 50]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:854][ 51]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.09:865][ 52]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:046][163]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:066][164]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:079][165]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:093][166]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:104][167]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:118][168]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:129][169]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:141][170]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:154][171]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:165][172]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:178][173]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:190][174]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:202][175]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:214][176]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:226][177]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:239][178]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:252][179]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:265][180]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:277][181]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:288][182]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:300][183]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:313][184]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:325][185]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:337][186]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:350][187]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:361][188]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:373][189]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:384][190]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:400][191]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:414][192]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:425][193]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:438][194]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:450][195]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:463][196]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:476][197]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:488][198]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:501][199]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:512][200]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:525][201]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:536][202]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:549][203]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:561][204]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:573][205]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:587][206]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:599][207]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:611][208]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:623][209]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:635][210]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:647][211]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:659][212]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:671][213]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:684][214]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:697][215]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:709][216]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:721][217]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:734][218]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:746][219]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:757][220]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:770][221]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:782][222]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.12:793][223]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:805][224]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:819][225]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:831][226]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:843][227]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:857][228]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:868][229]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:881][230]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:893][231]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:905][232]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:917][233]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:929][234]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:942][235]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:954][236]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:966][237]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:978][238]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.12:991][239]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:003][240]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:016][241]LogBlueprintUserMessages: [Kv_BP_Man_C_0] 
+[2023.03.16-11.36.13:027][242]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:040][243]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:054][244]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:066][245]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:079][246]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:091][247]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:103][248]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:115][249]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:127][250]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:139][251]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:152][252]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:164][253]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:177][254]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:188][255]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:200][256]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:212][257]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:224][258]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:236][259]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:249][260]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:261][261]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:273][262]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:285][263]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:298][264]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:309][265]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:322][266]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:334][267]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:346][268]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:358][269]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:370][270]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:383][271]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:396][272]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:407][273]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:420][274]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:433][275]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:445][276]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:456][277]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:469][278]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:481][279]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:493][280]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:504][281]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:516][282]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:528][283]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:540][284]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:553][285]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:564][286]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:577][287]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:588][288]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:602][289]LogBlueprintUserMessages: [Kv_BP_Man_C_0] Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.13:648][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-11.36.13:648][289]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2023.03.16-11.36.13:648][289]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2023.03.16-11.36.13:649][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-11.36.13:695][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.16-11.36.13:698][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.16-11.36.13:707][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.16-11.36.13:709][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.16-11.36.13:711][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.16-11.36.13:718][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.03.16-11.36.13:868][290]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.03.16-11.36.27:538][880]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kvik/Kvik_Modes/Weapons/Stugna/Kv_StagnaP2_AmmoOn_Actor.Kv_StagnaP2_AmmoOn_Actor
+[2023.03.16-11.36.27:539][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
