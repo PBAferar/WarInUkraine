@@ -1,0 +1,1352 @@
+﻿Log file open, 07/12/23 12:26:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=4228)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WarInUkraine
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:/!_GItHub/WarInUkraine/WarInUkraine/WarInUkraine.uproject /Game/1WUI/SceneFirst/TestHouse -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (Release 1607) [10.0.14393.0] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="9947d15b4940a9deccf4ad84adbf43d0"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.332926
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-673375174860E0495EF567B28A004756
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosVehiclesPlugin/Content/' mounted to '/ChaosVehiclesPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (Release 1607) [10.0.14393.0] (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  /Game/1WUI/SceneFirst/TestHouse -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720
+LogInit: Base Directory: H:/UnrealEngine/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.07.12-09.26.35:258][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2023.07.12-09.26.35:258][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2023.07.12-09.26.35:258][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2023.07.12-09.26.35:258][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2023.07.12-09.26.35:258][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2023.07.12-09.26.35:258][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.07.12-09.26.35:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.07.12-09.26.35:258][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.07.12-09.26.35:258][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.07.12-09.26.35:258][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.07.12-09.26.35:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.07.12-09.26.35:258][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.07.12-09.26.35:259][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.07.12-09.26.35:259][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.07.12-09.26.35:360][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.07.12-09.26.35:360][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.07.12-09.26.35:360][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.07.12-09.26.35:360][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.07.12-09.26.35:360][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.07.12-09.26.35:360][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.07.12-09.26.35:360][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.07.12-09.26.35:360][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.07.12-09.26.35:360][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.07.12-09.26.35:360][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.07.12-09.26.35:360][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.07.12-09.26.35:438][  0]LogD3D12RHI: Aftermath initialized
+[2023.07.12-09.26.35:438][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.07.12-09.26.35:439][  0]LogD3D12RHI: Warning: Missing full support for Direct3D 12. Update to Windows 1703 or newer for D3D12 support.
+[2023.07.12-09.26.35:447][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.07.12-09.26.35:448][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.07.12-09.26.35:448][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.07.12-09.26.35:448][  0]LogD3D11RHI: D3D11 adapters:
+[2023.07.12-09.26.35:448][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.07.12-09.26.35:448][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2023.07.12-09.26.35:448][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.12-09.26.35:448][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2023.07.12-09.26.35:449][  0]LogD3D11RHI:     SubSysId    : 119e10de
+[2023.07.12-09.26.35:449][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.12-09.26.35:449][  0]LogD3D11RHI:     DedicatedVideoMemory : 8477073408 bytes
+[2023.07.12-09.26.35:449][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.12-09.26.35:449][  0]LogD3D11RHI:     SharedSystemMemory : 8571164672 bytes
+[2023.07.12-09.26.35:449][  0]LogD3D11RHI:     AdapterLuid : 0 27161
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_1)
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI:       8084/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI:     Revision    : 0000
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI:     SharedSystemMemory : 8571164672 bytes
+[2023.07.12-09.26.35:550][  0]LogD3D11RHI:     AdapterLuid : 0 29948
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI:       0/0/8174 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI:     SubSysId    : 119e10de
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI:     DedicatedVideoMemory : 8477073408 bytes
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI:     SharedSystemMemory : 8571164672 bytes
+[2023.07.12-09.26.35:552][  0]LogD3D11RHI:     AdapterLuid : 0 27161
+[2023.07.12-09.26.35:552][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.07.12-09.26.35:552][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.07.12-09.26.35:552][  0]LogHAL: Display: Platform has ~ 16 GB [17142329344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.07.12-09.26.35:552][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.07.12-09.26.35:552][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.07.12-09.26.35:553][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.07.12-09.26.35:553][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.07.12-09.26.35:553][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/!_GItHub/WarInUkraine/WarInUkraine/Saved/Config/WindowsEditor/Editor.ini]
+[2023.07.12-09.26.35:553][  0]LogInit: Computer: DESKTOP-71CR9E3
+[2023.07.12-09.26.35:553][  0]LogInit: User: Aferar
+[2023.07.12-09.26.35:553][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.07.12-09.26.35:553][  0]LogInit: High frequency timer resolution =2.929686 MHz
+[2023.07.12-09.26.35:553][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2023.07.12-09.26.35:553][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.07.12-09.26.35:553][  0]LogMemory: Process Physical Memory: 245.88 MB used, 252.43 MB peak
+[2023.07.12-09.26.35:553][  0]LogMemory: Process Virtual Memory: 181.85 MB used, 197.48 MB peak
+[2023.07.12-09.26.35:553][  0]LogMemory: Physical Memory: 8900.69 MB used,  7447.51 MB free, 16348.20 MB total
+[2023.07.12-09.26.35:553][  0]LogMemory: Virtual Memory: 14962.43 MB used,  31478.82 MB free, 46441.25 MB total
+[2023.07.12-09.26.35:553][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.07.12-09.26.35:558][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.07.12-09.26.35:573][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.07.12-09.26.35:573][  0]LogInit: Using OS detected language (ru-RU).
+[2023.07.12-09.26.35:573][  0]LogInit: Using OS detected locale (ru-RU).
+[2023.07.12-09.26.35:576][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so 'ru' will be used for the language.
+[2023.07.12-09.26.35:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2023.07.12-09.26.35:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2023.07.12-09.26.35:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2023.07.12-09.26.35:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2023.07.12-09.26.35:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2023.07.12-09.26.35:577][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2023.07.12-09.26.35:578][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.07.12-09.26.35:585][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.07.12-09.26.35:585][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - (Keyboard).
+[2023.07.12-09.26.35:585][  0]LogWindowsTextInputMethodSystem:   - Английский (США) - (Keyboard).
+[2023.07.12-09.26.35:585][  0]LogWindowsTextInputMethodSystem:   - Украинский (Украина) - (Keyboard).
+[2023.07.12-09.26.35:585][  0]LogWindowsTextInputMethodSystem: Activated input method: Украинский (Украина) - (Keyboard).
+[2023.07.12-09.26.35:672][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.07.12-09.26.35:672][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.07.12-09.26.35:748][  0]LogD3D12RHI: Aftermath initialized
+[2023.07.12-09.26.35:748][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.07.12-09.26.35:749][  0]LogD3D12RHI: Warning: Missing full support for Direct3D 12. Update to Windows 1703 or newer for D3D12 support.
+[2023.07.12-09.26.35:752][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.07.12-09.26.35:752][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2023.07.12-09.26.35:752][  0]LogWindows: Attached monitors:
+[2023.07.12-09.26.35:752][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.07.12-09.26.35:752][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1040), device: '\\.\DISPLAY2'
+[2023.07.12-09.26.35:752][  0]LogWindows:     resolution: 1280x720, work area: (3840, 0) -> (5120, 680), device: '\\.\DISPLAY3'
+[2023.07.12-09.26.35:752][  0]LogWindows: Found 3 attached monitors.
+[2023.07.12-09.26.35:752][  0]LogWindows: EnumDisplayDevices:
+[2023.07.12-09.26.35:752][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.07.12-09.26.35:752][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.07.12-09.26.35:752][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:1), name: '\\.\DISPLAY3'
+[2023.07.12-09.26.35:752][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.07.12-09.26.35:753][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:   Driver Version: 472.84 (internal:30.0.14.7284, unified:472.84)
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:      Driver Date: 12-6-2021
+[2023.07.12-09.26.35:753][  0]LogRHI: Texture pool is 5659 MB (70% of 8084 MB)
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:     SubSysId    : 119e10de
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:     DedicatedVideoMemory : 8477073408 bytes
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:     SharedSystemMemory : 8571164672 bytes
+[2023.07.12-09.26.35:753][  0]LogD3D11RHI:     AdapterLuid : 0 27161
+[2023.07.12-09.26.35:810][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.07.12-09.26.35:810][  0]LogD3D11RHI: Async texture creation enabled
+[2023.07.12-09.26.35:810][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.07.12-09.26.35:810][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.07.12-09.26.35:829][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.07.12-09.26.35:830][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.07.12-09.26.35:839][  0]LogWindowsTextInputMethodSystem: Activated input method: Украинский (Украина) - (Keyboard).
+[2023.07.12-09.26.37:006][  0]LogWindowsTextInputMethodSystem: Activated input method: Украинский (Украина) - (Keyboard).
+[2023.07.12-09.26.37:007][  0]LogWindowsTextInputMethodSystem: Activated input method: Украинский (Украина) - (Keyboard).
+[2023.07.12-09.26.37:007][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D11.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1080
+Installed: 472.84
+Recommended: 516.25
+[2023.07.12-09.26.37:012][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/!_GItHub/WarInUkraine/WarInUkraine/WarInUkraine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/!_GItHub/WarInUkraine/WarInUkraine/Intermediate/TurnkeyReport_0.log" -log="E:/!_GItHub/WarInUkraine/WarInUkraine/Intermediate/TurnkeyLog_0.log" -project="E:/!_GItHub/WarInUkraine/WarInUkraine/WarInUkraine.uproject"  -platform=all'
+[2023.07.12-09.26.37:012][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""H:/UnrealEngine/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/!_GItHub/WarInUkraine/WarInUkraine/WarInUkraine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/!_GItHub/WarInUkraine/WarInUkraine/Intermediate/TurnkeyReport_0.log" -log="E:/!_GItHub/WarInUkraine/WarInUkraine/Intermediate/TurnkeyLog_0.log" -project="E:/!_GItHub/WarInUkraine/WarInUkraine/WarInUkraine.uproject"  -platform=all" ]
+[2023.07.12-09.26.37:030][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.07.12-09.26.37:036][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.07.12-09.26.37:036][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.07.12-09.26.37:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.07.12-09.26.37:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.07.12-09.26.37:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.07.12-09.26.37:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.07.12-09.26.37:042][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.07.12-09.26.37:048][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.07.12-09.26.37:051][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.07.12-09.26.37:051][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.07.12-09.26.37:051][  0]LogTargetPlatformManager:   ADPCM
+[2023.07.12-09.26.37:051][  0]LogTargetPlatformManager:   PCM
+[2023.07.12-09.26.37:053][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.07.12-09.26.37:053][  0]LogTargetPlatformManager:   BINKA
+[2023.07.12-09.26.37:053][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.07.12-09.26.37:053][  0]LogTargetPlatformManager:   OGG
+[2023.07.12-09.26.37:053][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.07.12-09.26.37:053][  0]LogTargetPlatformManager:   OPUS
+[2023.07.12-09.26.37:094][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2023.07.12-09.26.37:094][  0]LogRendererCore: Ray tracing is disabled. Reason: not supported by current RHI.
+[2023.07.12-09.26.37:094][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/!_GItHub/WarInUkraine/WarInUkraine/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.07.12-09.26.37:094][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.07.12-09.26.37:095][  0]LogShaderCompilers: Display: Compiling shader autogen file: E:/!_GItHub/WarInUkraine/WarInUkraine/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.07.12-09.26.37:095][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.07.12-09.26.37:097][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/!_GItHub/WarInUkraine/WarInUkraine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.07.12-09.26.37:098][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.07.12-09.26.37:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/!_GItHub/WarInUkraine/WarInUkraine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.12-09.26.37:098][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.07.12-09.26.37:121][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.07.12-09.26.37:121][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.12-09.26.37:121][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.07.12-09.26.37:204][  0]LogDerivedDataCache: Speed tests for C:/Users/Aferar/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.08 seconds
+[2023.07.12-09.26.37:204][  0]LogDerivedDataCache: Display: Performance to C:/Users/Aferar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1741.49MBs, RandomWriteSpeed=11.36MBs. Assigned SpeedClass 'Local'
+[2023.07.12-09.26.37:205][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aferar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.07.12-09.26.37:205][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.07.12-09.26.37:205][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.07.12-09.26.37:210][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.07.12-09.26.37:210][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.07.12-09.26.37:211][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (E:/!_GItHub/WarInUkraine/WarInUkraine/Intermediate/Shaders/WorkingDirectory/4208/).
+[2023.07.12-09.26.37:211][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aferar/AppData/Local/Temp/UnrealShaderWorkingDir/B823BE4A4B81BA0F9060B98FA39EFC74/'.
+[2023.07.12-09.26.37:211][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.07.12-09.26.37:211][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2023.07.12-09.26.38:932][  0]LogSlate: Using FreeType 2.10.0
+[2023.07.12-09.26.38:932][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.07.12-09.26.38:993][  0]LogInit: Using OS detected language (ru-RU).
+[2023.07.12-09.26.38:993][  0]LogInit: Using OS detected locale (ru-RU).
+[2023.07.12-09.26.38:993][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2023.07.12-09.26.38:993][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2023.07.12-09.26.38:993][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.07.12-09.26.38:993][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.07.12-09.26.39:004][  0]LogAssetRegistry: FAssetRegistry took 0.0104 seconds to start up
+[2023.07.12-09.26.39:208][  0]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.001501 seconds
+[2023.07.12-09.26.39:208][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.07.12-09.26.39:210][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2023.07.12-09.26.39:426][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.07.12-09.26.39:426][  0]LogDeviceProfileManager: Active device profile: [00000B4A5C2EE540][00000B4A56815000 50] WindowsEditor
+[2023.07.12-09.26.39:426][  0]LogDeviceProfileManager: Profiles: [00000B4A5C2EE000][00000B4A56812800 50] Windows, [00000B4A5C2EE540][00000B4A56815000 50] WindowsEditor, [00000B4A5C2EBEC0][00000B4A4986A000 50] WindowsServer, [00000B4A5C2E8DC0][00000B4A5275C800 50] WindowsClient, [00000B4A5C2EE700][00000B4A49FE7800 50] IOS, [00000B4A5C2EC080][00000B4A527A7800 50] iPadAir2, [00000B4A5C2ED3C0][00000B4A5C780000 50] IPadPro, [00000B4A5C2EEE00][00000B4A5C782800 50] iPadAir3, [00000B4A5C2EDE40][00000B4A5C787800 50] iPadAir4, [00000B4A5C2EC940][00000B4A5C78A000 50] iPadMini4, [00000B4A5C2EC240][00000B4A5C78C800 50] iPadMini5, [00000B4A5C2EA9C0][00000B4A56810000 50] iPadMini6, [00000B4A5C901C00][00000B4A5C7A2800 50] iPhone6S, [00000B4A5C901A40][00000B4A5C7A0000 50] iPhone7, [00000B4A5C9016C0][00000B4A5C7A5000 50] iPodTouch7, [00000B4A5C902680][00000B4A5C7AA000 50] iPhone6SPlus, [00000B4A5C900000][00000B4A5C7AC800 50] iPhone7Plus, [00000B4A5C901880][00000B4A5C785000 50] iPhoneSE, [00000B4A5C901340][00000B4A5C7A7800 50] iPhone8, [00000B4A5C902A00][00000B4A5C7B0000 50] iPhone8Plus, [00000B4A5C900540][00000B4A5C7B5000 50] iPhoneX, [00000B4A5C903640][00000B4A5C7B7800 50] iPhoneXS, [00000B4A5C902300][00000B4A5C7BA000 50] iPhoneXSMax, [00000B4A5C902140][00000B4A5C7BC800 50] iPhoneXR, [00000B4A5C902D80][00000B4A49D6A000 50] iPhone11, [00000B4A5C903800][00000B4A5C7D0000 50] iPhone11Pro, [00000B4A5C900C40][00000B4A5C7D5000 50] iPhone11ProMax, [00000B4A5C903B80][00000B4A5C7D7800 50] iPhoneSE2, [00000B4A5C900A80][00000B4A5C7DA000 50] iPhone12Mini, [00000B4A5C9001C0][00000B4A5C7DC800 50] iPhone12, [00000B4A5C904600][00000B4A5C7B2800 50] iPhone12Pro, [00000B4A5C901180][00000B4A5C7E0000 50] iPhone12ProMax, [00000B4A5C900380][00000B4A5C7E5000 50] iPhone13Mini, [00000B4A5C901F80][00000B4A5C7E7800 50] iPhone13, [00000B4A5C9047C0][00000B4A5C7EA000 50] iPhone13Pro, [00000B4A5C900700][00000B4A5C7EC800 50] iPhone13ProMax, [00000B4A5C904B40][00000B4A5C7D2800 50] iPadPro105, [00000B4A5C903D40][00000B4A5C7F0000 50] iPadPro129, [00000B4A5C901DC0][00000B4A5C7F5000 50] iPadPro97, [00000B4A5C9055C0][00000B4A5C7F7800 50] iPadPro2_129, [00000B4A5C9039C0][00000B4A5C7FA000 50] iPad5, [00000B4A5C901500][00000B4A5C7FC800 50] iPad6, [00000B4A5C903480][00000B4A5C7E2800 50] iPad7, [00000B4A5C905780][00000B4A5C810000 50] iPad8, [00000B4A5C902840][00000B4A5C815000 50] iPad9, [00000B4A5C905B00][00000B4A5C817800 50] iPadPro11, [00000B4A5C904D00][00000B4A5C81A000 50] iPadPro2_11, [00000B4A5C902BC0][00000B4A5C81C800 50] iPadPro3_11, [00000B4A5C906580][00000B4A5C7F2800 50] iPadPro3_129, [00000B4A5C904980][00000B4A5C820000 50] iPadPro4_129, [00000B4A5C900E00][00000B4A5C825000 50] iPadPro5_129, [00000B4A5C904440][00000B4A5C827800 50] AppleTV, [00000B4A5C906740][00000B4A5C82A000 50] AppleTV4K, [00000B4A5C902F40][00000B4A5C82C800 50] TVOS, [00000B4A5C908C00][00000B4A5C830000 50] Mac, [00000B4A5C908F80][00000B4A5C832800 50] MacEditor, [00000B4A5C9032C0][00000B4A5C837800 50] MacClient, [00000B4A5C905CC0][00000B4A5C83A000 50] MacServer, [00000B4A5C9094C0][00000B4A5C812800 50] Linux, [00000B4A5C903100][00000B4A5C822800 50] LinuxEditor, [00000B4A5C907380][00000B4A5C83C800 50] LinuxArm64Editor, [00000B4A5C908340][00000B4A5C840000 50] LinuxArm64, [00000B4A5C905E80][00000B4A5C845000 50] LinuxClient, [00000B4A5C906040][00000B4A5C847800 50] LinuxArm64Client, [00000B4A5C909300][00000B4A5C84A000 50] LinuxServer, [00000B4A5C905240][00000B4A5C84C800 50] LinuxArm64Server, [00000B4A5C907C40][00000B4A5C835000 50] Android, [00000B4A5C906200][00000B4A5C850000 50] Android_Preview_OpenGL, [00000B4A5C908180][00000B4A5C855000 50] Android_Preview_Vulkan, [00000B4A5C905400][00000B4A5C857800 50] Android_Low, [00000B4A5C908A40][00000B4A5C85A000 50] Android_Mid, [00000B4A5C900FC0][00000B4A5C85C800 50] Android_High, [00000B4A5C9040C0][00000B4A5C842800 50] Android_Default, [00000B4A5C905940][00000B4A5C860000 50] Android_Adreno4xx, [00000B4A5C906E40][00000B4A5C865000 50] Android_Adreno5xx_Low, [00000B4A5C9063C0][00000B4A5C867800 50] Android_Adreno5xx, [00000B4A5C909A00][00000B4A5C86A000 50] Android_Adreno6xx, [00000B4A5C907000][00000B4A5C86C800 50] Android_Adreno6xx_Vulkan, [00000B4A5C904280][00000B4A5C852800 50] Android_Adreno7xx, [00000B4A5C909840][00000B4A5C870000 50] Android_Adreno7xx_Vulkan, [00000B4A5C9086C0][00000B4A5C875000 50] Android_Mali_T6xx, [00000B4A5C905080][00000B4A5C877800 50] Android_Mali_T7xx, [00000B4A5C9008C0][00000B4A5C87A000 50] Android_Mali_T8xx, [00000B4A5C908880][00000B4A5C87C800 50] Android_Mali_G71, [00000B4A5C90A480][00000B4A5C862800 50] Android_Mali_G72, [00000B4A5C909140][00000B4A5C880000 50] Android_Mali_G72_Vulkan, [00000B4A5C9071C0][00000B4A5C885000 50] Android_Mali_G76, [00000B4A5C907E00][00000B4A5C887800 50] Android_Mali_G76_Vulkan, [00000B4A5C90A640][00000B4A5C88A000 50] Android_Mali_G77, [00000B4A5C9024C0][00000B4A5C88C800 50] Android_Mali_G77_Vulkan, [00000B4A5C90A9C0][00000B4A5C872800 50] Android_Mali_G78, [00000B4A5C908DC0][00000B4A5C890000 50] Android_Mali_G78_Vulkan, [00000B4A5C9078C0][00000B4A5C895000 50] Android_Mali_G710, [00000B4A5C90B440][00000B4A5C897800 50] Android_Mali_G710_Vulkan, [00000B4A5C909680][00000B4A5C89A000 50] Android_Xclipse_920, [00000B4A5C907540][00000B4A5C89C800 50] Android_Xclipse_920_Vulkan, [00000B4A5C909BC0][00000B4A5C882800 50] Android_Vulkan_SM5, [00000B4A5C909D80][00000B4A5C8A0000 50] Android_PowerVR_G6xxx, [00000B4A5C906C80][00000B4A5C8A5000 50] Android_PowerVR_GT7xxx, [00000B4A5C90B980][00000B4A5C8A7800 50] Android_PowerVR_GE8xxx, [00000B4A5C90A100][00000B4A5C8AA000 50] Android_PowerVR_GM9xxx, [00000B4A5C90C400][00000B4A5C8AC800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B4A5C903F00][00000B4A5C892800 50] Android_TegraK1, [00000B4A5C90BB40][00000B4A5C8B0000 50] Android_Unknown_Vulkan, [00000B4A5C90B0C0][00000B4A5C8B5000 50] Oculus_Quest, [00000B4A5C90C5C0][00000B4A5C8B7800 50] Oculus_Quest2, [00000B4A5C906AC0][00000B4A5C8BA000 50] HoloLens, 
+[2023.07.12-09.26.39:426][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.07.12-09.26.39:442][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.07.12-09.26.39:683][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.07.12-09.26.39:683][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.07.12-09.26.39:683][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.07.12-09.26.39:683][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.07.12-09.26.39:683][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.07.12-09.26.39:764][  0]LogNetVersion: WarInUkraine 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3806673830)
+[2023.07.12-09.26.40:051][  0]SourceControl: Source control is disabled
+[2023.07.12-09.26.40:087][  0]SourceControl: Source control is disabled
+[2023.07.12-09.26.40:088][  0]SourceControl: Source control is disabled
+[2023.07.12-09.26.40:311][  0]LogMoviePlayer: Initializing movie player
+[2023.07.12-09.26.40:506][  0]LogPython: Using Python 3.9.7
+[2023.07.12-09.26.41:242][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5B662E0A49BADD9CC97567901EAEDD84 | Instance: A22785C149963156558724840B30390D (DESKTOP-71CR9E3-4208).
+[2023.07.12-09.26.41:261][  0]LogCollectionManager: Loaded 0 collections in 0.000669 seconds
+[2023.07.12-09.26.41:265][  0]LogFileCache: Scanning file cache for directory 'E:/!_GItHub/WarInUkraine/WarInUkraine/Saved/Collections/' took 0.00s
+[2023.07.12-09.26.41:265][  0]LogFileCache: Scanning file cache for directory 'E:/!_GItHub/WarInUkraine/WarInUkraine/Content/Developers/Aferar/Collections/' took 0.00s
+[2023.07.12-09.26.41:265][  0]LogFileCache: Scanning file cache for directory 'E:/!_GItHub/WarInUkraine/WarInUkraine/Content/Collections/' took 0.00s
+[2023.07.12-09.26.41:265][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.07.12-09.26.41:287][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.07.12-09.26.41:291][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.07.12-09.26.41:357][  0]SourceControl: Source control is disabled
+[2023.07.12-09.26.41:362][  0]LogUProjectInfo: Found projects:
+[2023.07.12-09.26.41:431][  0]LogOpenImageDenoise: OIDN starting up
+[2023.07.12-09.26.41:471][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.07.12-09.26.41:486][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.12-09.26.41:487][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.12-09.26.41:605][  0]LogUObjectArray: 27398 objects as part of root set at end of initial load.
+[2023.07.12-09.26.41:605][  0]LogUObjectAllocator: 7833560 out of 0 bytes used by permanent object pool.
+[2023.07.12-09.26.41:605][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.07.12-09.26.41:691][  0]LogClass: Display: FloatProperty FParticleTransformTrack::BeginOffset is not initialized properly. Module:ChaosCaching File:Public/Chaos/ChaosCache.h
+[2023.07.12-09.26.41:692][  0]LogClass: Display: BoolProperty FParticleTransformTrack::bDeactivateOnEnd is not initialized properly. Module:ChaosCaching File:Public/Chaos/ChaosCache.h
+[2023.07.12-09.26.41:692][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2023.07.12-09.26.41:693][  0]LogEngine: Initializing Engine...
+[2023.07.12-09.26.41:695][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.07.12-09.26.41:930][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.07.12-09.26.41:930][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.07.12-09.26.41:938][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.07.12-09.26.41:939][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.07.12-09.26.41:939][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.07.12-09.26.41:940][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.07.12-09.26.41:940][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.07.12-09.26.41:940][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.12-09.26.41:940][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.12-09.26.41:940][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.12-09.26.41:940][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.12-09.26.41:940][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.12-09.26.41:940][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.12-09.26.41:940][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.12-09.26.41:940][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.12-09.26.41:940][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.12-09.26.41:940][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.12-09.26.41:940][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.12-09.26.41:944][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.12-09.26.41:964][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek High Definition Audio)
+[2023.07.12-09.26.41:964][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.12-09.26.41:966][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.12-09.26.41:966][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.12-09.26.41:966][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.07.12-09.26.41:967][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.12-09.26.41:968][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.12-09.26.41:968][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.07.12-09.26.41:968][  0]LogInit: FAudioDevice initialized.
+[2023.07.12-09.26.41:968][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.07.12-09.26.41:968][  0]LogInit: Texture streaming: Enabled
+[2023.07.12-09.26.42:092][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.07.12-09.26.42:096][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.07.12-09.26.42:096][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.07.12-09.26.42:103][  0]LogLiveCoding: Display: Detected running instance in process group "UE_WarInUkraine_0xf7887e4b", connecting to console process (PID: 15936)
+[2023.07.12-09.26.42:103][  0]LogLiveCoding: Display: Waiting for server
+[2023.07.12-09.26.42:103][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.07.12-09.26.42:103][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.12-09.26.42:103][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.12-09.26.42:105][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.07.12-09.26.42:106][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.12-09.26.42:107][  0]LogInit: Display: Game Engine Initialized.
+[2023.07.12-09.26.42:107][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2023.07.12-09.26.42:134][  0]LogInit: Display: Starting Game.
+[2023.07.12-09.26.42:134][  0]LogNet: Browse: /Game/1WUI/SceneFirst/TestHouse?Name=Player
+[2023.07.12-09.26.42:135][  0]LogLoad: LoadMap: /Game/1WUI/SceneFirst/TestHouse?Name=Player
+[2023.07.12-09.26.42:135][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.07.12-09.26.42:135][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.07.12-09.26.42:135][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.12-09.26.42:143][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.12-09.26.42:145][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.07.12-09.26.42:229][  0]LogLinker: Warning: VerifyImport: Failed to find script package for import object 'Package /Script/Blutility'
+[2023.07.12-09.26.42:230][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C
+[2023.07.12-09.26.42:231][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C
+[2023.07.12-09.26.42:231][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C
+[2023.07.12-09.26.42:231][  0]LogLinker: Warning: Unable to load Default__UI_Kv_Lable_C with outer Package /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable because its class (UI_Kv_Lable_C) does not exist
+[2023.07.12-09.26.42:231][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C
+[2023.07.12-09.26.42:231][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C
+[2023.07.12-09.26.42:232][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C
+[2023.07.12-09.26.42:284][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C
+[2023.07.12-09.26.42:285][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C
+[2023.07.12-09.26.42:285][  0]LogLinker: Warning: Unable to load Default__Kv_image_LapTop_C with outer Package /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop because its class (Kv_image_LapTop_C) does not exist
+[2023.07.12-09.26.42:285][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C
+[2023.07.12-09.26.42:285][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C
+[2023.07.12-09.26.42:341][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:342][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:342][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:342][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:342][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:342][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:344][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:344][  0]LogLinker: Warning: Unable to load Default__UI_Kv_Intepface_C with outer Package /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface because its class (UI_Kv_Intepface_C) does not exist
+[2023.07.12-09.26.42:344][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:345][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:347][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.42:347][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.42:347][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.42:347][  0]LogLinker: Warning: Unable to load Default__UI_Kv_Granade_C with outer Package /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade because its class (UI_Kv_Granade_C) does not exist
+[2023.07.12-09.26.42:347][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.42:347][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.42:347][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:350][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:350][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:390][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.42:429][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.42:429][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.42:448][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C
+[2023.07.12-09.26.42:449][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C
+[2023.07.12-09.26.42:449][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C
+[2023.07.12-09.26.42:449][  0]LogLinker: Warning: Unable to load Default__Kv_image_Stugna_C with outer Package /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna because its class (Kv_image_Stugna_C) does not exist
+[2023.07.12-09.26.42:449][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C
+[2023.07.12-09.26.42:449][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C
+[2023.07.12-09.26.42:454][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C
+[2023.07.12-09.26.42:454][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C
+[2023.07.12-09.26.42:455][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C
+[2023.07.12-09.26.42:455][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C
+[2023.07.12-09.26.42:476][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:477][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:479][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:479][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.42:691][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:691][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:691][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:692][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:692][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_L' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:692][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:692][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:692][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:692][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:692][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:692][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:692][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:699][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Idle to MM_Idle_LapTop  will never be taken, please connect something to  Can Enter Transition
+[2023.07.12-09.26.42:699][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Walk / Run to MM_Idle_LapTop  will never be taken, please connect something to  Can Enter Transition
+[2023.07.12-09.26.42:700][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] MM_Idle_LapTop to Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.07.12-09.26.42:700][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] MM_Idle_LapTop to Walk / Run  will never be taken, please connect something to  Can Enter Transition
+[2023.07.12-09.26.42:700][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Fire to Walk / Run  will never be taken, please connect something to  Can Enter Transition
+[2023.07.12-09.26.42:700][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Walk / Run to Fire  will never be taken, please connect something to  Can Enter Transition
+[2023.07.12-09.26.42:713][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:713][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:713][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:713][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:713][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_L' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:713][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:713][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:713][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:713][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:713][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:713][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:714][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.12-09.26.42:722][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\1WUI\Mesh\Weapon\Stugna\Import\ABP_Test_Stugna_Anim.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2023.07.12-09.26.42:723][  0]LogBlueprint: Warning: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\1WUI\Mesh\Weapon\Stugna\Import\ABP_Test_Stugna_Anim.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2023.07.12-09.26.42:770][  0]LogBlueprint: Error: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Fly\BP_Kv_Bayraktar_Pawn.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.07.12-09.26.42:783][  0]LogBlueprint: Error: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Weapons\Grenade-Gun\BP_Kv_Granade_2_Pawn.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.07.12-09.26.42:833][  0]LogBlueprint: Error: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_Hand\Test_hand\BP_Kv_PlayerHand_Pawn.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.07.12-09.26.42:922][  0]LogBlueprint: Error: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\Kv_BP_Man.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.07.12-09.26.43:328][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:328][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:328][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:329][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:329][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:332][  0]LogBlueprint: Error: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\BP_Kv_Logik\HUT_Kv.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.07.12-09.26.43:369][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C
+[2023.07.12-09.26.43:369][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C
+[2023.07.12-09.26.43:369][  0]LogLinker: Warning: Unable to load Default__Kv_Looks_C with outer Package /Game/Kvik/Kv_UI_Canvas/Kv_Looks because its class (Kv_Looks_C) does not exist
+[2023.07.12-09.26.43:369][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C
+[2023.07.12-09.26.43:372][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:372][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:372][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:372][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:373][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:373][  0]LogLinker: Warning: Unable to load Default__Kv_Options_C with outer Package /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options because its class (Kv_Options_C) does not exist
+[2023.07.12-09.26.43:373][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:373][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:373][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:374][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:374][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:376][  0]LogBlueprint: Error: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\Kvik\Kv_UI_Canvas\Menu_Start\Kv_Menu.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.07.12-09.26.43:380][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:381][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:381][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:381][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:381][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:381][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:381][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:381][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:381][  0]LogLinker: Warning: Unable to load Default__Kv_MenuInGame_C with outer Package /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame because its class (Kv_MenuInGame_C) does not exist
+[2023.07.12-09.26.43:381][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:382][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.43:382][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.43:382][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.43:382][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.43:382][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.43:382][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.43:382][  0]LogLinker: Warning: Unable to load Default__Kv_Option_In_Games_C with outer Package /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games because its class (Kv_Option_In_Games_C) does not exist
+[2023.07.12-09.26.43:383][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.43:385][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:385][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C
+[2023.07.12-09.26.43:385][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:385][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:385][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:386][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C
+[2023.07.12-09.26.43:386][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C
+[2023.07.12-09.26.43:386][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:386][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:386][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:386][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:387][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:387][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:391][  0]LogBlueprint: Error: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\1WUI\SceneFirst\TestHouse.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.07.12-09.26.43:392][  0]LogBlueprint: Error: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\1WUI\SceneFirst\TestHouse.umap: [Compiler] In use pin  NewVar_0  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.07.12-09.26.43:392][  0]LogBlueprint: Error: [AssetLog] E:\!_GItHub\WarInUkraine\WarInUkraine\Content\1WUI\SceneFirst\TestHouse.umap: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.07.12-09.26.43:802][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C
+[2023.07.12-09.26.43:802][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C
+[2023.07.12-09.26.43:887][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C
+[2023.07.12-09.26.43:888][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C
+[2023.07.12-09.26.43:957][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (UI_UpDate) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:957][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (SetRenderTranslation) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:957][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (SetRenderTranslation) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:957][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (SetRenderScale) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:958][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:958][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:958][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:959][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:960][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.43:961][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.43:961][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.43:973][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C
+[2023.07.12-09.26.43:973][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C
+[2023.07.12-09.26.43:981][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C
+[2023.07.12-09.26.43:982][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C
+[2023.07.12-09.26.43:982][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (RemoveFromParent) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:982][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (AddToViewport) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:982][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:982][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:982][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.43:983][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (RemoveFromParent) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:983][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (RemoveFromParent) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:983][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (AddToViewport) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:983][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (RemoveFromParent) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:983][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (AddToViewport) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:983][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:983][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:983][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:983][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:983][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.43:983][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.43:984][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:984][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:984][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:984][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (RemoveFromParent) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:984][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (AddToViewport) bSelfContext == true, but no scope supplied!
+[2023.07.12-09.26.43:984][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.43:984][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:984][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.43:984][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.43:984][  0]LogLinker: Warning: CreateExport: Failed to load Parent for WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.44:362][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestHouse'.
+[2023.07.12-09.26.44:362][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.12-09.26.44:362][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.12-09.26.44:396][  0]LogAIModule: Creating AISystem for world TestHouse
+[2023.07.12-09.26.44:397][  0]LogLoad: Game class is 'BP_Kv_Hend_1_Mode_C'
+[2023.07.12-09.26.44:577][  0]LogWorld: Bringing World /Game/1WUI/SceneFirst/TestHouse.TestHouse up for play (max tick rate 0) at 2023.07.12-12.26.44
+[2023.07.12-09.26.44:577][  0]LogWorld: Bringing up level for play took: 0.175466
+[2023.07.12-09.26.44:588][  0]LogLoad: Took 2.452833 seconds to LoadMap(/Game/1WUI/SceneFirst/TestHouse)
+[2023.07.12-09.26.44:588][  0]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.07.12-09.26.44:930][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.12-09.26.45:110][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.07.12-09.26.45:110][  0]LogLoad: (Engine Initialization) Total time: 11.82 seconds
+[2023.07.12-09.26.45:110][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.07.12-09.26.45:111][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WidgetTree': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C
+[2023.07.12-09.26.45:111][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_56': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C:WidgetTree
+[2023.07.12-09.26.45:111][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_17': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:111][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'OnRep_NewVar_0': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C
+[2023.07.12-09.26.45:111][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_46': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C:WidgetTree
+[2023.07.12-09.26.45:111][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_257': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C:WidgetTree
+[2023.07.12-09.26.45:111][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/UI_Kv_Lable.UI_Kv_Lable_C:WidgetTree.SizeBox_257
+[2023.07.12-09.26.45:111][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WidgetTree': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_9': WidgetTree /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_0': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C:WidgetTree.CanvasPanel_9
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_1': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C:WidgetTree.CanvasPanel_9
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_27': WidgetTree /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_20': WidgetTree /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C:WidgetTree.SizeBox_20
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextBlock_101': WidgetTree /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_LapTop.Kv_image_LapTop_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WidgetTree': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_56': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_0': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_1': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_11': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_15': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_2': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_20': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_25': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_26': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_3': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_5': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_6': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_9': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.CanvasPanel_56
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Construct': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExecuteUbergraph_UI_Kv_Intepface': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'OnRep_NewVar_0': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Tick': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UI_UpDate': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Aim': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Bar_UP': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Hp_Player': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_569': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_76': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Slot_0': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Slot_1': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Slot_2': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Slot_3': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Slot_4': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Slot_5': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Overlay_92': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_1': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_118': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_173': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_185': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_2': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_326': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_63': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.SizeBox
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_1': SizeBox /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.SizeBox_1
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.SizeBox_118
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.SizeBox_173
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.SizeBox_185
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.SizeBox_2
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_1': SizeBox /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.SizeBox_326
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_1': SizeBox /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.SizeBox_63
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Info': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Namber_HP': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextBlock_116': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UI_All_Ammo': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UI_Ammo': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UniformGridPanel_67': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UniformGridSlot_2': UniformGridPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.UniformGridPanel_67
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UniformGridSlot_3': UniformGridPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.UniformGridPanel_67
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UniformGridSlot_4': UniformGridPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.UniformGridPanel_67
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UniformGridSlot_5': UniformGridPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.UniformGridPanel_67
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UniformGridSlot_6': UniformGridPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.UniformGridPanel_67
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UniformGridSlot_7': UniformGridPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.UniformGridPanel_67
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UniformGridSlot_9': UniformGridPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Intepface.UI_Kv_Intepface_C:WidgetTree.UniformGridPanel_67
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WidgetTree': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_26': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_0': CanvasPanel /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C:WidgetTree.CanvasPanel_26
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Veuport': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_85': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Overlay_84': WidgetTree /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'OverlaySlot_0': Overlay /Game/Kvik/Kv_UI_Canvas/UI_Kv_Granade.UI_Kv_Granade_C:WidgetTree.Overlay_84
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WidgetTree': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_9': WidgetTree /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_1': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C:WidgetTree.CanvasPanel_9
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_27': WidgetTree /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C:WidgetTree
+[2023.07.12-09.26.45:112][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_20': WidgetTree /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/Inf_Buttom/Kv_image_Stugna.Kv_image_Stugna_C:WidgetTree.SizeBox_20
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WidgetTree': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_26': WidgetTree /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_0': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C:WidgetTree.CanvasPanel_26
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_85': WidgetTree /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Overlay_84': WidgetTree /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'OverlaySlot_0': Overlay /Game/Kvik/Kv_UI_Canvas/Kv_Looks.Kv_Looks_C:WidgetTree.Overlay_84
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WidgetTree': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Button_0': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ButtonSlot_0': Button /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C:WidgetTree.Button_0
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_39': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_95': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_0': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C:WidgetTree.CanvasPanel_39
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_0': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C:WidgetTree.CanvasPanel_95
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_1': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C:WidgetTree.CanvasPanel_95
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ComponentDelegateBinding_1': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BndEvt__Kv_Options_Button_0_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExecuteUbergraph_Kv_Options': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Image_72': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Overlay_57': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'OverlaySlot_0': Overlay /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C:WidgetTree.Overlay_57
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextBlock_55': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Options.Kv_Options_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WidgetTree': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Button': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Button_0': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Button_1': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Button_2': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ButtonSlot_0': Button /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.Button
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ButtonSlot_0': Button /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.Button_0
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ButtonSlot_0': Button /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.Button_1
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ButtonSlot_0': Button /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.Button_2
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_31': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_72': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_0': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.CanvasPanel_31
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_11': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.CanvasPanel_72
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_13': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.CanvasPanel_72
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_14': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.CanvasPanel_72
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_5': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.CanvasPanel_72
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ComponentDelegateBinding_0': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BndEvt__Kv_MenuInGame_Button_0_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BndEvt__Kv_MenuInGame_Button_1_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BndEvt__Kv_MenuInGame_Button_2_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BndEvt__Kv_MenuInGame_Button_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExecuteUbergraph_Kv_MenuInGame': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Overlay_39': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'OverlaySlot_2': Overlay /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.Overlay_39
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_105': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_183': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_280': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_348': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.SizeBox_105
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.SizeBox_183
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.SizeBox_280
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_1': SizeBox /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree.SizeBox_348
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextBlock': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextBlock_1': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextBlock_2': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextBlock_38': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_MenuInGame.Kv_MenuInGame_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'WidgetTree': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Button_62': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ButtonSlot_0': Button /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.Button_62
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_18': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanel_44': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_0': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.CanvasPanel_18
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_1': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.CanvasPanel_44
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_10': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.CanvasPanel_44
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_12': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.CanvasPanel_44
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_14': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.CanvasPanel_44
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_17': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.CanvasPanel_44
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CanvasPanelSlot_7': CanvasPanel /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.CanvasPanel_44
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ComponentDelegateBinding_0': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BndEvt__Kv_Option_In_Games_Button_62_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExecuteUbergraph_Kv_Option_In_Games': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'OnGenerateContentWidget_0': WidgetBlueprintGeneratedClass /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Overlay_25': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'OverlaySlot_2': Overlay /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.Overlay_25
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_141': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:113][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_234': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:114][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_48': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:114][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_517': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:114][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBox_630': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:114][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.SizeBox
+[2023.07.12-09.26.45:114][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.SizeBox_234
+[2023.07.12-09.26.45:114][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.SizeBox_48
+[2023.07.12-09.26.45:114][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SizeBoxSlot_0': SizeBox /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree.SizeBox_517
+[2023.07.12-09.26.45:114][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextBlock': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:114][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextBlock_38': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:114][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextBlock_74': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:114][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TextBlock_85': WidgetTree /Game/Kvik/Kv_UI_Canvas/Menu_Start/Kv_Option_In_Games.Kv_Option_In_Games_C:WidgetTree
+[2023.07.12-09.26.45:115][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.07.12-09.26.45:117][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/BasicShapes/Cylinder.Cylinder being ready before playing
+[2023.07.12-09.26.45:117][  0]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/EngineSky/SM_SkySphere.SM_SkySphere being ready before playing
+[2023.07.12-09.26.45:122][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.12-09.26.50:111][  0]LogD3D11RHI: GetQueryData is taking a very long time (5.0 s) (00000000)
+[2023.07.12-09.26.53:076][  0]LogAutomationController: Ignoring very large delta of 18734953.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.07.12-09.26.53:101][  1]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.12-09.27.08:201][466]LogSlate: Window 'WarInUkraine (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.07.12-09.27.08:201][466]LogWindowsTextInputMethodSystem: Activated input method: Украинский (Украина) - (Keyboard).
+[2023.07.12-09.27.08:208][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.12-09.27.08:209][466]LogEngine: All Windows Closed
+[2023.07.12-09.27.08:209][466]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.07.12-09.27.08:209][466]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.07.12-09.27.08:209][466]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.07.12-09.27.08:209][467]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.07.12-09.27.08:210][467]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.07.12-09.27.08:211][467]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.07.12-09.27.08:212][467]LogInit: Display: PreExit Game.
+[2023.07.12-09.27.08:266][467]LogWorld: BeginTearingDown for /Game/1WUI/SceneFirst/TestHouse
+[2023.07.12-09.27.08:266][467]LogWorld: UWorld::CleanupWorld for TestHouse, bSessionEnded=true, bCleanupResources=true
+[2023.07.12-09.27.08:268][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.12-09.27.08:705][467]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.07.12-09.27.08:705][467]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.07.12-09.27.08:705][467]LogAudio: Display: Audio Device unregistered from world 'TestHouse'.
+[2023.07.12-09.27.08:707][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.12-09.27.08:710][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.12-09.27.08:717][467]LogAudio: Display: Audio Device Manager Shutdown
+[2023.07.12-09.27.08:721][467]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.07.12-09.27.08:722][467]LogExit: Preparing to exit.
+[2023.07.12-09.27.08:737][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.12-09.27.08:751][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.07.12-09.27.08:790][467]LogMoviePlayer: Shutting down movie player
+[2023.07.12-09.27.09:372][467]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.07.12-09.27.09:382][467]LogExit: Game engine shut down
+[2023.07.12-09.27.09:568][467]LogExit: Object subsystem successfully closed.
+[2023.07.12-09.27.09:574][467]LogShaderCompilers: Display: ================================================
+[2023.07.12-09.27.09:574][467]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.12-09.27.09:574][467]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.07.12-09.27.09:574][467]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.07.12-09.27.09:574][467]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.07.12-09.27.09:574][467]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.12-09.27.09:574][467]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.12-09.27.09:574][467]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.12-09.27.09:574][467]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.12-09.27.09:574][467]LogShaderCompilers: Display: ================================================
+[2023.07.12-09.27.09:634][467]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.07.12-09.27.09:682][467]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (537)
+[2023.07.12-09.27.09:682][467]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2023.07.12-09.27.09:683][467]LogModuleManager: Shutting down and abandoning module AutomationController (533)
+[2023.07.12-09.27.09:683][467]LogModuleManager: Shutting down and abandoning module AutomationWorker (531)
+[2023.07.12-09.27.09:683][467]LogModuleManager: Shutting down and abandoning module Voice (529)
+[2023.07.12-09.27.09:683][467]LogModuleManager: Shutting down and abandoning module AIModule (527)
+[2023.07.12-09.27.09:683][467]LogModuleManager: Shutting down and abandoning module GameplayDebugger (526)
+[2023.07.12-09.27.09:684][467]LogModuleManager: Shutting down and abandoning module AITestSuite (524)
+[2023.07.12-09.27.09:684][467]LogModuleManager: Shutting down and abandoning module NavigationSystem (522)
+[2023.07.12-09.27.09:684][467]LogModuleManager: Shutting down and abandoning module AnimGraph (519)
+[2023.07.12-09.27.09:684][467]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (517)
+[2023.07.12-09.27.09:684][467]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (515)
+[2023.07.12-09.27.09:684][467]LogModuleManager: Shutting down and abandoning module WebMMedia (513)
+[2023.07.12-09.27.09:684][467]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (511)
+[2023.07.12-09.27.09:684][467]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (509)
+[2023.07.12-09.27.09:684][467]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (507)
+[2023.07.12-09.27.09:684][467]LogModuleManager: Shutting down and abandoning module PlanarCut (505)
+[2023.07.12-09.27.09:685][467]LogModuleManager: Shutting down and abandoning module CharacterAI (503)
+[2023.07.12-09.27.09:685][467]LogModuleManager: Shutting down and abandoning module SessionServices (501)
+[2023.07.12-09.27.09:685][467]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (499)
+[2023.07.12-09.27.09:685][467]LogModuleManager: Shutting down and abandoning module LiveCoding (497)
+[2023.07.12-09.27.09:691][467]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (495)
+[2023.07.12-09.27.09:691][467]LogModuleManager: Shutting down and abandoning module MovieScene (493)
+[2023.07.12-09.27.09:692][467]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (491)
+[2023.07.12-09.27.09:692][467]LogModuleManager: Shutting down and abandoning module PortalServices (489)
+[2023.07.12-09.27.09:692][467]LogModuleManager: Shutting down and abandoning module PortalRpc (487)
+[2023.07.12-09.27.09:692][467]LogModuleManager: Shutting down and abandoning module MessagingRpc (485)
+[2023.07.12-09.27.09:692][467]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (483)
+[2023.07.12-09.27.09:692][467]LogModuleManager: Shutting down and abandoning module AudioMixer (482)
+[2023.07.12-09.27.09:692][467]LogModuleManager: Shutting down and abandoning module AudioMixerCore (481)
+[2023.07.12-09.27.09:692][467]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (477)
+[2023.07.12-09.27.09:692][467]LogModuleManager: Shutting down and abandoning module TypedElementFramework (475)
+[2023.07.12-09.27.09:692][467]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (473)
+[2023.07.12-09.27.09:692][467]LogModuleManager: Shutting down and abandoning module ProfilerService (471)
+[2023.07.12-09.27.09:890][467]LogModuleManager: Shutting down and abandoning module TaskGraph (469)
+[2023.07.12-09.27.09:891][467]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (467)
+[2023.07.12-09.27.09:891][467]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (465)
+[2023.07.12-09.27.09:891][467]LogModuleManager: Shutting down and abandoning module InterchangePipelines (463)
+[2023.07.12-09.27.09:891][467]LogModuleManager: Shutting down and abandoning module InterchangeExport (461)
+[2023.07.12-09.27.09:891][467]LogModuleManager: Shutting down and abandoning module InterchangeMessages (459)
+[2023.07.12-09.27.09:892][467]LogModuleManager: Shutting down and abandoning module InterchangeImport (457)
+[2023.07.12-09.27.09:892][467]LogModuleManager: Shutting down and abandoning module InterchangeNodes (455)
+[2023.07.12-09.27.09:892][467]LogModuleManager: Shutting down and abandoning module Synthesis (453)
+[2023.07.12-09.27.09:892][467]LogModuleManager: Shutting down and abandoning module ResonanceAudio (451)
+[2023.07.12-09.27.09:892][467]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (449)
+[2023.07.12-09.27.09:892][467]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (447)
+[2023.07.12-09.27.09:892][467]LogModuleManager: Shutting down and abandoning module ModelingOperators (445)
+[2023.07.12-09.27.09:893][467]LogModuleManager: Shutting down and abandoning module ModelingComponents (443)
+[2023.07.12-09.27.09:893][467]LogModuleManager: Shutting down and abandoning module MeshModelingTools (441)
+[2023.07.12-09.27.09:893][467]LogModuleManager: Shutting down and abandoning module GooglePAD (439)
+[2023.07.12-09.27.09:893][467]LogModuleManager: Shutting down and abandoning module DynamicMesh (437)
+[2023.07.12-09.27.09:894][467]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (435)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (433)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (432)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module GeometryCache (429)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (428)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (425)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module CableComponent (423)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module AssetTags (421)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module AudioCapture (419)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (418)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (415)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (413)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module AppleImageUtils (411)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module AndroidPermission (409)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (407)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module TemplateSequence (403)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module SequencerScripting (401)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module MediaCompositing (399)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module ImgMedia (397)
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (395)
+[2023.07.12-09.27.09:895][467]LogOpenImageDenoise: OIDN shutting down
+[2023.07.12-09.27.09:895][467]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (393)
+[2023.07.12-09.27.09:896][467]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (391)
+[2023.07.12-09.27.09:896][467]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (389)
+[2023.07.12-09.27.09:896][467]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (387)
+[2023.07.12-09.27.09:896][467]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (386)
+[2023.07.12-09.27.09:896][467]LogModuleManager: Shutting down and abandoning module ChaosNiagara (383)
+[2023.07.12-09.27.09:897][467]LogModuleManager: Shutting down and abandoning module BackChannel (381)
+[2023.07.12-09.27.09:898][467]LogModuleManager: Shutting down and abandoning module AutomationUtils (379)
+[2023.07.12-09.27.09:898][467]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (377)
+[2023.07.12-09.27.09:898][467]LogModuleManager: Shutting down and abandoning module HotReload (376)
+[2023.07.12-09.27.09:898][467]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (373)
+[2023.07.12-09.27.09:898][467]LogModuleManager: Shutting down and abandoning module UObjectPlugin (371)
+[2023.07.12-09.27.09:898][467]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (369)
+[2023.07.12-09.27.09:899][467]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (367)
+[2023.07.12-09.27.09:899][467]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (365)
+[2023.07.12-09.27.09:899][467]LogModuleManager: Shutting down and abandoning module ControlRigSpline (363)
+[2023.07.12-09.27.09:899][467]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (361)
+[2023.07.12-09.27.09:899][467]LogModuleManager: Shutting down and abandoning module ChaosCaching (359)
+[2023.07.12-09.27.09:899][467]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (357)
+[2023.07.12-09.27.09:900][467]LogModuleManager: Shutting down and abandoning module SoundFields (355)
+[2023.07.12-09.27.09:900][467]LogModuleManager: Shutting down and abandoning module SignificanceManager (353)
+[2023.07.12-09.27.09:900][467]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (351)
+[2023.07.12-09.27.09:900][467]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (349)
+[2023.07.12-09.27.09:901][467]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (347)
+[2023.07.12-09.27.09:901][467]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (345)
+[2023.07.12-09.27.09:902][467]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (344)
+[2023.07.12-09.27.09:902][467]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (341)
+[2023.07.12-09.27.09:902][467]LogModuleManager: Shutting down and abandoning module ActorSequence (339)
+[2023.07.12-09.27.09:902][467]LogModuleManager: Shutting down and abandoning module UdpMessaging (337)
+[2023.07.12-09.27.10:002][467]LogModuleManager: Shutting down and abandoning module TcpMessaging (335)
+[2023.07.12-09.27.10:294][467]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (333)
+[2023.07.12-09.27.10:294][467]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (331)
+[2023.07.12-09.27.10:294][467]LogModuleManager: Shutting down and abandoning module Niagara (329)
+[2023.07.12-09.27.10:296][467]LogModuleManager: Shutting down and abandoning module SignalProcessing (328)
+[2023.07.12-09.27.10:296][467]LogModuleManager: Shutting down and abandoning module NiagaraEditor (326)
+[2023.07.12-09.27.10:297][467]LogModuleManager: Shutting down and abandoning module ContentBrowser (325)
+[2023.07.12-09.27.10:298][467]LogModuleManager: Shutting down and abandoning module ToolMenus (324)
+[2023.07.12-09.27.10:298][467]LogModuleManager: Shutting down and abandoning module CollectionManager (322)
+[2023.07.12-09.27.10:298][467]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (321)
+[2023.07.12-09.27.10:298][467]LogModuleManager: Shutting down and abandoning module ContentBrowserData (318)
+[2023.07.12-09.27.10:298][467]LogModuleManager: Shutting down and abandoning module NiagaraCore (313)
+[2023.07.12-09.27.10:298][467]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (311)
+[2023.07.12-09.27.10:298][467]LogModuleManager: Shutting down and abandoning module PBIK (309)
+[2023.07.12-09.27.10:299][467]LogModuleManager: Shutting down and abandoning module FullBodyIK (307)
+[2023.07.12-09.27.10:299][467]LogModuleManager: Shutting down and abandoning module ChaosVehiclesEditor (305)
+[2023.07.12-09.27.10:299][467]LogModuleManager: Shutting down and abandoning module ChaosVehicles (303)
+[2023.07.12-09.27.10:299][467]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (301)
+[2023.07.12-09.27.10:299][467]LogModuleManager: Shutting down and abandoning module FacialAnimation (299)
+[2023.07.12-09.27.10:299][467]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (297)
+[2023.07.12-09.27.10:300][467]LogModuleManager: Shutting down and abandoning module TreeMap (296)
+[2023.07.12-09.27.10:300][467]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (293)
+[2023.07.12-09.27.10:300][467]LogModuleManager: Shutting down and abandoning module AnimationSharing (291)
+[2023.07.12-09.27.10:300][467]LogModuleManager: Shutting down and abandoning module GameplayCameras (289)
+[2023.07.12-09.27.10:300][467]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (287)
+[2023.07.12-09.27.10:300][467]LogModuleManager: Shutting down and abandoning module IKRig (285)
+[2023.07.12-09.27.10:301][467]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (283)
+[2023.07.12-09.27.10:301][467]LogModuleManager: Shutting down and abandoning module ControlRig (281)
+[2023.07.12-09.27.10:301][467]LogModuleManager: Shutting down and abandoning module LevelSequence (280)
+[2023.07.12-09.27.10:301][467]LogModuleManager: Shutting down and abandoning module Paper2D (277)
+[2023.07.12-09.27.10:301][467]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (275)
+[2023.07.12-09.27.10:301][467]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (273)
+[2023.07.12-09.27.10:302][467]LogModuleManager: Shutting down and abandoning module AndroidFileServer (271)
+[2023.07.12-09.27.10:302][467]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (269)
+[2023.07.12-09.27.10:302][467]LogModuleManager: Shutting down and abandoning module PacketHandler (267)
+[2023.07.12-09.27.10:302][467]LogModuleManager: Shutting down and abandoning module AnimationDataController (265)
+[2023.07.12-09.27.10:302][467]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (263)
+[2023.07.12-09.27.10:302][467]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (261)
+[2023.07.12-09.27.10:302][467]LogModuleManager: Shutting down and abandoning module MediaAssets (259)
+[2023.07.12-09.27.10:302][467]LogModuleManager: Shutting down and abandoning module Overlay (257)
+[2023.07.12-09.27.10:302][467]LogModuleManager: Shutting down and abandoning module OverlayEditor (256)
+[2023.07.12-09.27.10:302][467]LogModuleManager: Shutting down and abandoning module VREditor (253)
+[2023.07.12-09.27.10:302][467]LogModuleManager: Shutting down and abandoning module StringTableEditor (251)
+[2023.07.12-09.27.10:303][467]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (249)
+[2023.07.12-09.27.10:303][467]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (247)
+[2023.07.12-09.27.10:304][467]LogModuleManager: Shutting down and abandoning module FunctionalTesting (245)
+[2023.07.12-09.27.10:305][467]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (243)
+[2023.07.12-09.27.10:306][467]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (242)
+[2023.07.12-09.27.10:306][467]LogModuleManager: Shutting down and abandoning module UMG (239)
+[2023.07.12-09.27.10:306][467]LogModuleManager: Shutting down and abandoning module UMGEditor (238)
+[2023.07.12-09.27.10:307][467]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2023.07.12-09.27.10:309][467]LogModuleManager: Shutting down and abandoning module SlateReflector (231)
+[2023.07.12-09.27.10:312][467]LogModuleManager: Shutting down and abandoning module Slate (229)
+[2023.07.12-09.27.10:312][467]LogModuleManager: Shutting down and abandoning module SlateCore (227)
+[2023.07.12-09.27.10:316][467]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (225)
+[2023.07.12-09.27.10:316][467]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (223)
+[2023.07.12-09.27.10:316][467]LogModuleManager: Shutting down and abandoning module UnrealEd (221)
+[2023.07.12-09.27.10:316][467]LogModuleManager: Shutting down and abandoning module MRMesh (219)
+[2023.07.12-09.27.10:316][467]LogModuleManager: Shutting down and abandoning module Messaging (217)
+[2023.07.12-09.27.10:316][467]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (215)
+[2023.07.12-09.27.10:316][467]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (213)
+[2023.07.12-09.27.10:316][467]LogModuleManager: Shutting down and abandoning module Networking (211)
+[2023.07.12-09.27.10:316][467]LogModuleManager: Shutting down and abandoning module Core (209)
+[2023.07.12-09.27.10:316][467]LogModuleManager: Shutting down and abandoning module MaterialEditor (207)
+[2023.07.12-09.27.10:318][467]LogModuleManager: Shutting down and abandoning module MovieSceneTools (205)
+[2023.07.12-09.27.10:319][467]LogModuleManager: Shutting down and abandoning module EditorStyle (204)
+[2023.07.12-09.27.10:319][467]LogModuleManager: Shutting down and abandoning module KismetCompiler (201)
+[2023.07.12-09.27.10:319][467]LogModuleManager: Shutting down and abandoning module MeshBuilder (199)
+[2023.07.12-09.27.10:319][467]LogModuleManager: Shutting down and abandoning module NaniteBuilder (197)
+[2023.07.12-09.27.10:319][467]LogModuleManager: Shutting down and abandoning module MeshUtilities (195)
+[2023.07.12-09.27.10:320][467]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (194)
+[2023.07.12-09.27.10:321][467]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (193)
+[2023.07.12-09.27.10:321][467]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (192)
+[2023.07.12-09.27.10:321][467]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (190)
+[2023.07.12-09.27.10:321][467]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (188)
+[2023.07.12-09.27.10:323][467]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (186)
+[2023.07.12-09.27.10:323][467]LogModuleManager: Shutting down and abandoning module MaterialBaking (182)
+[2023.07.12-09.27.10:324][467]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (177)
+[2023.07.12-09.27.10:324][467]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (175)
+[2023.07.12-09.27.10:324][467]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (173)
+[2023.07.12-09.27.10:324][467]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (171)
+[2023.07.12-09.27.10:325][467]LogModuleManager: Shutting down and abandoning module DerivedDataCache (169)
+[2023.07.12-09.27.10:328][467]LogModuleManager: Shutting down and abandoning module TargetPlatform (167)
+[2023.07.12-09.27.10:329][467]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (166)
+[2023.07.12-09.27.10:330][467]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (164)
+[2023.07.12-09.27.10:331][467]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (162)
+[2023.07.12-09.27.10:331][467]LogModuleManager: Shutting down and abandoning module AudioFormatBink (160)
+[2023.07.12-09.27.10:331][467]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (158)
+[2023.07.12-09.27.10:331][467]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (156)
+[2023.07.12-09.27.10:331][467]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (154)
+[2023.07.12-09.27.10:331][467]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (152)
+[2023.07.12-09.27.10:331][467]LogModuleManager: Shutting down and abandoning module TextureFormat (150)
+[2023.07.12-09.27.10:331][467]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (149)
+[2023.07.12-09.27.10:331][467]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (145)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module TurnkeySupport (134)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (126)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (125)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module Chaos (122)
+[2023.07.12-09.27.10:332][467]LogModuleManager: Shutting down and abandoning module GeometryCore (121)
+[2023.07.12-09.27.10:333][467]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (118)
+[2023.07.12-09.27.10:333][467]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (117)
+[2023.07.12-09.27.10:333][467]LogModuleManager: Shutting down and abandoning module AVEncoder (116)
+[2023.07.12-09.27.10:333][467]LogModuleManager: Shutting down and abandoning module D3D11RHI (112)
+[2023.07.12-09.27.10:333][467]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2023.07.12-09.27.10:333][467]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2023.07.12-09.27.10:333][467]LogModuleManager: Shutting down and abandoning module AISupportModule (104)
+[2023.07.12-09.27.10:333][467]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (102)
+[2023.07.12-09.27.10:333][467]LogModuleManager: Shutting down and abandoning module HairStrandsCore (100)
+[2023.07.12-09.27.10:333][467]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.07.12-09.27.10:333][467]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.07.12-09.27.10:334][467]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2023.07.12-09.27.10:334][467]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2023.07.12-09.27.10:334][467]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (90)
+[2023.07.12-09.27.10:334][467]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.07.12-09.27.10:335][467]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.07.12-09.27.10:336][467]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.07.12-09.27.10:359][467]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.07.12-09.27.10:359][467]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2023.07.12-09.27.10:387][467]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.07.12-09.27.10:389][467]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.07.12-09.27.10:390][467]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.07.12-09.27.10:392][467]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (70)
+[2023.07.12-09.27.10:392][467]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (68)
+[2023.07.12-09.27.10:392][467]LogModuleManager: Shutting down and abandoning module NiagaraShader (66)
+[2023.07.12-09.27.10:392][467]LogModuleManager: Shutting down and abandoning module ChaosCloth (64)
+[2023.07.12-09.27.10:392][467]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2023.07.12-09.27.10:392][467]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2023.07.12-09.27.10:392][467]LogModuleManager: Shutting down and abandoning module PixWinPlugin (58)
+[2023.07.12-09.27.10:392][467]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2023.07.12-09.27.10:392][467]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2023.07.12-09.27.10:392][467]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2023.07.12-09.27.10:393][467]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2023.07.12-09.27.10:393][467]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2023.07.12-09.27.10:393][467]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2023.07.12-09.27.10:395][467]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2023.07.12-09.27.10:395][467]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2023.07.12-09.27.10:395][467]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2023.07.12-09.27.10:395][467]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.07.12-09.27.10:395][467]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2023.07.12-09.27.10:396][467]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2023.07.12-09.27.10:398][467]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2023.07.12-09.27.10:398][467]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2023.07.12-09.27.10:399][467]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.07.12-09.27.10:399][467]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.07.12-09.27.10:399][467]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.07.12-09.27.10:400][467]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.07.12-09.27.10:400][467]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.07.12-09.27.10:401][467]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.07.12-09.27.10:401][467]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.07.12-09.27.10:401][467]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.07.12-09.27.10:401][467]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2023.07.12-09.27.10:401][467]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2023.07.12-09.27.10:401][467]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2023.07.12-09.27.10:401][467]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2023.07.12-09.27.10:402][467]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2023.07.12-09.27.10:402][467]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.07.12-09.27.10:410][467]LogD3D11RHI: Shutdown
+[2023.07.12-09.27.10:410][467]LogD3D11RHI: CleanupD3DDevice
+[2023.07.12-09.27.10:418][467]LogExit: Exiting.
+[2023.07.12-09.27.10:429][467]Log file closed, 07/12/23 12:27:10
