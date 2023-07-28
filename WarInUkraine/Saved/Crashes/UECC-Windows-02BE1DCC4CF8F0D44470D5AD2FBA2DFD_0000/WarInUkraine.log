@@ -1,0 +1,1571 @@
+﻿Log file open, 07/26/23 17:46:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=12860)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WarInUkraine
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1147] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="bb4c77784e49300a863ded890ded2463"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.348109
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-02BE1DCC4CF8F0D44470D5AD2FBA2DFD
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosVehiclesPlugin/Content/' mounted to '/ChaosVehiclesPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1147] (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.07.26-14.46.22:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.07.26-14.46.22:542][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.07.26-14.46.22:542][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.07.26-14.46.22:543][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.07.26-14.46.22:545][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.07.26-14.46.22:545][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.07.26-14.46.22:545][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.07.26-14.46.22:545][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.07.26-14.46.22:545][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.07.26-14.46.22:545][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.07.26-14.46.22:545][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.07.26-14.46.22:546][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.07.26-14.46.22:546][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.07.26-14.46.22:546][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.07.26-14.46.22:546][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.07.26-14.46.22:574][  0]LogD3D12RHI: Aftermath initialized
+[2023.07.26-14.46.22:574][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.07.26-14.46.22:841][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 SUPER (Max supported Feature Level 12_1, shader model 6.6)
+[2023.07.26-14.46.22:841][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 16356MB of shared system memory, 1 output[s]
+[2023.07.26-14.46.22:847][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.07.26-14.46.22:847][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16356MB of shared system memory, 0 output[s]
+[2023.07.26-14.46.22:848][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.07.26-14.46.22:848][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.07.26-14.46.22:848][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.07.26-14.46.22:848][  0]LogHAL: Display: Platform has ~ 32 GB [34301100032 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.07.26-14.46.22:849][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.07.26-14.46.22:849][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.07.26-14.46.22:849][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.07.26-14.46.22:849][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.07.26-14.46.22:849][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Saved/Config/WindowsEditor/Editor.ini]
+[2023.07.26-14.46.22:849][  0]LogInit: Computer: USER-PC
+[2023.07.26-14.46.22:849][  0]LogInit: User: New
+[2023.07.26-14.46.22:849][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.07.26-14.46.22:849][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.07.26-14.46.22:849][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.07.26-14.46.22:849][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.07.26-14.46.22:849][  0]LogMemory: Process Physical Memory: 265.86 MB used, 277.07 MB peak
+[2023.07.26-14.46.22:849][  0]LogMemory: Process Virtual Memory: 207.21 MB used, 207.21 MB peak
+[2023.07.26-14.46.22:849][  0]LogMemory: Physical Memory: 6074.57 MB used,  26637.51 MB free, 32712.08 MB total
+[2023.07.26-14.46.22:849][  0]LogMemory: Virtual Memory: 8714.98 MB used,  28861.10 MB free, 37576.08 MB total
+[2023.07.26-14.46.22:849][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.07.26-14.46.22:851][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.07.26-14.46.22:864][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.07.26-14.46.22:865][  0]LogInit: Using OS detected language (ru-RU).
+[2023.07.26-14.46.22:865][  0]LogInit: Using OS detected locale (ru-RU).
+[2023.07.26-14.46.22:868][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so 'ru' will be used for the language.
+[2023.07.26-14.46.22:868][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2023.07.26-14.46.22:868][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2023.07.26-14.46.22:868][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2023.07.26-14.46.22:868][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2023.07.26-14.46.22:868][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2023.07.26-14.46.22:869][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2023.07.26-14.46.22:869][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2023.07.26-14.46.22:869][  0]LogInit: Setting process to per monitor DPI aware
+[2023.07.26-14.46.22:878][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.07.26-14.46.22:878][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - (Keyboard).
+[2023.07.26-14.46.22:878][  0]LogWindowsTextInputMethodSystem:   - Английский (США) - (Keyboard).
+[2023.07.26-14.46.22:878][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - Сенсорный ввод — исправление (TSF IME).
+[2023.07.26-14.46.22:878][  0]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.07.26-14.46.22:892][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.07.26-14.46.22:892][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.07.26-14.46.23:037][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.07.26-14.46.23:040][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.07.26-14.46.23:040][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.07.26-14.46.23:156][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.07.26-14.46.23:200][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.07.26-14.46.23:207][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.07.26-14.46.23:219][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.07.26-14.46.23:236][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.07.26-14.46.23:236][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.07.26-14.46.23:273][  0]LogD3D12RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2023.07.26-14.46.23:273][  0]LogWindows: Attached monitors:
+[2023.07.26-14.46.23:273][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.07.26-14.46.23:274][  0]LogWindows: Found 1 attached monitors.
+[2023.07.26-14.46.23:274][  0]LogWindows: EnumDisplayDevices:
+[2023.07.26-14.46.23:274][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.07.26-14.46.23:274][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.07.26-14.46.23:274][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.07.26-14.46.23:274][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.07.26-14.46.23:274][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.07.26-14.46.23:274][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2023.07.26-14.46.23:274][  0]LogD3D12RHI:   Driver Version: 531.79 (internal:31.0.15.3179, unified:531.79)
+[2023.07.26-14.46.23:274][  0]LogD3D12RHI:      Driver Date: 4-25-2023
+[2023.07.26-14.46.23:274][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2023.07.26-14.46.23:274][  0]LogD3D12RHI: Async texture creation enabled
+[2023.07.26-14.46.23:274][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.07.26-14.46.23:289][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.07.26-14.46.23:294][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyReport_0.log" -log="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyLog_0.log" -project="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject"  -platform=all'
+[2023.07.26-14.46.23:294][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyReport_0.log" -log="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/TurnkeyLog_0.log" -project="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/WarInUkraine.uproject"  -platform=all" ]
+[2023.07.26-14.46.23:310][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.07.26-14.46.23:316][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.07.26-14.46.23:316][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.07.26-14.46.23:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.07.26-14.46.23:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.07.26-14.46.23:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.07.26-14.46.23:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.07.26-14.46.23:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.07.26-14.46.23:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.07.26-14.46.23:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.07.26-14.46.23:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.07.26-14.46.23:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.07.26-14.46.23:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.07.26-14.46.23:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.07.26-14.46.23:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.07.26-14.46.23:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.07.26-14.46.23:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.07.26-14.46.23:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.07.26-14.46.23:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.07.26-14.46.23:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.07.26-14.46.23:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.07.26-14.46.23:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.07.26-14.46.23:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.07.26-14.46.23:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.07.26-14.46.23:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.07.26-14.46.23:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.07.26-14.46.23:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.07.26-14.46.23:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.07.26-14.46.23:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.07.26-14.46.23:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.07.26-14.46.23:362][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.07.26-14.46.23:371][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.07.26-14.46.23:374][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.07.26-14.46.23:374][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.07.26-14.46.23:374][  0]LogTargetPlatformManager:   ADPCM
+[2023.07.26-14.46.23:374][  0]LogTargetPlatformManager:   PCM
+[2023.07.26-14.46.23:376][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.07.26-14.46.23:376][  0]LogTargetPlatformManager:   BINKA
+[2023.07.26-14.46.23:376][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.07.26-14.46.23:376][  0]LogTargetPlatformManager:   OGG
+[2023.07.26-14.46.23:376][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.07.26-14.46.23:376][  0]LogTargetPlatformManager:   OPUS
+[2023.07.26-14.46.23:413][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.07.26-14.46.23:413][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   SF_METAL
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.07.26-14.46.23:418][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.07.26-14.46.23:421][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.07.26-14.46.23:421][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.07.26-14.46.23:421][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.07.26-14.46.23:421][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.07.26-14.46.23:421][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.07.26-14.46.23:421][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.07.26-14.46.23:421][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.07.26-14.46.23:421][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2023.07.26-14.46.23:421][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.07.26-14.46.23:430][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.07.26-14.46.23:430][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.07.26-14.46.23:442][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.07.26-14.46.23:444][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.07.26-14.46.23:444][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.07.26-14.46.23:444][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.26-14.46.23:444][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.07.26-14.46.23:466][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.07.26-14.46.23:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.26-14.46.23:466][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.07.26-14.46.23:471][  0]LogDerivedDataCache: Speed tests for C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.07.26-14.46.23:471][  0]LogDerivedDataCache: Display: Performance to C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1494.19MBs, RandomWriteSpeed=259.91MBs. Assigned SpeedClass 'Local'
+[2023.07.26-14.46.23:472][  0]LogDerivedDataCache: Using Local data cache path C:/Users/New/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.07.26-14.46.23:472][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.07.26-14.46.23:472][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.07.26-14.46.23:478][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.07.26-14.46.23:478][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.07.26-14.46.23:478][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Intermediate/Shaders/WorkingDirectory/12832/).
+[2023.07.26-14.46.23:478][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/New/AppData/Local/Temp/UnrealShaderWorkingDir/7223339D48144AC6AE9325A987E5AA1C/'.
+[2023.07.26-14.46.23:478][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.07.26-14.46.23:478][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.07.26-14.46.25:194][  0]LogSlate: Using FreeType 2.10.0
+[2023.07.26-14.46.25:195][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.07.26-14.46.25:234][  0]LogAssetRegistry: FAssetRegistry took 0.0135 seconds to start up
+[2023.07.26-14.46.25:238][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.07.26-14.46.25:492][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.07.26-14.46.25:492][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.07.26-14.46.25:762][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.07.26-14.46.25:762][  0]LogDeviceProfileManager: Active device profile: [00000A83162F0540][00000A82FAF25000 50] WindowsEditor
+[2023.07.26-14.46.25:762][  0]LogDeviceProfileManager: Profiles: [00000A83162F0000][00000A830CE1C800 50] Windows, [00000A83162F0540][00000A82FAF25000 50] WindowsEditor, [00000A83162F2680][00000A830CE8A000 50] WindowsServer, [00000A83162F24C0][00000A8316300000 50] WindowsClient, [00000A83162F2300][00000A8316305000 50] IOS, [00000A83162F2840][00000A8316307800 50] iPadAir2, [00000A83162F4EC0][00000A831630C800 50] IPadPro, [00000A83162F5240][00000A831630A000 50] iPadAir3, [00000A83162F1C00][00000A830CE85000 50] iPadAir4, [00000A83162F4D00][00000A8316310000 50] iPadMini4, [00000A83162F0A80][00000A8316315000 50] iPadMini5, [00000A83162F4B40][00000A8316317800 50] iPadMini6, [00000A83162F8340][00000A8316302800 50] iPhone6S, [00000A83162F86C0][00000A831631C800 50] iPhone7, [00000A83162F8A40][00000A831631A000 50] iPodTouch7, [00000A83162F32C0][00000A8316340000 50] iPhone6SPlus, [00000A83162F5E80][00000A8316345000 50] iPhone7Plus, [00000A83162F7540][00000A8316347800 50] iPhoneSE, [00000A83162F2BC0][00000A831634A000 50] iPhone8, [00000A83162F47C0][00000A831634C800 50] iPhone8Plus, [00000A83162F63C0][00000A8316312800 50] iPhoneX, [00000A83162F5080][00000A8316350000 50] iPhoneXS, [00000A83162F5CC0][00000A8316355000 50] iPhoneXSMax, [00000A83162F5400][00000A8316357800 50] iPhoneXR, [00000A83162F8500][00000A831635A000 50] iPhone11, [00000A83162F3640][00000A831635C800 50] iPhone11Pro, [00000A83162F1DC0][00000A8316342800 50] iPhone11ProMax, [00000A83162F7000][00000A8316360000 50] iPhoneSE2, [00000A83162F6C80][00000A8316365000 50] iPhone12Mini, [00000A83162F4440][00000A8316367800 50] iPhone12, [00000A83162F7FC0][00000A831636A000 50] iPhone12Pro, [00000A83162F5780][00000A831636C800 50] iPhone12ProMax, [00000A83162F8880][00000A8316352800 50] iPhone13Mini, [00000A83162F6200][00000A8316370000 50] iPhone13, [00000A83162F0C40][00000A8316375000 50] iPhone13Pro, [00000A83162F7700][00000A8316377800 50] iPhone13ProMax, [00000A83162F2F40][00000A831637A000 50] iPadPro105, [00000A83162F8C00][00000A831637C800 50] iPadPro129, [00000A83162F3100][00000A8316362800 50] iPadPro97, [00000A83162F16C0][00000A8316380000 50] iPadPro2_129, [00000A83162F08C0][00000A8316385000 50] iPad5, [00000A83162F3480][00000A8316387800 50] iPad6, [00000A83162F4980][00000A831638A000 50] iPad7, [00000A83162F1880][00000A831638C800 50] iPad8, [00000A83162F7C40][00000A8316372800 50] iPad9, [00000A83162F39C0][00000A83163A0000 50] iPadPro11, [00000A83162F7A80][00000A83163A5000 50] iPadPro2_11, [00000A83162F78C0][00000A83163A7800 50] iPadPro3_11, [00000A83162F71C0][00000A83163AA000 50] iPadPro3_129, [00000A83162F0E00][00000A83163AC800 50] iPadPro4_129, [00000A83162F6E40][00000A8316382800 50] iPadPro5_129, [00000A83162F1A40][00000A83163B0000 50] AppleTV, [00000A83162F2140][00000A83163B5000 50] AppleTV4K, [00000A83162F3800][00000A83163B7800 50] TVOS, [00000A83162FA800][00000A83163BC800 50] Mac, [00000A83162FAB80][00000A83163BA000 50] MacEditor, [00000A83162FA100][00000A83163A2800 50] MacClient, [00000A83162F1180][00000A83163D0000 50] MacServer, [00000A83162FAF00][00000A83163D7800 50] Linux, [00000A83162FB280][00000A83163D5000 50] LinuxEditor, [00000A83162F55C0][00000A83163DA000 50] LinuxArm64Editor, [00000A83162FAD40][00000A83163DC800 50] LinuxArm64, [00000A83162F6AC0][00000A83163B2800 50] LinuxClient, [00000A83162F4600][00000A83163C0000 50] LinuxArm64Client, [00000A83162F9300][00000A83163C5000 50] LinuxServer, [00000A83162F94C0][00000A83163C7800 50] LinuxArm64Server, [00000A83162F2A00][00000A83163CA000 50] Android, [00000A83162F0380][00000A83163CC800 50] Android_Preview_OpenGL, [00000A83162FB440][00000A83163D2800 50] Android_Preview_Vulkan, [00000A83162FB7C0][00000A83163E0000 50] Android_Low, [00000A83162FA640][00000A83163E5000 50] Android_Mid, [00000A83162F9BC0][00000A83163E7800 50] Android_High, [00000A83162F1F80][00000A83163EA000 50] Android_Default, [00000A83162F8DC0][00000A83163EC800 50] Android_Adreno4xx, [00000A83162F6040][00000A83163C2800 50] Android_Adreno5xx_Low, [00000A83162FB600][00000A83163F0000 50] Android_Adreno5xx, [00000A83162F3D40][00000A83163F5000 50] Android_Adreno6xx, [00000A83162F9F40][00000A83163F7800 50] Android_Adreno6xx_Vulkan, [00000A83162F1340][00000A83163FA000 50] Android_Adreno7xx, [00000A83162F6740][00000A83163FC800 50] Android_Adreno7xx_Vulkan, [00000A83162F0700][00000A83163E2800 50] Android_Mali_T6xx, [00000A83162F2D80][00000A8316410000 50] Android_Mali_T7xx, [00000A83162F9840][00000A8316415000 50] Android_Mali_T8xx, [00000A83162FBB40][00000A8316417800 50] Android_Mali_G71, [00000A83162F6580][00000A831641A000 50] Android_Mali_G72, [00000A83162F9D80][00000A831641C800 50] Android_Mali_G72_Vulkan, [00000A83162FBEC0][00000A83163F2800 50] Android_Mali_G76, [00000A83162FB0C0][00000A8316420000 50] Android_Mali_G76_Vulkan, [00000A83162F0FC0][00000A8316425000 50] Android_Mali_G77, [00000A83162FB980][00000A8316427800 50] Android_Mali_G77_Vulkan, [00000A83162F8F80][00000A831642A000 50] Android_Mali_G78, [00000A83162FC400][00000A831642C800 50] Android_Mali_G78_Vulkan, [00000A83162FC5C0][00000A8316412800 50] Android_Mali_G710, [00000A83162F5940][00000A8316430000 50] Android_Mali_G710_Vulkan, [00000A83162FA9C0][00000A8316435000 50] Android_Xclipse_920, [00000A83162FCE80][00000A8316437800 50] Android_Xclipse_920_Vulkan, [00000A83162FC940][00000A831643A000 50] Android_Vulkan_SM5, [00000A83162F9140][00000A831643C800 50] Android_PowerVR_G6xxx, [00000A83162FA2C0][00000A8316422800 50] Android_PowerVR_GT7xxx, [00000A83162F9A00][00000A8316440000 50] Android_PowerVR_GE8xxx, [00000A83162F7380][00000A8316445000 50] Android_PowerVR_GM9xxx, [00000A83162FDAC0][00000A8316447800 50] Android_PowerVR_GM9xxx_Vulkan, [00000A83162F1500][00000A831644A000 50] Android_TegraK1, [00000A83162FE000][00000A831644C800 50] Android_Unknown_Vulkan, [00000A83162FD200][00000A8316432800 50] Oculus_Quest, [00000A83162FEA80][00000A8316450000 50] Oculus_Quest2, [00000A83162FD740][00000A8316455000 50] HoloLens, 
+[2023.07.26-14.46.25:762][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.07.26-14.46.25:822][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.07.26-14.46.26:092][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.07.26-14.46.26:092][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.07.26-14.46.26:092][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.07.26-14.46.26:092][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.07.26-14.46.26:092][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.07.26-14.46.26:106][  0]LogNetVersion: WarInUkraine 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3806673830)
+[2023.07.26-14.46.26:271][  0]LogSlate: Border
+[2023.07.26-14.46.26:271][  0]LogSlate: BreadcrumbButton
+[2023.07.26-14.46.26:271][  0]LogSlate: Default
+[2023.07.26-14.46.26:271][  0]LogSlate: Icons.Save
+[2023.07.26-14.46.26:271][  0]LogSlate: Icons.Toolbar.Settings
+[2023.07.26-14.46.26:271][  0]LogSlate: ListView
+[2023.07.26-14.46.26:271][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.07.26-14.46.26:271][  0]LogSlate: SoftwareCursor_Grab
+[2023.07.26-14.46.26:271][  0]LogSlate: TableView.DarkRow
+[2023.07.26-14.46.26:271][  0]LogSlate: TableView.Row
+[2023.07.26-14.46.26:271][  0]LogSlate: TreeView
+[2023.07.26-14.46.26:506][  0]SourceControl: Source control is disabled
+[2023.07.26-14.46.26:549][  0]SourceControl: Source control is disabled
+[2023.07.26-14.46.26:550][  0]SourceControl: Source control is disabled
+[2023.07.26-14.46.26:729][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.07.26-14.46.26:729][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.07.26-14.46.26:729][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.07.26-14.46.27:142][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D57B5CA8406AA0FB3459A9A2B4E8A568 | Instance: FB0AD2C74E3721C26F2C85A646C610AD (USER-PC-12832).
+[2023.07.26-14.46.27:258][  0]LogPython: Using Python 3.9.7
+[2023.07.26-14.46.28:364][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.07.26-14.46.28:369][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.07.26-14.46.28:446][  0]SourceControl: Source control is disabled
+[2023.07.26-14.46.28:453][  0]SourceControl: Source control is disabled
+[2023.07.26-14.46.28:458][  0]LogUProjectInfo: Found projects:
+[2023.07.26-14.46.28:541][  0]SourceControl: Source control is disabled
+[2023.07.26-14.46.28:824][  0]LogOpenImageDenoise: OIDN starting up
+[2023.07.26-14.46.28:872][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.07.26-14.46.28:894][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.26-14.46.28:894][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.26-14.46.28:999][  0]LogCollectionManager: Loaded 0 collections in 0.001820 seconds
+[2023.07.26-14.46.29:083][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Saved/Collections/' took 0.00s
+[2023.07.26-14.46.29:083][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/Developers/New/Collections/' took 0.00s
+[2023.07.26-14.46.29:083][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/Collections/' took 0.00s
+[2023.07.26-14.46.29:428][  0]LogClass: Display: FloatProperty FParticleTransformTrack::BeginOffset is not initialized properly. Module:ChaosCaching File:Public/Chaos/ChaosCache.h
+[2023.07.26-14.46.29:428][  0]LogClass: Display: BoolProperty FParticleTransformTrack::bDeactivateOnEnd is not initialized properly. Module:ChaosCaching File:Public/Chaos/ChaosCache.h
+[2023.07.26-14.46.29:429][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2023.07.26-14.46.29:434][  0]LogEngine: Initializing Engine...
+[2023.07.26-14.46.29:453][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.07.26-14.46.29:456][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.07.26-14.46.29:883][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.07.26-14.46.29:884][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.26-14.46.29:898][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-14.46.29:941][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.07.26-14.46.29:942][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.07.26-14.46.29:969][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.07.26-14.46.29:970][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.07.26-14.46.29:970][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.07.26-14.46.29:970][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.07.26-14.46.29:970][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.07.26-14.46.29:971][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-14.46.29:971][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-14.46.29:971][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-14.46.29:971][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-14.46.29:971][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.26-14.46.29:971][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.26-14.46.29:971][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.26-14.46.29:971][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-14.46.29:971][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-14.46.29:971][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-14.46.29:971][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-14.46.29:977][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.26-14.46.30:009][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2023.07.26-14.46.30:010][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-14.46.30:012][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-14.46.30:012][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-14.46.30:012][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.07.26-14.46.30:012][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.26-14.46.30:014][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.26-14.46.30:014][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.07.26-14.46.30:014][  0]LogInit: FAudioDevice initialized.
+[2023.07.26-14.46.30:014][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.07.26-14.46.30:014][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.07.26-14.46.30:014][  0]LogInit: Texture streaming: Enabled
+[2023.07.26-14.46.30:055][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.07.26-14.46.30:065][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.07.26-14.46.30:096][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.07.26-14.46.30:105][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.07.26-14.46.30:105][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.07.26-14.46.32:888][  0]LogLiveCoding: Display: First instance in process group "UE_WarInUkraine_0x2c562714", spawning console
+[2023.07.26-14.46.32:888][  0]LogLiveCoding: Display: Waiting for server
+[2023.07.26-14.46.32:888][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.07.26-14.46.33:065][  0]LogInit: Transaction tracking system initialized
+[2023.07.26-14.46.33:166][  0]BlueprintLog: New page: Editor Load
+[2023.07.26-14.46.33:413][  0]LocalizationService: Localization service is disabled
+[2023.07.26-14.46.33:498][  0]TimingProfiler: Initialize
+[2023.07.26-14.46.33:498][  0]TimingProfiler: OnSessionChanged
+[2023.07.26-14.46.33:498][  0]LoadingProfiler: Initialize
+[2023.07.26-14.46.33:498][  0]LoadingProfiler: OnSessionChanged
+[2023.07.26-14.46.33:498][  0]NetworkingProfiler: Initialize
+[2023.07.26-14.46.33:498][  0]NetworkingProfiler: OnSessionChanged
+[2023.07.26-14.46.33:498][  0]MemoryProfiler: Initialize
+[2023.07.26-14.46.33:498][  0]MemoryProfiler: OnSessionChanged
+[2023.07.26-14.46.34:405][  0]LogFileCache: Scanning file cache for directory 'D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/' took 0.14s
+[2023.07.26-14.46.34:405][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.07.26-14.46.34:500][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.07.26-14.46.34:502][  0]SourceControl: Source control is disabled
+[2023.07.26-14.46.34:502][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.887
+[2023.07.26-14.46.34:502][  0]Cmd: MAP LOAD FILE="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.26-14.46.34:528][  0]LightingResults: New page: Lighting Build
+[2023.07.26-14.46.34:538][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-14.46.34:538][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-14.46.34:538][  0]MapCheck: New page: Map Check
+[2023.07.26-14.46.34:538][  0]LightingResults: New page: Lighting Build
+[2023.07.26-14.46.34:546][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.26-14.46.34:550][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.26-14.46.38:438][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:438][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:439][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:439][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:439][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_L' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:439][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:439][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:439][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:439][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:439][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:439][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:439][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:447][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Idle to MM_Idle_LapTop  will never be taken, please connect something to  Can Enter Transition
+[2023.07.26-14.46.38:447][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Walk / Run to MM_Idle_LapTop  will never be taken, please connect something to  Can Enter Transition
+[2023.07.26-14.46.38:447][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] MM_Idle_LapTop to Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.07.26-14.46.38:447][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] MM_Idle_LapTop to Walk / Run  will never be taken, please connect something to  Can Enter Transition
+[2023.07.26-14.46.38:448][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Fire to Walk / Run  will never be taken, please connect something to  Can Enter Transition
+[2023.07.26-14.46.38:448][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\ABP_Kv_Man.uasset: [Compiler] Walk / Run to Fire  will never be taken, please connect something to  Can Enter Transition
+[2023.07.26-14.46.38:463][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:464][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:464][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:464][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_l' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:464][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_L' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:464][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:464][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'index_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:464][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'middle_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:464][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'pinky_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:464][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'ring_01_r' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:464][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:464][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_2\ABP_Kv_Man_Test_Anim.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2023.07.26-14.46.38:475][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\1WUI\Mesh\Weapon\Stugna\Import\ABP_Test_Stugna_Anim.uasset: [Compiler] Entry node  New State Machine  is not connected to state
+[2023.07.26-14.46.38:475][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\1WUI\Mesh\Weapon\Stugna\Import\ABP_Test_Stugna_Anim.uasset: [Compiler] There was no entry state connection in  New State Machine
+[2023.07.26-14.46.39:554][  0]LogBlueprint: Warning: [AssetLog] D:\EpicGames\Unrial5\Works\WarInUkraine\WarInUkraine\Content\FirstPerson\Maps\FirstPersonMap.umap: [Compiler] InputAction Event references unknown Action 'OutPaused' for  InputAction OutPaused
+[2023.07.26-14.46.40:998][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.07.26-14.46.41:011][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-14.46.41:012][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.07.26-14.46.41:075][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.26-14.46.41:075][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.07.26-14.46.42:520][  0]LogWorldPartition: Display: WorldPartition initialize took 1.44 sec
+[2023.07.26-14.46.42:530][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.26-14.46.43:161][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.07.26-14.46.43:177][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.26-14.46.43:177][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,362ms to complete.
+[2023.07.26-14.46.43:177][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 8.675
+[2023.07.26-14.46.43:195][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.580
+[2023.07.26-14.46.43:195][  0]LogShaderCompilers: Display: ================================================
+[2023.07.26-14.46.43:196][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.26-14.46.43:196][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.07.26-14.46.43:196][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.07.26-14.46.43:196][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.07.26-14.46.43:196][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.26-14.46.43:196][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.26-14.46.43:196][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.26-14.46.43:196][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.26-14.46.43:196][  0]LogShaderCompilers: Display: ================================================
+[2023.07.26-14.46.43:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.46.43:363][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.46.43:374][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.46.43:379][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.46.43:380][  0]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'InvertedForeground'.'
+[2023.07.26-14.46.43:558][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.07.26-14.46.43:558][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.26-14.46.43:561][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.07.26-14.46.43:561][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.26-14.46.43:562][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.07.26-14.46.43:562][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.26-14.46.43:564][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.07.26-14.46.43:564][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.26-14.46.43:568][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.07.26-14.46.43:568][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.26-14.46.43:570][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.07.26-14.46.43:570][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.26-14.46.43:571][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.07.26-14.46.43:571][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.26-14.46.43:573][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.07.26-14.46.43:573][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.26-14.46.43:575][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.07.26-14.46.43:575][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.26-14.46.43:576][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.07.26-14.46.43:576][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.26-14.46.43:577][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.07.26-14.46.43:819][  0]LogStall: Startup...
+[2023.07.26-14.46.43:821][  0]LogStall: Startup complete.
+[2023.07.26-14.46.43:837][  0]LogLoad: (Engine Initialization) Total time: 23.22 seconds
+[2023.07.26-14.46.43:838][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.07.26-14.46.43:862][  0]LogAssetRegistry: Asset discovery search completed in 18.6300 seconds
+[2023.07.26-14.46.43:870][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.07.26-14.46.43:875][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.07.26-14.46.43:917][  0]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.26-14.46.43:922][  0]LogSlate: Took 0.001011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.07.26-14.46.43:923][  0]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.07.26-14.46.43:970][  0]LogViewport: Scene viewport resized to 1167x849, mode Windowed.
+[2023.07.26-14.46.44:945][  6]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.07.26-14.46.52:788][247]LogSlate: Took 0.000899 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.07.26-14.46.55:024][395]LogSlate: Took 0.001002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.26-14.46.56:845][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.07.26-14.46.57:283][523]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kvik/KvikSave/Test_Car.Test_Car
+[2023.07.26-14.46.57:283][523]Cmd: MAP LOAD FILE="D:/EpicGames/Unrial5/Works/WarInUkraine/WarInUkraine/Content/Kvik/KvikSave/Test_Car.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.26-14.46.57:283][523]LightingResults: New page: Lighting Build
+[2023.07.26-14.46.57:283][523]LoadErrors: New page: Loading map: Test_Car.umap
+[2023.07.26-14.46.57:286][523]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-14.46.57:286][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-14.46.57:301][523]MapCheck: New page: Map Check
+[2023.07.26-14.46.57:301][523]LightingResults: New page: Lighting Build
+[2023.07.26-14.46.57:313][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.26-14.46.57:318][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.26-14.46.57:322][523]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-14.46.57:323][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-14.46.57:340][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.07.26-14.46.57:352][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.07.26-14.46.57:428][523]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test_Car'.
+[2023.07.26-14.46.57:428][523]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.26-14.46.57:428][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-14.46.57:429][523]LogAIModule: Creating AISystem for world Test_Car
+[2023.07.26-14.46.57:475][523]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Tower'
+[2023.07.26-14.46.57:475][523]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Gun'
+[2023.07.26-14.46.57:490][523]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Tower'
+[2023.07.26-14.46.57:491][523]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Gun'
+[2023.07.26-14.46.57:491][523]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Tower'
+[2023.07.26-14.46.57:492][523]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/Test_Car.Test_Car:PersistentLevel.Kv_BTR_2_Pawn_C_3.Gun'
+[2023.07.26-14.46.57:559][523]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.26-14.46.57:577][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.26-14.46.57:601][523]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.26-14.46.57:601][523]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,104ms to complete.
+[2023.07.26-14.46.57:601][523]LogFileHelpers: Loading map 'Test_Car' took 0.317
+[2023.07.26-14.47.01:384][782]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.26-14.47.01:402][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.26-14.47.01:402][782]PIE: New page: PIE session: Test_Car (26 июл. 2023 г., 20:47:01)
+[2023.07.26-14.47.01:406][782]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.07.26-14.47.01:407][782]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.26-14.47.01:407][782]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2023.07.26-14.47.01:441][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033723s)
+[2023.07.26-14.47.01:441][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/Test_Car.Test_Car to /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car (0.034102s)
+[2023.07.26-14.47.01:441][782]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.26-14.47.01:441][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.26-14.47.01:441][782]LogAIModule: Creating AISystem for world Test_Car
+[2023.07.26-14.47.01:442][782]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2023.07.26-14.47.01:452][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.07.26-14.47.01:453][782]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.26-14.47.01:454][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-14.47.01:454][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-14.47.01:454][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-14.47.01:454][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-14.47.01:454][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.26-14.47.01:454][782]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.26-14.47.01:454][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.26-14.47.01:454][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-14.47.01:454][782]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-14.47.01:454][782]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-14.47.01:454][782]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-14.47.01:456][782]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.26-14.47.01:477][782]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2023.07.26-14.47.01:477][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-14.47.01:477][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-14.47.01:477][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-14.47.01:478][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.07.26-14.47.01:478][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.07.26-14.47.01:480][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.07.26-14.47.01:480][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.07.26-14.47.01:480][782]LogInit: FAudioDevice initialized.
+[2023.07.26-14.47.01:480][782]LogAudio: Display: Audio Device (ID: 2) registered with world 'Test_Car'.
+[2023.07.26-14.47.01:497][782]LogLoad: Game class is 'BP_Kv_Hend_1_Mode_C'
+[2023.07.26-14.47.01:512][782]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_Test_Car.Test_Car up for play (max tick rate 0) at 2023.07.26-17.47.01
+[2023.07.26-14.47.01:514][782]LogWorld: Bringing up level for play took: 0.016186
+[2023.07.26-14.47.01:516][782]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2023.07.26-14.47.01:661][782]PIE: Server logged in
+[2023.07.26-14.47.01:662][782]PIE: Play in editor total start time 0,264 seconds.
+[2023.07.26-14.47.01:679][783]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.01:731][784]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.01:824][785]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.01:870][786]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.01:890][787]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.01:907][788]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.01:925][789]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.01:943][790]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.01:961][791]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.01:978][792]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.01:996][793]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:014][794]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:031][795]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:049][796]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:067][797]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:086][798]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:104][799]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:122][800]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:140][801]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:157][802]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:174][803]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:191][804]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:209][805]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:228][806]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:246][807]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:265][808]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:284][809]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:301][810]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:320][811]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:338][812]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:355][813]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:372][814]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:391][815]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:408][816]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:425][817]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:442][818]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:459][819]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:474][820]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:492][821]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:509][822]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:527][823]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:541][824]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:558][825]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:574][826]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:591][827]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:607][828]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:623][829]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:641][830]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:657][831]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:673][832]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:690][833]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:709][834]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:727][835]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:743][836]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:763][837]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:778][838]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:795][839]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:816][840]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:834][841]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:849][842]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:866][843]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:882][844]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:899][845]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:915][846]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:932][847]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:948][848]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:965][849]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:982][850]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.02:999][851]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:014][852]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:030][853]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:045][854]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:060][855]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:076][856]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:091][857]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:107][858]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:123][859]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:138][860]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:154][861]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:170][862]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:186][863]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:201][864]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:217][865]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:232][866]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:248][867]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:264][868]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:279][869]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:295][870]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:312][871]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:327][872]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:343][873]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:359][874]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:376][875]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:391][876]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:407][877]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:422][878]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:438][879]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:454][880]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:470][881]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:486][882]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:504][883]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:519][884]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:536][885]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:551][886]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:568][887]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:584][888]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:601][889]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:617][890]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:635][891]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:651][892]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:667][893]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:684][894]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:701][895]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:717][896]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:733][897]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:748][898]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:765][899]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:781][900]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:797][901]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:813][902]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:830][903]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:845][904]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:861][905]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:878][906]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:894][907]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:910][908]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:925][909]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:941][910]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:957][911]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:972][912]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.03:987][913]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:003][914]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:019][915]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:035][916]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:051][917]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:068][918]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:085][919]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:101][920]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:116][921]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:133][922]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:148][923]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:165][924]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:180][925]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:197][926]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:213][927]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:229][928]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:245][929]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:261][930]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:278][931]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:295][932]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:312][933]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:330][934]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:346][935]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:363][936]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:380][937]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:396][938]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:412][939]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:428][940]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:445][941]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:462][942]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:478][943]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:495][944]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:511][945]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:527][946]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:544][947]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:560][948]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:576][949]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:593][950]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:609][951]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:626][952]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:643][953]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:660][954]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:677][955]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:694][956]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:712][957]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:728][958]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:746][959]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:763][960]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:779][961]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:797][962]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:813][963]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:830][964]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:847][965]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:865][966]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:882][967]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:899][968]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:916][969]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:934][970]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:951][971]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:969][972]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.04:986][973]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:003][974]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:021][975]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:038][976]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:054][977]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:072][978]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:088][979]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:105][980]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:121][981]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:138][982]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:154][983]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:171][984]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:187][985]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:204][986]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:221][987]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:238][988]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:254][989]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:272][990]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:289][991]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:306][992]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:322][993]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:339][994]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:355][995]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:371][996]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:388][997]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:404][998]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:421][999]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:438][  0]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:454][  1]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:473][  2]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:490][  3]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:506][  4]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:522][  5]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:539][  6]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:556][  7]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:572][  8]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:589][  9]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:606][ 10]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:623][ 11]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:640][ 12]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:657][ 13]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:675][ 14]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:692][ 15]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:709][ 16]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:726][ 17]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:744][ 18]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:761][ 19]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:778][ 20]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:794][ 21]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:810][ 22]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:827][ 23]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:844][ 24]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:860][ 25]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:878][ 26]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:895][ 27]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:912][ 28]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:928][ 29]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:944][ 30]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:961][ 31]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:979][ 32]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.05:996][ 33]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:013][ 34]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:029][ 35]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:047][ 36]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:063][ 37]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:080][ 38]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:097][ 39]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:114][ 40]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:130][ 41]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:147][ 42]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:164][ 43]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:180][ 44]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:198][ 45]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:214][ 46]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:231][ 47]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:248][ 48]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:265][ 49]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:282][ 50]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:299][ 51]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:316][ 52]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:333][ 53]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:349][ 54]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:366][ 55]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:382][ 56]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:400][ 57]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:416][ 58]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:433][ 59]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:450][ 60]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:467][ 61]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:485][ 62]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:503][ 63]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:519][ 64]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:536][ 65]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:552][ 66]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:568][ 67]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:585][ 68]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:602][ 69]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:618][ 70]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:635][ 71]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:651][ 72]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:669][ 73]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:685][ 74]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:703][ 75]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:720][ 76]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:736][ 77]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:752][ 78]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:769][ 79]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:785][ 80]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:802][ 81]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:818][ 82]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:835][ 83]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:851][ 84]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:868][ 85]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:885][ 86]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:903][ 87]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:938][ 88]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:947][ 89]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:955][ 90]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:963][ 91]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:972][ 92]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:983][ 93]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.06:994][ 94]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:004][ 95]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:016][ 96]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:027][ 97]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:038][ 98]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:050][ 99]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:062][100]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:076][101]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:089][102]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:101][103]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:113][104]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:125][105]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:139][106]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:150][107]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:161][108]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:172][109]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:182][110]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:193][111]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:206][112]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:217][113]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:228][114]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:238][115]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:249][116]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:259][117]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:270][118]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:280][119]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:292][120]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:302][121]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:312][122]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:324][123]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:335][124]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:346][125]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:357][126]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:370][127]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:384][128]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:394][129]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:405][130]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:415][131]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:426][132]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:436][133]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:447][134]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:458][135]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:469][136]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:479][137]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:492][138]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:506][139]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:516][140]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:526][141]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:539][142]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:549][143]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:560][144]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:575][145]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:589][146]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:600][147]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:612][148]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:622][149]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:633][150]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:644][151]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:655][152]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:666][153]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:676][154]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:688][155]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:698][156]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:708][157]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:718][158]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:729][159]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:740][160]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:750][161]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:760][162]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:772][163]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:786][164]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:796][165]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:806][166]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:818][167]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:829][168]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:842][169]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:853][170]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:865][171]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:875][172]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:886][173]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:896][174]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:907][175]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:918][176]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:929][177]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:939][178]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:951][179]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:965][180]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:978][181]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.07:990][182]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:002][183]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:012][184]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:024][185]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:034][186]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:045][187]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:056][188]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:067][189]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:079][190]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:089][191]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:099][192]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:110][193]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:120][194]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:131][195]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:141][196]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:153][197]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:163][198]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:174][199]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:185][200]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:195][201]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:209][202]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:220][203]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:231][204]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:243][205]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:254][206]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:266][207]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:280][208]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:293][209]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:304][210]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:315][211]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:326][212]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:337][213]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:348][214]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:359][215]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:371][216]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:382][217]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:393][218]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:405][219]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:417][220]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:429][221]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:439][222]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:451][223]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:463][224]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:473][225]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:484][226]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:494][227]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:506][228]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:517][229]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:527][230]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:539][231]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:549][232]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:561][233]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:574][234]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:585][235]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:597][236]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:608][237]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:619][238]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:630][239]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:641][240]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:655][241]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:666][242]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:677][243]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:688][244]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:698][245]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:710][246]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:724][247]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:738][248]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:749][249]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:759][250]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:771][251]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:782][252]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:792][253]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:803][254]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:815][255]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:826][256]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:837][257]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:848][258]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:862][259]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:873][260]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:883][261]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:893][262]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:905][263]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:915][264]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:926][265]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:938][266]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:949][267]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:960][268]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:971][269]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:982][270]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.08:992][271]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:003][272]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:013][273]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:024][274]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:036][275]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:047][276]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:058][277]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:069][278]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:080][279]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:094][280]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:105][281]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:115][282]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:126][283]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:136][284]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:147][285]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:157][286]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:169][287]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:180][288]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:193][289]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:203][290]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:216][291]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:228][292]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:239][293]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:250][294]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:261][295]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:272][296]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:287][297]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:296][298]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:307][299]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:318][300]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:329][301]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:340][302]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:352][303]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:363][304]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:374][305]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:385][306]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:395][307]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:406][308]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:418][309]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:429][310]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:439][311]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:451][312]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:461][313]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:472][314]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:484][315]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:495][316]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:506][317]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:516][318]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:530][319]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:541][320]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:551][321]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:562][322]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:573][323]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:584][324]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:595][325]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:606][326]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:616][327]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:627][328]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:639][329]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:650][330]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:661][331]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:672][332]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:683][333]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:697][334]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:707][335]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:718][336]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:729][337]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:740][338]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:753][339]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:768][340]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:778][341]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:789][342]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:799][343]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:811][344]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:822][345]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:832][346]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:843][347]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:854][348]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:865][349]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:876][350]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:887][351]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:899][352]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:910][353]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:920][354]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:931][355]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:942][356]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:953][357]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:964][358]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:975][359]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:985][360]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.09:995][361]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:006][362]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:017][363]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:029][364]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:043][365]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:054][366]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:064][367]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:077][368]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:088][369]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:099][370]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:109][371]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:120][372]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:132][373]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:143][374]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:154][375]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:164][376]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:175][377]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:189][378]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:198][379]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:209][380]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:224][381]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:242][382]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:249][383]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:269][384]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:290][385]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:306][386]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:319][387]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:331][388]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:343][389]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:354][390]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:368][391]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:381][392]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:393][393]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:404][394]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:414][395]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:429][396]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:442][397]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:454][398]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:468][399]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:482][400]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:492][401]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:504][402]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:515][403]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:526][404]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:540][405]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:551][406]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:563][407]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:577][408]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:589][409]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:600][410]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:611][411]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:624][412]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:635][413]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:647][414]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:659][415]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:671][416]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:683][417]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:694][418]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:708][419]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:722][420]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:732][421]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:746][422]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:758][423]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:770][424]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:784][425]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:795][426]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:806][427]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:822][428]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:832][429]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:843][430]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:856][431]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:867][432]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:878][433]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:890][434]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:902][435]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:914][436]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:925][437]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:936][438]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:947][439]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:959][440]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:972][441]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:983][442]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.10:994][443]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:005][444]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:016][445]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:028][446]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:040][447]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:051][448]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:065][449]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:078][450]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:089][451]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:101][452]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:113][453]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:126][454]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:137][455]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:151][456]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:162][457]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:174][458]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:190][459]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:205][460]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:215][461]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:226][462]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:238][463]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:251][464]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:263][465]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:274][466]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:286][467]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:298][468]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:309][469]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:321][470]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:332][471]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:343][472]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:357][473]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:368][474]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:382][475]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:396][476]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:407][477]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:419][478]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:431][479]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:442][480]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:454][481]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:465][482]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:476][483]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:491][484]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:503][485]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:514][486]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:529][487]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:540][488]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:555][489]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:566][490]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:578][491]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:590][492]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:601][493]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:613][494]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:624][495]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:636][496]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:649][497]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:660][498]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:674][499]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:685][500]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:697][501]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:709][502]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:722][503]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:733][504]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:746][505]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:757][506]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:769][507]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:781][508]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:793][509]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:804][510]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:816][511]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:828][512]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:839][513]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:851][514]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:863][515]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:874][516]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:886][517]LogPhysics: Warning: COLLISION PROFILE [None] is not found
+[2023.07.26-14.47.11:911][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.47.11:911][517]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_Test_Car
+[2023.07.26-14.47.11:912][517]LogWorld: UWorld::CleanupWorld for Test_Car, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-14.47.11:914][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-14.47.11:929][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.26-14.47.11:932][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-14.47.11:942][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.47.11:945][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.26-14.47.11:946][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.26-14.47.11:955][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.07.26-14.47.11:993][518]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.07.26-14.47.24:121][472]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kvik/Kvik_Modes/Players/Player_Hand/Test_hand/BP_Kv_PlayerHand_Pawn.BP_Kv_PlayerHand_Pawn
+[2023.07.26-14.47.24:122][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
