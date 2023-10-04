@@ -1,2 +1,22 @@
 [0316/201520.064:WARNING:sqlite_persistent_store_backend_base.cc(171)] Failed to post task from FlushAndNotifyInBackground@../../net/extras/sqlite/sqlite_persistent_store_backend_base.cc:220 to client_task_runner_.
 [0316/201520.064:WARNING:sqlite_persistent_store_backend_base.cc(171)] Failed to post task from FlushAndNotifyInBackground@../../net/extras/sqlite/sqlite_persistent_store_backend_base.cc:220 to client_task_runner_.
+[0930/203638.755:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[0930/203733.553:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0930/203733.554:ERROR:entry_impl.cc(1076)] No file for c1030176
+[0930/203733.554:WARNING:storage_block-inl.h(146)] Failed data load.
+[0930/203733.555:WARNING:storage_block-inl.h(146)] Failed data load.
+[0930/203733.555:WARNING:storage_block-inl.h(146)] Failed data load.
+[0930/203733.555:WARNING:storage_block-inl.h(146)] Failed data load.
+[0930/203733.555:ERROR:entry_impl.cc(1076)] No file for c1030172
+[0930/203733.555:WARNING:storage_block-inl.h(146)] Failed data load.
+[0930/203733.555:WARNING:storage_block-inl.h(146)] Failed data load.
+[0930/203733.555:WARNING:storage_block-inl.h(146)] Failed data load.
+[0930/203733.555:WARNING:storage_block-inl.h(146)] Failed data load.
+[0930/203733.555:ERROR:entry_impl.cc(1076)] No file for c1030174
+[0930/203733.555:WARNING:storage_block-inl.h(146)] Failed data load.
+[0930/203733.555:WARNING:storage_block-inl.h(146)] Failed data load.
+[0930/203733.564:WARNING:storage_block-inl.h(146)] Failed data load.
+[0930/203736.522:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1001/135722.431:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1001/162007.669:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1001/204937.690:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)

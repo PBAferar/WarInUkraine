@@ -27,10 +27,6 @@
 		{
 			"Name": "LiveLink",
 			"Enabled": true
-		},
-		{
-			"Name": "GraphNUnrealPlugin",
-			"Enabled": true
 		}
 	]
 }
