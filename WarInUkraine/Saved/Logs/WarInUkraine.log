@@ -958,3 +958,72 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.11.27-16.05.16:761][303]LogViewport: Scene viewport resized to 905x262, mode Windowed.
 [2023.11.27-16.05.16:791][304]LogViewport: Scene viewport resized to 905x247, mode Windowed.
 [2023.11.27-16.05.16:820][305]LogViewport: Scene viewport resized to 905x241, mode Windowed.
+[2023.11.27-16.06.19:090][ 82]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kvik/Effects/BP_Kv_Explosion_Actor.BP_Kv_Explosion_Actor
+[2023.11.27-16.06.19:091][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-16.06.22:989][394]LogSlate: Window 'BP_Kv_Explosion_Actor' being destroyed
+[2023.11.27-16.06.22:995][394]LogSlate: Window 'BP_Kv_Explosion_Actor' being destroyed
+[2023.11.27-16.06.23:000][394]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-16.06.23:000][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-16.06.40:446][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.27-16.06.44:172][182]LogSlate: Window 'Save Content' being destroyed
+[2023.11.27-16.06.44:824][182]LogMaterial: Display: Missing cached shadermap for M_Mannequin in PCD3D_SM5, Default, SM5 (DDC key hash: 82C4989400A9AA6E1315208C8930F55DEB57FCD8), compiling. 
+[2023.11.27-16.06.44:964][182]LogMaterial: Display: Missing cached shadermap for MI_Quinn_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F3E3219B7225094206ADAE6C0BC26341CCCAD16), compiling. 
+[2023.11.27-16.06.45:139][182]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.11.27-16.06.45:140][182]Cmd: MAP LOAD FILE="../../../../../../Users/obrie/Git/WarInUkraine/WarInUkraine/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.11.27-16.06.45:140][182]LightingResults: New page: Lighting Build
+[2023.11.27-16.06.45:140][182]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.11.27-16.06.45:173][182]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-16.06.45:173][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-16.06.45:173][182]MapCheck: New page: Map Check
+[2023.11.27-16.06.45:173][182]LightingResults: New page: Lighting Build
+[2023.11.27-16.06.45:201][182]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-16.06.45:206][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.11.27-16.06.45:208][182]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-16.06.45:208][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-16.06.45:251][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.11.27-16.06.45:302][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.27-16.06.45:317][182]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.11.27-16.06.45:317][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-16.06.45:319][182]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.11.27-16.06.45:319][182]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.27-16.06.45:319][182]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.11.27-16.06.45:641][182]LogWorldPartition: Display: WorldPartition initialize took 322 ms
+[2023.11.27-16.06.45:727][182]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.27-16.06.45:824][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.11.27-16.06.45:852][182]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.27-16.06.45:853][182]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.696ms to complete.
+[2023.11.27-16.06.45:853][182]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.713
+[2023.11.27-16.06.57:261][456]LogShaderCompilers: Display: ================================================
+[2023.11.27-16.06.57:261][456]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.27-16.06.57:261][456]LogShaderCompilers: Display: Total job queries 122, among them cache hits 0 (0.00%)
+[2023.11.27-16.06.57:261][456]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 8 distinct outputs (100.00%)
+[2023.11.27-16.06.57:261][456]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.11.27-16.06.57:261][456]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.27-16.06.57:261][456]LogShaderCompilers: Display: Shaders Compiled: 122
+[2023.11.27-16.06.57:261][456]LogShaderCompilers: Display: Jobs assigned 69, completed 8 (11.59%)
+[2023.11.27-16.06.57:261][456]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display: Time job spent in pending queue: average 1.42 s, longest 12.19 s
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display: Job execution time: average 12.28 s, max 12.28 s
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display: Job life time (pending + execution): average 12.28 s, max 12.28
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.28 s
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 7.67 jobs/batch
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display: Average processing rate: 0.65 jobs/sec
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display: Effective parallelization: 0.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 2.75 sec, max 2.75 sec, min 2.75 sec)
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 2.25 sec, max 2.25 sec, min 2.25 sec)
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.46 sec, max 1.46 sec, min 1.46 sec)
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 23.37% of total time (compiled    1 times, average 2.75 sec, max 2.75 sec, min 2.75 sec)
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 19.10% of total time (compiled    1 times, average 2.25 sec, max 2.25 sec, min 2.25 sec)
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 17.92% of total time (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.39% of total time (compiled    1 times, average 1.46 sec, max 1.46 sec, min 1.46 sec)
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 9.50% of total time (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2023.11.27-16.06.57:265][456]LogShaderCompilers: Display: ================================================
+[2023.11.27-16.07.13:475][124]LogPackageLocalizationCache: Processed 35 localized package path(s) for 1 prioritized culture(s) in 0.021598 seconds
+[2023.11.27-16.07.13:953][124]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Players/Player_Hand/Test_hand/BP_Kv_PlayerHand_Pawn
+[2023.11.27-16.07.13:956][124]LogSavePackage: Moving '../../../../../../Users/obrie/Git/WarInUkraine/WarInUkraine/Saved/BP_Kv_PlayerHand_PawnB5B1F25248E4368576F4DAA6CD244D21.tmp' to '../../../../../../Users/obrie/Git/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Players/Player_Hand/Test_hand/BP_Kv_PlayerHand_Pawn.uasset'
+[2023.11.27-16.07.14:010][124]AssetCheck: New page: Asset Save: BP_Kv_PlayerHand_Pawn
+[2023.11.27-16.07.14:012][124]LogContentValidation: Display: Validating Blueprint /Game/Kvik/Kvik_Modes/Players/Player_Hand/Test_hand/BP_Kv_PlayerHand_Pawn.BP_Kv_PlayerHand_Pawn
