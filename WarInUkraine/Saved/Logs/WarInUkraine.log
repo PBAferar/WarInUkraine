@@ -1026,3 +1026,186 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.11.27-14.19.23:178][548]LogBlueprint: Warning: [AssetLog] C:\Users\obrie\Git\WarInUkraine\WarInUkraine\Content\Kvik\Kvik_Modes\Players\Player_1\AnimationsPlayer_1\LanABP_Kv_Man_Anim.uasset: [Compiler] MM_Idle_Weapon to MM_Walk_Fwd  will never be taken, please connect something to  Can Enter Transition
 [2023.11.27-14.19.23:222][548]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kvik/Kvik_Modes/Players/Player_3_Lan/LanBP_Kv_PlayerHand.LanBP_Kv_PlayerHand
 [2023.11.27-14.19.23:222][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-14.28.02:440][579]LogViewport: Scene viewport resized to 905x243, mode Windowed.
+[2023.11.27-14.28.02:474][581]LogViewport: Scene viewport resized to 905x271, mode Windowed.
+[2023.11.27-14.28.02:513][583]LogViewport: Scene viewport resized to 905x307, mode Windowed.
+[2023.11.27-14.28.02:558][585]LogViewport: Scene viewport resized to 905x342, mode Windowed.
+[2023.11.27-14.28.02:770][608]LogViewport: Scene viewport resized to 905x346, mode Windowed.
+[2023.11.27-14.28.02:802][610]LogViewport: Scene viewport resized to 905x338, mode Windowed.
+[2023.11.27-14.28.02:836][612]LogViewport: Scene viewport resized to 905x329, mode Windowed.
+[2023.11.27-14.28.02:881][615]LogViewport: Scene viewport resized to 905x321, mode Windowed.
+[2023.11.27-14.28.02:916][617]LogViewport: Scene viewport resized to 905x317, mode Windowed.
+[2023.11.27-14.28.02:960][620]LogViewport: Scene viewport resized to 905x305, mode Windowed.
+[2023.11.27-14.28.02:997][622]LogViewport: Scene viewport resized to 905x299, mode Windowed.
+[2023.11.27-14.28.03:034][624]LogViewport: Scene viewport resized to 905x296, mode Windowed.
+[2023.11.27-14.28.03:121][632]LogViewport: Scene viewport resized to 905x292, mode Windowed.
+[2023.11.27-14.28.03:168][636]LogViewport: Scene viewport resized to 905x280, mode Windowed.
+[2023.11.27-14.28.03:204][638]LogViewport: Scene viewport resized to 905x255, mode Windowed.
+[2023.11.27-14.28.03:244][640]LogViewport: Scene viewport resized to 905x225, mode Windowed.
+[2023.11.27-14.28.03:284][642]LogViewport: Scene viewport resized to 905x217, mode Windowed.
+[2023.11.27-14.29.18:239][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.27-14.29.18:318][414]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Kvik/KvikSave/TestLevel.TestLevel
+[2023.11.27-14.29.18:318][414]Cmd: MAP LOAD FILE="../../../../../../Users/obrie/Git/WarInUkraine/WarInUkraine/Content/Kvik/KvikSave/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.11.27-14.29.18:318][414]LightingResults: New page: Lighting Build
+[2023.11.27-14.29.18:318][414]LoadErrors: New page: Loading map: TestLevel.umap
+[2023.11.27-14.29.18:345][414]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-14.29.18:345][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-14.29.18:345][414]MapCheck: New page: Map Check
+[2023.11.27-14.29.18:345][414]LightingResults: New page: Lighting Build
+[2023.11.27-14.29.18:379][414]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-14.29.18:386][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.27-14.29.18:389][414]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-14.29.18:389][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-14.29.18:423][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.27-14.29.18:457][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.27-14.29.18:462][414]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2023.11.27-14.29.18:462][414]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.27-14.29.18:462][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-14.29.18:462][414]LogAIModule: Creating AISystem for world TestLevel
+[2023.11.27-14.29.18:464][414]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Tower'
+[2023.11.27-14.29.18:464][414]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Gun'
+[2023.11.27-14.29.18:471][414]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Tower'
+[2023.11.27-14.29.18:471][414]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Gun'
+[2023.11.27-14.29.18:471][414]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Tower'
+[2023.11.27-14.29.18:471][414]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Kvik/KvikSave/TestLevel.TestLevel:PersistentLevel.Kv_BTR_2_Pawn_C_1.Gun'
+[2023.11.27-14.29.18:473][414]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.27-14.29.18:508][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.27-14.29.18:518][414]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.27-14.29.18:518][414]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2023.11.27-14.29.18:518][414]LogFileHelpers: Loading map 'TestLevel' took 0.200
+[2023.11.27-14.29.20:151][598]LogViewport: Scene viewport resized to 905x222, mode Windowed.
+[2023.11.27-14.29.20:191][601]LogViewport: Scene viewport resized to 905x247, mode Windowed.
+[2023.11.27-14.29.20:229][603]LogViewport: Scene viewport resized to 905x304, mode Windowed.
+[2023.11.27-14.29.20:290][607]LogViewport: Scene viewport resized to 905x376, mode Windowed.
+[2023.11.27-14.29.20:325][609]LogViewport: Scene viewport resized to 905x404, mode Windowed.
+[2023.11.27-14.29.20:365][611]LogViewport: Scene viewport resized to 905x416, mode Windowed.
+[2023.11.27-14.29.20:405][613]LogViewport: Scene viewport resized to 905x427, mode Windowed.
+[2023.11.27-14.29.20:448][616]LogViewport: Scene viewport resized to 905x445, mode Windowed.
+[2023.11.27-14.29.20:486][618]LogViewport: Scene viewport resized to 905x467, mode Windowed.
+[2023.11.27-14.29.20:523][620]LogViewport: Scene viewport resized to 905x525, mode Windowed.
+[2023.11.27-14.29.20:563][622]LogViewport: Scene viewport resized to 905x577, mode Windowed.
+[2023.11.27-14.29.21:656][731]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.27-14.29.21:663][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-14.29.21:663][731]PIE: New page: PIE session: TestLevel (Nov 27, 2023, 6:29:21 PM)
+[2023.11.27-14.29.21:694][731]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_TestLevel
+[2023.11.27-14.29.21:698][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003965s)
+[2023.11.27-14.29.21:698][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/TestLevel.TestLevel to /Game/Kvik/KvikSave/UEDPIE_0_TestLevel.TestLevel (0.004085s)
+[2023.11.27-14.29.21:698][731]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.27-14.29.21:698][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-14.29.21:698][731]LogAIModule: Creating AISystem for world TestLevel
+[2023.11.27-14.29.21:698][731]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2023.11.27-14.29.21:733][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.27-14.29.21:734][731]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.11.27-14.29.21:734][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-14.29.21:734][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-14.29.21:734][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-14.29.21:734][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-14.29.21:734][731]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.27-14.29.21:734][731]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-14.29.21:734][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.27-14.29.21:734][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-14.29.21:735][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-14.29.21:735][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-14.29.21:735][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-14.29.21:737][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-14.29.21:766][731]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.27-14.29.21:767][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-14.29.21:767][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-14.29.21:767][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-14.29.21:767][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.11.27-14.29.21:767][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.11.27-14.29.21:769][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.11.27-14.29.21:769][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.11.27-14.29.21:769][731]LogInit: FAudioDevice initialized.
+[2023.11.27-14.29.21:769][731]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestLevel'.
+[2023.11.27-14.29.21:785][731]LogLoad: Game class is 'Kv_Man_Mod_C'
+[2023.11.27-14.29.21:787][731]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.11.27-16.29.21
+[2023.11.27-14.29.21:787][731]LogWorld: Bringing up level for play took: 0.002129
+[2023.11.27-14.29.21:789][731]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.11.27-14.29.21:795][731]PIE: Server logged in
+[2023.11.27-14.29.21:796][731]PIE: Play in editor total start time 0.133 seconds.
+[2023.11.27-14.29.52:784][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-14.29.52:784][427]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_TestLevel
+[2023.11.27-14.29.52:784][427]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-14.29.52:785][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-14.29.52:796][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-14.29.52:801][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-14.29.52:834][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-14.29.52:834][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.11.27-14.29.52:836][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.11.27-14.29.52:843][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.27-14.29.52:871][428]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.11.27-14.30.07:943][ 10]LogViewport: Scene viewport resized to 285x182, mode Windowed.
+[2023.11.27-14.30.12:212][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.27-14.30.12:219][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-14.30.12:219][289]PIE: New page: PIE session: TestLevel (Nov 27, 2023, 6:30:12 PM)
+[2023.11.27-14.30.12:219][289]LogPlayLevel: Creating play world package: /Game/Kvik/KvikSave/UEDPIE_0_TestLevel
+[2023.11.27-14.30.12:224][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004403s)
+[2023.11.27-14.30.12:224][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Kvik/KvikSave/TestLevel.TestLevel to /Game/Kvik/KvikSave/UEDPIE_0_TestLevel.TestLevel (0.004493s)
+[2023.11.27-14.30.12:224][289]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.27-14.30.12:224][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-14.30.12:225][289]LogAIModule: Creating AISystem for world TestLevel
+[2023.11.27-14.30.12:225][289]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2023.11.27-14.30.12:258][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.27-14.30.12:260][289]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.11.27-14.30.12:260][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-14.30.12:260][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-14.30.12:260][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-14.30.12:260][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-14.30.12:260][289]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.27-14.30.12:260][289]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-14.30.12:260][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.27-14.30.12:260][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-14.30.12:261][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-14.30.12:261][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-14.30.12:261][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-14.30.12:262][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-14.30.12:291][289]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.11.27-14.30.12:291][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-14.30.12:291][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-14.30.12:291][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-14.30.12:291][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.11.27-14.30.12:292][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.11.27-14.30.12:294][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.11.27-14.30.12:294][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.11.27-14.30.12:294][289]LogInit: FAudioDevice initialized.
+[2023.11.27-14.30.12:294][289]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestLevel'.
+[2023.11.27-14.30.12:306][289]LogLoad: Game class is 'Kv_Man_Mod_C'
+[2023.11.27-14.30.12:308][289]LogWorld: Bringing World /Game/Kvik/KvikSave/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.11.27-16.30.12
+[2023.11.27-14.30.12:308][289]LogWorld: Bringing up level for play took: 0.001867
+[2023.11.27-14.30.12:311][289]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.11.27-14.30.12:315][289]PIE: Server logged in
+[2023.11.27-14.30.12:316][289]PIE: Play in editor total start time 0.097 seconds.
+[2023.11.27-14.30.13:076][367]LogScript: Warning: UGameplayStatics::SpawnDecalAttached: NULL AttachComponent specified!
+[2023.11.27-14.30.13:077][367]LogScript: Warning: Accessed None trying to read property HitObject
+	BP_Kv_PlayerHand_Pawn_C /Game/Kvik/KvikSave/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_Kv_PlayerHand_Pawn_C_0
+	Function /Game/Kvik/Kvik_Modes/Players/Player_Hand/Test_hand/BP_Kv_PlayerHand_Pawn.BP_Kv_PlayerHand_Pawn_C:ExecuteUbergraph_BP_Kv_PlayerHand_Pawn:1C8C
+[2023.11.27-14.30.13:078][367]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HitObject". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Kv Player Hand Pawn Blueprint:  BP_Kv_PlayerHand_Pawn
+[2023.11.27-14.30.13:078][367]LogScript: Warning: Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue
+	BP_Kv_PlayerHand_Pawn_C /Game/Kvik/KvikSave/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.BP_Kv_PlayerHand_Pawn_C_0
+	Function /Game/Kvik/Kvik_Modes/Players/Player_Hand/Test_hand/BP_Kv_PlayerHand_Pawn.BP_Kv_PlayerHand_Pawn_C:ExecuteUbergraph_BP_Kv_PlayerHand_Pawn:1CBF
+[2023.11.27-14.30.13:078][367]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Kv Player Hand Pawn Blueprint:  BP_Kv_PlayerHand_Pawn
+[2023.11.27-14.30.41:155][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-14.30.41:155][730]LogWorld: BeginTearingDown for /Game/Kvik/KvikSave/UEDPIE_0_TestLevel
+[2023.11.27-14.30.41:155][730]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-14.30.41:155][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-14.30.41:171][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-14.30.41:175][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-14.30.41:207][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-14.30.41:208][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.27-14.30.41:210][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.27-14.30.41:214][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-14.30.41:218][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.27-14.30.41:362][731]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.11.27-14.30.41:417][731]LogViewport: Scene viewport resized to 285x182, mode Windowed.
+[2023.11.27-14.30.50:873][236]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Kvik/Kvik_Modes/Players/Player_Hand/Test_hand/BP_Kv_PlayerHand_Pawn.BP_Kv_PlayerHand_Pawn
+[2023.11.27-14.30.50:873][236]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-14.36.58:357][416]BlueprintLog: New page: Compile BP_Kv_PlayerHand_Pawn
+[2023.11.27-14.36.58:891][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.27-14.37.00:818][503]LogPackageLocalizationCache: Processed 35 localized package path(s) for 1 prioritized culture(s) in 0.008013 seconds
+[2023.11.27-14.37.01:075][503]LogSavePackage: Moving output files for package: /Game/Kvik/Kvik_Modes/Players/Player_Hand/Test_hand/BP_Kv_PlayerHand_Pawn
+[2023.11.27-14.37.01:076][503]LogSavePackage: Moving '../../../../../../Users/obrie/Git/WarInUkraine/WarInUkraine/Saved/BP_Kv_PlayerHand_PawnAA3954304130CF6CE8799D8C916065CF.tmp' to '../../../../../../Users/obrie/Git/WarInUkraine/WarInUkraine/Content/Kvik/Kvik_Modes/Players/Player_Hand/Test_hand/BP_Kv_PlayerHand_Pawn.uasset'
+[2023.11.27-14.37.01:094][503]AssetCheck: New page: Asset Save: BP_Kv_PlayerHand_Pawn
+[2023.11.27-14.37.01:095][503]LogContentValidation: Display: Validating Blueprint /Game/Kvik/Kvik_Modes/Players/Player_Hand/Test_hand/BP_Kv_PlayerHand_Pawn.BP_Kv_PlayerHand_Pawn
+[2023.11.27-14.37.07:645][957]LogSlate: Window 'Message Log' being destroyed
+[2023.11.27-14.37.07:654][957]LogSlate: Window 'Message Log' being destroyed
